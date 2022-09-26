@@ -1,0 +1,1081 @@
+Session,matchId,roundId,groupId,clientId,Gender,Major,Grade,payoff,role,roleName,choice,choiceTime,equilibriumChoice,winningChoice
+USC-S1,3,0,0,1,F,Mechanical Engineering,YA,50,2,Player 3,2,6536,1,1
+USC-S1,3,0,0,4,F,Biology,YA,50,0,Player 1,2,18688,1,1
+USC-S1,3,0,0,6,M,Computer Science,YA,50,1,Player 2,1,22339,1,1
+USC-S1,3,0,1,2,F,Urban Studies and Planning,YA,50,1,Player 2,1,17519,1,1
+USC-S1,3,0,1,10,F,Computer Science,YA,50,2,Player 3,2,9937,1,1
+USC-S1,3,0,1,11,M,Theatre,YA,50,0,Player 1,2,8908,1,1
+USC-S1,3,0,2,3,M,Electrical Engineering,YA,50,2,Player 3,2,19343,1,1
+USC-S1,3,0,2,8,F,Political Science,YA,50,0,Player 1,2,12059,1,1
+USC-S1,3,0,2,9,M,International Relations ,YA,50,1,Player 2,1,16490,1,1
+USC-S1,3,0,3,0,F,Neuroscience,YA,50,0,Player 1,2,11872,1,1
+USC-S1,3,0,3,5,M,Computer Science and Business Administration,YA,20,2,Player 3,0,65254,0,0
+USC-S1,3,0,3,7,M,Neuroscience,YA,20,1,Player 2,1,29048,1,0
+USC-S1,4,0,0,0,F,Neuroscience,YA,50,1,Player 2,1,10764,1,1
+USC-S1,4,0,0,3,M,Electrical Engineering,YA,50,0,Player 1,1,44724,1,1
+USC-S1,4,0,0,7,M,Neuroscience,YA,50,2,Player 3,1,22152,1,1
+USC-S1,4,0,1,2,F,Urban Studies and Planning,YA,20,2,Player 3,0,10312,0,0
+USC-S1,4,0,1,4,F,Biology,YA,20,1,Player 2,1,7161,1,0
+USC-S1,4,0,1,5,M,Computer Science and Business Administration,YA,50,0,Player 1,1,45365,1,1
+USC-S1,4,0,2,1,F,Mechanical Engineering,YA,50,0,Player 1,1,6755,1,1
+USC-S1,4,0,2,9,M,International Relations ,YA,50,2,Player 3,1,9157,1,1
+USC-S1,4,0,2,11,M,Theatre,YA,50,1,Player 2,1,5959,1,1
+USC-S1,4,0,3,6,M,Computer Science,YA,50,2,Player 3,1,7519,1,1
+USC-S1,4,0,3,8,F,Political Science,YA,50,1,Player 2,1,10187,1,1
+USC-S1,4,0,3,10,F,Computer Science,YA,50,0,Player 1,1,31777,1,1
+USC-S1,5,0,0,0,F,Neuroscience,YA,50,2,Player 3,0,3604,1,1
+USC-S1,5,0,0,2,F,Urban Studies and Planning,YA,50,0,Player 1,2,10874,1,1
+USC-S1,5,0,0,10,F,Computer Science,YA,50,1,Player 2,2,18252,1,1
+USC-S1,5,0,1,1,F,Mechanical Engineering,YA,50,1,Player 2,2,7441,1,1
+USC-S1,5,0,1,4,F,Biology,YA,50,2,Player 3,0,5054,1,1
+USC-S1,5,0,1,6,M,Computer Science,YA,50,0,Player 1,2,22043,1,1
+USC-S1,5,0,2,5,M,Computer Science and Business Administration,YA,20,1,Player 2,0,37565,0,0
+USC-S1,5,0,2,7,M,Neuroscience,YA,20,0,Player 1,2,21668,1,0
+USC-S1,5,0,2,8,F,Political Science,YA,50,2,Player 3,0,5787,1,1
+USC-S1,5,0,3,3,M,Electrical Engineering,YA,50,1,Player 2,2,17222,1,1
+USC-S1,5,0,3,9,M,International Relations ,YA,50,0,Player 1,2,15537,1,1
+USC-S1,5,0,3,11,M,Theatre,YA,50,2,Player 3,0,3120,1,1
+USC-S1,6,0,0,2,F,Urban Studies and Planning,YA,50,1,Player 2,0,11045,1,1
+USC-S1,6,0,0,5,M,Computer Science and Business Administration,YA,50,2,Player 3,2,12106,1,1
+USC-S1,6,0,0,8,F,Political Science,YA,50,0,Player 1,0,11123,1,1
+USC-S1,6,0,1,3,M,Electrical Engineering,YA,50,2,Player 3,2,12152,1,1
+USC-S1,6,0,1,4,F,Biology,YA,50,0,Player 1,0,9484,1,1
+USC-S1,6,0,1,7,M,Neuroscience,YA,50,1,Player 2,0,20249,1,1
+USC-S1,6,0,2,1,F,Mechanical Engineering,YA,50,2,Player 3,2,4509,1,1
+USC-S1,6,0,2,9,M,International Relations ,YA,50,1,Player 2,0,15225,1,1
+USC-S1,6,0,2,11,M,Theatre,YA,50,0,Player 1,0,6162,1,1
+USC-S1,6,0,3,0,F,Neuroscience,YA,50,0,Player 1,0,10452,1,1
+USC-S1,6,0,3,6,M,Computer Science,YA,50,1,Player 2,0,21091,1,1
+USC-S1,6,0,3,10,F,Computer Science,YA,50,2,Player 3,2,6069,1,1
+USC-S1,7,0,0,3,M,Electrical Engineering,YA,50,0,Player 1,0,16832,1,1
+USC-S1,7,0,0,4,F,Biology,YA,50,1,Player 2,0,7519,1,1
+USC-S1,7,0,0,6,M,Computer Science,YA,50,2,Player 3,0,9017,1,1
+USC-S1,7,0,1,5,M,Computer Science and Business Administration,YA,50,0,Player 1,0,57002,1,1
+USC-S1,7,0,1,7,M,Neuroscience,YA,50,2,Player 3,0,9656,1,1
+USC-S1,7,0,1,8,F,Political Science,YA,50,1,Player 2,0,12948,1,1
+USC-S1,7,0,2,0,F,Neuroscience,YA,50,1,Player 2,0,7722,1,1
+USC-S1,7,0,2,2,F,Urban Studies and Planning,YA,50,2,Player 3,0,3931,1,1
+USC-S1,7,0,2,10,F,Computer Science,YA,50,0,Player 1,0,27206,1,1
+USC-S1,7,0,3,1,F,Mechanical Engineering,YA,50,0,Player 1,0,7956,1,1
+USC-S1,7,0,3,9,M,International Relations ,YA,50,2,Player 3,0,5413,1,1
+USC-S1,7,0,3,11,M,Theatre,YA,50,1,Player 2,0,4930,1,1
+USC-S1,8,0,0,4,F,Biology,YA,50,2,Player 3,2,4680,1,1
+USC-S1,8,0,0,5,M,Computer Science and Business Administration,YA,50,1,Player 2,0,21653,1,1
+USC-S1,8,0,0,7,M,Neuroscience,YA,50,0,Player 1,2,22106,1,1
+USC-S1,8,0,1,2,F,Urban Studies and Planning,YA,50,0,Player 1,2,14836,1,1
+USC-S1,8,0,1,10,F,Computer Science,YA,50,1,Player 2,0,22432,1,1
+USC-S1,8,0,1,11,M,Theatre,YA,50,2,Player 3,2,6365,1,1
+USC-S1,8,0,2,0,F,Neuroscience,YA,50,2,Player 3,2,6427,1,1
+USC-S1,8,0,2,1,F,Mechanical Engineering,YA,50,1,Player 2,0,5756,1,1
+USC-S1,8,0,2,6,M,Computer Science,YA,50,0,Player 1,2,9656,1,1
+USC-S1,8,0,3,3,M,Electrical Engineering,YA,50,1,Player 2,0,16005,1,1
+USC-S1,8,0,3,8,F,Political Science,YA,50,2,Player 3,2,5632,1,1
+USC-S1,8,0,3,9,M,International Relations ,YA,50,0,Player 1,2,10639,1,1
+USC-S1,9,0,0,0,F,Neuroscience,YA,50,0,Player 1,1,7176,1,1
+USC-S1,9,0,0,7,M,Neuroscience,YA,50,1,Player 2,0,15366,1,1
+USC-S1,9,0,0,10,F,Computer Science,YA,50,2,Player 3,0,9500,1,1
+USC-S1,9,0,1,2,F,Urban Studies and Planning,YA,50,1,Player 2,0,5866,1,1
+USC-S1,9,0,1,4,F,Biology,YA,50,0,Player 1,1,9594,1,1
+USC-S1,9,0,1,5,M,Computer Science and Business Administration,YA,50,2,Player 3,0,20998,1,1
+USC-S1,9,0,2,1,F,Mechanical Engineering,YA,50,2,Player 3,0,2996,1,1
+USC-S1,9,0,2,9,M,International Relations ,YA,50,1,Player 2,0,8736,1,1
+USC-S1,9,0,2,11,M,Theatre,YA,50,0,Player 1,1,6068,1,1
+USC-S1,9,0,3,3,M,Electrical Engineering,YA,50,2,Player 3,0,6099,1,1
+USC-S1,9,0,3,6,M,Computer Science,YA,50,1,Player 2,0,24305,1,1
+USC-S1,9,0,3,8,F,Political Science,YA,50,0,Player 1,1,11263,1,1
+USC-S1,10,0,0,3,M,Electrical Engineering,YA,50,0,Player 1,1,15756,1,1
+USC-S1,10,0,0,9,M,International Relations ,YA,50,2,Player 3,1,5289,1,1
+USC-S1,10,0,0,11,M,Theatre,YA,50,1,Player 2,2,4789,1,1
+USC-S1,10,0,1,4,F,Biology,YA,50,1,Player 2,2,5788,1,1
+USC-S1,10,0,1,5,M,Computer Science and Business Administration,YA,20,0,Player 1,0,5023,0,0
+USC-S1,10,0,1,7,M,Neuroscience,YA,50,2,Player 3,1,12932,1,1
+USC-S1,10,0,2,6,M,Computer Science,YA,50,2,Player 3,1,4773,1,1
+USC-S1,10,0,2,8,F,Political Science,YA,50,1,Player 2,2,7005,1,1
+USC-S1,10,0,2,10,F,Computer Science,YA,50,0,Player 1,1,19157,1,1
+USC-S1,10,0,3,0,F,Neuroscience,YA,50,1,Player 2,2,7737,1,1
+USC-S1,10,0,3,1,F,Mechanical Engineering,YA,50,0,Player 1,1,9407,1,1
+USC-S1,10,0,3,2,F,Urban Studies and Planning,YA,50,2,Player 3,1,3978,1,1
+USC-S1,11,0,0,3,M,Electrical Engineering,YA,50,1,Player 2,0,12979,1,1
+USC-S1,11,0,0,7,M,Neuroscience,YA,50,0,Player 1,1,17145,1,1
+USC-S1,11,0,0,8,F,Political Science,YA,50,2,Player 3,2,4773,1,1
+USC-S1,11,0,1,0,F,Neuroscience,YA,50,2,Player 3,2,3276,1,1
+USC-S1,11,0,1,2,F,Urban Studies and Planning,YA,50,0,Player 1,1,8782,1,1
+USC-S1,11,0,1,10,F,Computer Science,YA,50,1,Player 2,0,14133,1,1
+USC-S1,11,0,2,5,M,Computer Science and Business Administration,YA,20,1,Player 2,1,7941,0,0
+USC-S1,11,0,2,6,M,Computer Science,YA,20,0,Player 1,1,8580,1,0
+USC-S1,11,0,2,11,M,Theatre,YA,50,2,Player 3,2,3479,1,1
+USC-S1,11,0,3,1,F,Mechanical Engineering,YA,50,1,Player 2,0,5335,1,1
+USC-S1,11,0,3,4,F,Biology,YA,50,2,Player 3,2,3448,1,1
+USC-S1,11,0,3,9,M,International Relations ,YA,50,0,Player 1,1,9438,1,1
+USC-S1,12,0,0,2,F,Urban Studies and Planning,YA,50,1,Player 2,1,10249,1,1
+USC-S1,12,0,0,3,M,Electrical Engineering,YA,50,2,Player 3,2,7192,1,1
+USC-S1,12,0,0,11,M,Theatre,YA,50,0,Player 1,2,8003,1,1
+USC-S1,12,0,1,5,M,Computer Science and Business Administration,YA,50,2,Player 3,2,7129,1,1
+USC-S1,12,0,1,8,F,Political Science,YA,50,0,Player 1,2,9844,1,1
+USC-S1,12,0,1,9,M,International Relations ,YA,50,1,Player 2,1,11575,1,1
+USC-S1,12,0,2,1,F,Mechanical Engineering,YA,50,2,Player 3,2,3588,1,1
+USC-S1,12,0,2,4,F,Biology,YA,50,0,Player 1,2,7020,1,1
+USC-S1,12,0,2,7,M,Neuroscience,YA,50,1,Player 2,1,12605,1,1
+USC-S1,12,0,3,0,F,Neuroscience,YA,50,0,Player 1,2,9470,1,1
+USC-S1,12,0,3,6,M,Computer Science,YA,50,1,Player 2,1,9157,1,1
+USC-S1,12,0,3,10,F,Computer Science,YA,50,2,Player 3,2,4774,1,1
+USC-S1,13,0,0,1,F,Mechanical Engineering,YA,20,0,Player 1,0,6833,0,0
+USC-S1,13,0,0,2,F,Urban Studies and Planning,YA,50,2,Player 3,1,6817,1,1
+USC-S1,13,0,0,8,F,Political Science,YA,50,1,Player 2,1,6614,1,1
+USC-S1,13,0,1,3,M,Electrical Engineering,YA,50,0,Player 1,1,10920,1,1
+USC-S1,13,0,1,9,M,International Relations ,YA,50,2,Player 3,1,5616,1,1
+USC-S1,13,0,1,11,M,Theatre,YA,50,1,Player 2,1,4415,1,1
+USC-S1,13,0,2,4,F,Biology,YA,50,1,Player 2,1,4477,1,1
+USC-S1,13,0,2,6,M,Computer Science,YA,50,2,Player 3,1,4914,1,1
+USC-S1,13,0,2,10,F,Computer Science,YA,50,0,Player 1,1,11576,1,1
+USC-S1,13,0,3,0,F,Neuroscience,YA,50,1,Player 2,1,4992,1,1
+USC-S1,13,0,3,5,M,Computer Science and Business Administration,YA,20,0,Player 1,0,46410,0,0
+USC-S1,13,0,3,7,M,Neuroscience,YA,50,2,Player 3,1,5257,1,1
+USC-S1,14,0,0,4,F,Biology,YA,50,2,Player 3,0,3650,1,1
+USC-S1,14,0,0,5,M,Computer Science and Business Administration,YA,50,1,Player 2,2,23868,1,1
+USC-S1,14,0,0,7,M,Neuroscience,YA,50,0,Player 1,2,14726,1,1
+USC-S1,14,0,1,1,F,Mechanical Engineering,YA,50,1,Player 2,2,5304,1,1
+USC-S1,14,0,1,8,F,Political Science,YA,50,2,Player 3,0,4774,1,1
+USC-S1,14,0,1,9,M,International Relations ,YA,50,0,Player 1,2,10280,1,1
+USC-S1,14,0,2,2,F,Urban Studies and Planning,YA,50,0,Player 1,2,11076,1,1
+USC-S1,14,0,2,10,F,Computer Science,YA,50,1,Player 2,2,17378,1,1
+USC-S1,14,0,2,11,M,Theatre,YA,50,2,Player 3,0,3463,1,1
+USC-S1,14,0,3,0,F,Neuroscience,YA,50,2,Player 3,0,5522,1,1
+USC-S1,14,0,3,3,M,Electrical Engineering,YA,50,1,Player 2,2,7597,1,1
+USC-S1,14,0,3,6,M,Computer Science,YA,50,0,Player 1,2,10420,1,1
+USC-S1,15,0,0,2,F,Urban Studies and Planning,YA,50,1,Player 2,0,15460,1,1
+USC-S1,15,0,0,3,M,Electrical Engineering,YA,50,2,Player 3,2,4446,1,1
+USC-S1,15,0,0,11,M,Theatre,YA,50,0,Player 1,0,6287,1,1
+USC-S1,15,0,1,4,F,Biology,YA,50,0,Player 1,0,8034,1,1
+USC-S1,15,0,1,6,M,Computer Science,YA,50,1,Player 2,0,8081,1,1
+USC-S1,15,0,1,10,F,Computer Science,YA,50,2,Player 3,2,13229,1,1
+USC-S1,15,0,2,1,F,Mechanical Engineering,YA,50,2,Player 3,2,3369,1,1
+USC-S1,15,0,2,8,F,Political Science,YA,50,0,Player 1,0,16941,1,1
+USC-S1,15,0,2,9,M,International Relations ,YA,50,1,Player 2,0,8986,1,1
+USC-S1,15,0,3,0,F,Neuroscience,YA,50,0,Player 1,0,10967,1,1
+USC-S1,15,0,3,5,M,Computer Science and Business Administration,YA,50,2,Player 3,2,9204,1,1
+USC-S1,15,0,3,7,M,Neuroscience,YA,50,1,Player 2,0,9641,1,1
+USC-S1,16,0,0,2,F,Urban Studies and Planning,YA,50,2,Player 3,0,3400,1,1
+USC-S1,16,0,0,4,F,Biology,YA,50,1,Player 2,0,4867,1,1
+USC-S1,16,0,0,5,M,Computer Science and Business Administration,YA,20,0,Player 1,1,28407,0,0
+USC-S1,16,0,1,0,F,Neuroscience,YA,50,1,Player 2,0,4212,1,1
+USC-S1,16,0,1,6,M,Computer Science,YA,50,2,Player 3,0,4290,1,1
+USC-S1,16,0,1,10,F,Computer Science,YA,50,0,Player 1,0,18081,1,1
+USC-S1,16,0,2,1,F,Mechanical Engineering,YA,50,0,Player 1,0,7051,1,1
+USC-S1,16,0,2,8,F,Political Science,YA,50,1,Player 2,0,5881,1,1
+USC-S1,16,0,2,9,M,International Relations ,YA,50,2,Player 3,0,4571,1,1
+USC-S1,16,0,3,3,M,Electrical Engineering,YA,50,0,Player 1,0,6365,1,1
+USC-S1,16,0,3,7,M,Neuroscience,YA,50,2,Player 3,0,5288,1,1
+USC-S1,16,0,3,11,M,Theatre,YA,50,1,Player 2,0,5055,1,1
+USC-S1,17,0,0,1,F,Mechanical Engineering,YA,50,1,Player 2,0,5210,1,1
+USC-S1,17,0,0,6,M,Computer Science,YA,50,0,Player 1,2,12542,1,1
+USC-S1,17,0,0,11,M,Theatre,YA,50,2,Player 3,2,3338,1,1
+USC-S1,17,0,1,4,F,Biology,YA,50,2,Player 3,2,3650,1,1
+USC-S1,17,0,1,5,M,Computer Science and Business Administration,YA,50,1,Player 2,0,23525,1,1
+USC-S1,17,0,1,7,M,Neuroscience,YA,50,0,Player 1,2,13759,1,1
+USC-S1,17,0,2,0,F,Neuroscience,YA,50,2,Player 3,2,3884,1,1
+USC-S1,17,0,2,2,F,Urban Studies and Planning,YA,50,0,Player 1,2,9750,1,1
+USC-S1,17,0,2,10,F,Computer Science,YA,50,1,Player 2,0,17815,1,1
+USC-S1,17,0,3,3,M,Electrical Engineering,YA,50,1,Player 2,0,8128,1,1
+USC-S1,17,0,3,8,F,Political Science,YA,50,2,Player 3,2,3572,1,1
+USC-S1,17,0,3,9,M,International Relations ,YA,50,0,Player 1,2,11341,1,1
+USC-S1,18,0,0,4,F,Biology,YA,50,0,Player 1,1,5569,1,1
+USC-S1,18,0,0,5,M,Computer Science and Business Administration,YA,50,2,Player 3,0,12823,1,1
+USC-S1,18,0,0,7,M,Neuroscience,YA,50,1,Player 2,0,21060,1,1
+USC-S1,18,0,1,3,M,Electrical Engineering,YA,50,2,Player 3,0,5569,1,1
+USC-S1,18,0,1,8,F,Political Science,YA,50,0,Player 1,1,9641,1,1
+USC-S1,18,0,1,9,M,International Relations ,YA,50,1,Player 2,0,9313,1,1
+USC-S1,18,0,2,1,F,Mechanical Engineering,YA,50,2,Player 3,0,3931,1,1
+USC-S1,18,0,2,2,F,Urban Studies and Planning,YA,50,1,Player 2,0,10327,1,1
+USC-S1,18,0,2,11,M,Theatre,YA,50,0,Player 1,1,7051,1,1
+USC-S1,18,0,3,0,F,Neuroscience,YA,50,0,Player 1,1,8034,1,1
+USC-S1,18,0,3,6,M,Computer Science,YA,50,1,Player 2,0,6770,1,1
+USC-S1,18,0,3,10,F,Computer Science,YA,50,2,Player 3,0,6053,1,1
+USC-S1,19,0,0,2,F,Urban Studies and Planning,YA,50,2,Player 3,1,3338,1,1
+USC-S1,19,0,0,5,M,Computer Science and Business Administration,YA,50,0,Player 1,1,16193,1,1
+USC-S1,19,0,0,8,F,Political Science,YA,50,1,Player 2,2,8003,1,1
+USC-S1,19,0,1,1,F,Mechanical Engineering,YA,50,0,Player 1,1,6926,1,1
+USC-S1,19,0,1,4,F,Biology,YA,50,1,Player 2,2,4992,1,1
+USC-S1,19,0,1,7,M,Neuroscience,YA,50,2,Player 3,1,5242,1,1
+USC-S1,19,0,2,0,F,Neuroscience,YA,50,1,Player 2,2,24118,1,1
+USC-S1,19,0,2,6,M,Computer Science,YA,50,2,Player 3,1,4243,1,1
+USC-S1,19,0,2,10,F,Computer Science,YA,50,0,Player 1,1,16832,1,1
+USC-S1,19,0,3,3,M,Electrical Engineering,YA,50,0,Player 1,1,7941,1,1
+USC-S1,19,0,3,9,M,International Relations ,YA,50,2,Player 3,1,5133,1,1
+USC-S1,19,0,3,11,M,Theatre,YA,50,1,Player 2,2,4321,1,1
+USC-S1,20,0,0,3,M,Electrical Engineering,YA,50,1,Player 2,0,5569,1,1
+USC-S1,20,0,0,6,M,Computer Science,YA,50,0,Player 1,1,11232,1,1
+USC-S1,20,0,0,8,F,Political Science,YA,50,2,Player 3,2,4149,1,1
+USC-S1,20,0,1,4,F,Biology,YA,50,2,Player 3,2,3557,1,1
+USC-S1,20,0,1,7,M,Neuroscience,YA,50,0,Player 1,1,18096,1,1
+USC-S1,20,0,1,10,F,Computer Science,YA,50,1,Player 2,0,16178,1,1
+USC-S1,20,0,2,2,F,Urban Studies and Planning,YA,50,0,Player 1,1,6958,1,1
+USC-S1,20,0,2,5,M,Computer Science and Business Administration,YA,50,1,Player 2,0,16286,1,1
+USC-S1,20,0,2,11,M,Theatre,YA,50,2,Player 3,2,3229,1,1
+USC-S1,20,0,3,0,F,Neuroscience,YA,50,2,Player 3,2,4524,1,1
+USC-S1,20,0,3,1,F,Mechanical Engineering,YA,50,1,Player 2,0,5367,1,1
+USC-S1,20,0,3,9,M,International Relations ,YA,50,0,Player 1,1,9781,1,1
+USC-S2,3,0,0,2,F,Data Informatics,YA,20,1,Player 2,0,28704,0,0
+USC-S2,3,0,0,8,M,Business Administration,YA,20,0,Player 1,2,21013,1,0
+USC-S2,3,0,0,10,M,Economics,YA,50,2,Player 3,2,7113,1,1
+USC-S2,3,0,1,0,M,Computer Science,YA,20,0,Player 1,1,8768,0,0
+USC-S2,3,0,1,5,F,Human Biology,YA,50,2,Player 3,2,8003,1,1
+USC-S2,3,0,1,9,F,Computational Linguistics,YA,50,1,Player 2,1,10895,1,1
+USC-S2,3,0,2,1,F,Public Health,YA,50,1,Player 2,1,10780,1,1
+USC-S2,3,0,2,6,F,Economics/Mathematics,YA,50,2,Player 3,2,11341,1,1
+USC-S2,3,0,2,11,F,Electrical Engineering,YA,50,0,Player 1,2,25584,1,1
+USC-S2,3,0,3,3,F,Business Administration,YA,50,2,Player 3,2,12808,1,1
+USC-S2,3,0,3,4,F,MBA,YA,50,0,Player 1,2,25116,1,1
+USC-S2,3,0,3,7,M,Music Industry,YA,50,1,Player 2,1,20748,1,1
+USC-S2,4,0,0,1,F,Public Health,YA,50,2,Player 3,1,6973,1,1
+USC-S2,4,0,0,4,F,MBA,YA,50,1,Player 2,1,13712,1,1
+USC-S2,4,0,0,6,F,Economics/Mathematics,YA,50,0,Player 1,1,18548,1,1
+USC-S2,4,0,1,0,M,Computer Science,YA,50,1,Player 2,1,11669,1,1
+USC-S2,4,0,1,9,F,Computational Linguistics,YA,50,2,Player 3,1,3865,1,1
+USC-S2,4,0,1,10,M,Economics,YA,50,0,Player 1,1,9703,1,1
+USC-S2,4,0,2,2,F,Data Informatics,YA,50,2,Player 3,1,19360,1,1
+USC-S2,4,0,2,3,F,Business Administration,YA,20,0,Player 1,2,13478,0,0
+USC-S2,4,0,2,11,F,Electrical Engineering,YA,50,1,Player 2,1,23619,1,1
+USC-S2,4,0,3,5,F,Human Biology,YA,50,0,Player 1,1,16739,1,1
+USC-S2,4,0,3,7,M,Music Industry,YA,50,2,Player 3,1,7145,1,1
+USC-S2,4,0,3,8,M,Business Administration,YA,50,1,Player 2,1,21122,1,1
+USC-S2,5,0,0,0,M,Computer Science,YA,50,2,Player 3,0,3759,1,1
+USC-S2,5,0,0,2,F,Data Informatics,YA,20,0,Player 1,2,9969,1,0
+USC-S2,5,0,0,3,F,Business Administration,YA,20,1,Player 2,1,26520,0,0
+USC-S2,5,0,1,1,F,Public Health,YA,20,0,Player 1,0,6037,0,0
+USC-S2,5,0,1,6,F,Economics/Mathematics,YA,50,1,Player 2,2,10312,1,1
+USC-S2,5,0,1,11,F,Electrical Engineering,YA,50,2,Player 3,0,12917,1,1
+USC-S2,5,0,2,8,M,Business Administration,YA,50,2,Player 3,0,13245,1,1
+USC-S2,5,0,2,9,F,Computational Linguistics,YA,50,0,Player 1,2,10100,1,1
+USC-S2,5,0,2,10,M,Economics,YA,50,1,Player 2,2,8455,1,1
+USC-S2,5,0,3,4,F,MBA,YA,50,2,Player 3,0,12616,1,1
+USC-S2,5,0,3,5,F,Human Biology,YA,50,1,Player 2,2,15491,1,1
+USC-S2,5,0,3,7,M,Music Industry,YA,50,0,Player 1,2,7800,1,1
+USC-S2,6,0,0,0,M,Computer Science,YA,50,0,Player 1,0,9329,1,1
+USC-S2,6,0,0,6,F,Economics/Mathematics,YA,50,2,Player 3,2,6864,1,1
+USC-S2,6,0,0,9,F,Computational Linguistics,YA,50,1,Player 2,0,4629,1,1
+USC-S2,6,0,1,1,F,Public Health,YA,20,1,Player 2,1,5039,0,0
+USC-S2,6,0,1,3,F,Business Administration,YA,50,2,Player 3,2,5928,1,1
+USC-S2,6,0,1,8,M,Business Administration,YA,20,0,Player 1,0,12418,1,0
+USC-S2,6,0,2,2,F,Data Informatics,YA,20,1,Player 2,1,9064,0,0
+USC-S2,6,0,2,10,M,Economics,YA,50,2,Player 3,2,3463,1,1
+USC-S2,6,0,2,11,F,Electrical Engineering,YA,20,0,Player 1,0,19921,1,0
+USC-S2,6,0,3,4,F,MBA,YA,50,0,Player 1,0,18574,1,1
+USC-S2,6,0,3,5,F,Human Biology,YA,50,2,Player 3,2,5991,1,1
+USC-S2,6,0,3,7,M,Music Industry,YA,50,1,Player 2,0,6006,1,1
+USC-S2,7,0,0,2,F,Data Informatics,YA,50,2,Player 3,0,5132,1,1
+USC-S2,7,0,0,5,F,Human Biology,YA,50,0,Player 1,0,14133,1,1
+USC-S2,7,0,0,11,F,Electrical Engineering,YA,50,1,Player 2,0,17378,1,1
+USC-S2,7,0,1,4,F,MBA,YA,50,1,Player 2,0,15658,1,1
+USC-S2,7,0,1,7,M,Music Industry,YA,50,2,Player 3,0,3775,1,1
+USC-S2,7,0,1,10,M,Economics,YA,50,0,Player 1,0,11544,1,1
+USC-S2,7,0,2,1,F,Public Health,YA,20,2,Player 3,1,2730,0,0
+USC-S2,7,0,2,6,F,Economics/Mathematics,YA,50,0,Player 1,0,18392,1,1
+USC-S2,7,0,2,8,M,Business Administration,YA,20,1,Player 2,0,16302,1,0
+USC-S2,7,0,3,0,M,Computer Science,YA,50,1,Player 2,0,19656,1,1
+USC-S2,7,0,3,3,F,Business Administration,YA,20,0,Player 1,2,14757,0,0
+USC-S2,7,0,3,9,F,Computational Linguistics,YA,50,2,Player 3,0,2946,1,1
+USC-S2,8,0,0,5,F,Human Biology,YA,50,1,Player 2,0,14804,1,1
+USC-S2,8,0,0,8,M,Business Administration,YA,50,2,Player 3,2,11294,1,1
+USC-S2,8,0,0,9,F,Computational Linguistics,YA,50,0,Player 1,2,10520,1,1
+USC-S2,8,0,1,0,M,Computer Science,YA,50,2,Player 3,2,3869,1,1
+USC-S2,8,0,1,7,M,Music Industry,YA,50,0,Player 1,2,6006,1,1
+USC-S2,8,0,1,10,M,Economics,YA,50,1,Player 2,0,14290,1,1
+USC-S2,8,0,2,1,F,Public Health,YA,50,0,Player 1,1,10967,0,1
+USC-S2,8,0,2,3,F,Business Administration,YA,20,1,Player 2,1,12885,0,0
+USC-S2,8,0,2,11,F,Electrical Engineering,YA,50,2,Player 3,2,4493,1,1
+USC-S2,8,0,3,2,F,Data Informatics,YA,20,0,Player 1,0,8799,0,0
+USC-S2,8,0,3,4,F,MBA,YA,50,2,Player 3,2,19618,1,1
+USC-S2,8,0,3,6,F,Economics/Mathematics,YA,50,1,Player 2,0,10670,1,1
+USC-S2,9,0,0,0,M,Computer Science,YA,20,0,Player 1,1,13775,1,0
+USC-S2,9,0,0,2,F,Data Informatics,YA,20,1,Player 2,1,5164,0,0
+USC-S2,9,0,0,3,F,Business Administration,YA,50,2,Player 3,0,5601,1,1
+USC-S2,9,0,1,4,F,MBA,YA,50,0,Player 1,1,17716,1,1
+USC-S2,9,0,1,5,F,Human Biology,YA,50,2,Player 3,0,5039,1,1
+USC-S2,9,0,1,7,M,Music Industry,YA,50,1,Player 2,0,13541,1,1
+USC-S2,9,0,2,6,F,Economics/Mathematics,YA,50,2,Player 3,0,7130,1,1
+USC-S2,9,0,2,8,M,Business Administration,YA,50,0,Player 1,1,9297,1,1
+USC-S2,9,0,2,9,F,Computational Linguistics,YA,50,1,Player 2,0,5502,1,1
+USC-S2,9,0,3,1,F,Public Health,YA,20,1,Player 2,1,18688,0,0
+USC-S2,9,0,3,10,M,Economics,YA,50,2,Player 3,0,5507,1,1
+USC-S2,9,0,3,11,F,Electrical Engineering,YA,20,0,Player 1,1,12542,1,0
+USC-S2,10,0,0,2,F,Data Informatics,YA,50,2,Player 3,1,4353,1,1
+USC-S2,10,0,0,4,F,MBA,YA,50,1,Player 2,2,8531,1,1
+USC-S2,10,0,0,6,F,Economics/Mathematics,YA,50,0,Player 1,1,15522,1,1
+USC-S2,10,0,1,0,M,Computer Science,YA,50,1,Player 2,2,12418,1,1
+USC-S2,10,0,1,5,F,Human Biology,YA,50,0,Player 1,1,15382,1,1
+USC-S2,10,0,1,9,F,Computational Linguistics,YA,50,2,Player 3,1,3896,1,1
+USC-S2,10,0,2,3,F,Business Administration,YA,20,0,Player 1,0,3900,0,0
+USC-S2,10,0,2,7,M,Music Industry,YA,50,2,Player 3,1,3947,1,1
+USC-S2,10,0,2,8,M,Business Administration,YA,50,1,Player 2,2,9532,1,1
+USC-S2,10,0,3,1,F,Public Health,YA,50,2,Player 3,1,4025,1,1
+USC-S2,10,0,3,10,M,Economics,YA,50,0,Player 1,1,9141,1,1
+USC-S2,10,0,3,11,F,Electrical Engineering,YA,50,1,Player 2,2,9844,1,1
+USC-S2,11,0,0,2,F,Data Informatics,YA,20,0,Player 1,0,7098,0,0
+USC-S2,11,0,0,5,F,Human Biology,YA,50,1,Player 2,0,10281,1,1
+USC-S2,11,0,0,11,F,Electrical Engineering,YA,50,2,Player 3,2,3853,1,1
+USC-S2,11,0,1,1,F,Public Health,YA,20,0,Player 1,1,11139,1,0
+USC-S2,11,0,1,3,F,Business Administration,YA,20,1,Player 2,2,15788,0,0
+USC-S2,11,0,1,4,F,MBA,YA,50,2,Player 3,2,9061,1,1
+USC-S2,11,0,2,8,M,Business Administration,YA,50,2,Player 3,2,18392,1,1
+USC-S2,11,0,2,9,F,Computational Linguistics,YA,50,0,Player 1,1,9414,1,1
+USC-S2,11,0,2,10,M,Economics,YA,50,1,Player 2,0,6021,1,1
+USC-S2,11,0,3,0,M,Computer Science,YA,50,2,Player 3,2,3229,1,1
+USC-S2,11,0,3,6,F,Economics/Mathematics,YA,50,1,Player 2,0,11061,1,1
+USC-S2,11,0,3,7,M,Music Industry,YA,50,0,Player 1,1,7706,1,1
+USC-S2,12,0,0,4,F,MBA,YA,50,0,Player 1,2,9637,1,1
+USC-S2,12,0,0,7,M,Music Industry,YA,50,1,Player 2,1,9329,1,1
+USC-S2,12,0,0,10,M,Economics,YA,50,2,Player 3,2,4945,1,1
+USC-S2,12,0,1,0,M,Computer Science,YA,50,0,Player 1,2,9968,1,1
+USC-S2,12,0,1,1,F,Public Health,YA,50,1,Player 2,1,6240,1,1
+USC-S2,12,0,1,6,F,Economics/Mathematics,YA,50,2,Player 3,2,5943,1,1
+USC-S2,12,0,2,2,F,Data Informatics,YA,20,1,Player 2,2,5476,0,0
+USC-S2,12,0,2,5,F,Human Biology,YA,50,2,Player 3,2,3822,1,1
+USC-S2,12,0,2,11,F,Electrical Engineering,YA,20,0,Player 1,2,16443,1,0
+USC-S2,12,0,3,3,F,Business Administration,YA,50,2,Player 3,2,7113,1,1
+USC-S2,12,0,3,8,M,Business Administration,YA,50,0,Player 1,2,11637,1,1
+USC-S2,12,0,3,9,F,Computational Linguistics,YA,50,1,Player 2,1,4161,1,1
+USC-S2,13,0,0,0,M,Computer Science,YA,50,1,Player 2,1,6645,1,1
+USC-S2,13,0,0,7,M,Music Industry,YA,50,2,Player 3,1,4321,1,1
+USC-S2,13,0,0,10,M,Economics,YA,50,0,Player 1,1,12948,1,1
+USC-S2,13,0,1,6,F,Economics/Mathematics,YA,50,0,Player 1,1,9797,1,1
+USC-S2,13,0,1,8,M,Business Administration,YA,50,1,Player 2,1,11451,1,1
+USC-S2,13,0,1,9,F,Computational Linguistics,YA,50,2,Player 3,1,4722,1,1
+USC-S2,13,0,2,1,F,Public Health,YA,50,2,Player 3,1,3604,1,1
+USC-S2,13,0,2,5,F,Human Biology,YA,50,0,Player 1,1,12651,1,1
+USC-S2,13,0,2,11,F,Electrical Engineering,YA,50,1,Player 2,1,7862,1,1
+USC-S2,13,0,3,2,F,Data Informatics,YA,50,2,Player 3,1,3916,1,1
+USC-S2,13,0,3,3,F,Business Administration,YA,20,0,Player 1,2,21622,0,0
+USC-S2,13,0,3,4,F,MBA,YA,50,1,Player 2,1,16904,1,1
+USC-S2,14,0,0,5,F,Human Biology,YA,50,1,Player 2,2,8377,1,1
+USC-S2,14,0,0,7,M,Music Industry,YA,50,0,Player 1,2,6817,1,1
+USC-S2,14,0,0,8,M,Business Administration,YA,50,2,Player 3,0,15163,1,1
+USC-S2,14,0,1,2,F,Data Informatics,YA,50,0,Player 1,2,4228,1,1
+USC-S2,14,0,1,6,F,Economics/Mathematics,YA,50,1,Player 2,2,13400,1,1
+USC-S2,14,0,1,11,F,Electrical Engineering,YA,50,2,Player 3,0,4212,1,1
+USC-S2,14,0,2,3,F,Business Administration,YA,20,1,Player 2,0,3915,0,0
+USC-S2,14,0,2,4,F,MBA,YA,50,2,Player 3,0,8312,1,1
+USC-S2,14,0,2,9,F,Computational Linguistics,YA,20,0,Player 1,2,5907,1,0
+USC-S2,14,0,3,0,M,Computer Science,YA,50,2,Player 3,0,3588,1,1
+USC-S2,14,0,3,1,F,Public Health,YA,50,0,Player 1,2,6989,1,1
+USC-S2,14,0,3,10,M,Economics,YA,50,1,Player 2,2,5896,1,1
+USC-S2,15,0,0,0,M,Computer Science,YA,50,0,Player 1,0,6490,1,1
+USC-S2,15,0,0,3,F,Business Administration,YA,50,2,Player 3,2,7067,1,1
+USC-S2,15,0,0,7,M,Music Industry,YA,50,1,Player 2,0,5288,1,1
+USC-S2,15,0,1,1,F,Public Health,YA,50,1,Player 2,0,5460,1,1
+USC-S2,15,0,1,10,M,Economics,YA,50,2,Player 3,2,3526,1,1
+USC-S2,15,0,1,11,F,Electrical Engineering,YA,50,0,Player 1,0,9937,1,1
+USC-S2,15,0,2,5,F,Human Biology,YA,50,2,Player 3,2,3915,1,1
+USC-S2,15,0,2,8,M,Business Administration,YA,50,0,Player 1,0,15787,1,1
+USC-S2,15,0,2,9,F,Computational Linguistics,YA,50,1,Player 2,0,4677,1,1
+USC-S2,15,0,3,2,F,Data Informatics,YA,20,1,Player 2,1,6271,0,0
+USC-S2,15,0,3,4,F,MBA,YA,50,0,Player 1,2,11727,0,1
+USC-S2,15,0,3,6,F,Economics/Mathematics,YA,50,2,Player 3,2,5289,1,1
+USC-S2,16,0,0,2,F,Data Informatics,YA,50,2,Player 3,0,3400,1,1
+USC-S2,16,0,0,5,F,Human Biology,YA,50,0,Player 1,0,16256,1,1
+USC-S2,16,0,0,8,M,Business Administration,YA,50,1,Player 2,0,14601,1,1
+USC-S2,16,0,1,1,F,Public Health,YA,50,2,Player 3,0,3479,1,1
+USC-S2,16,0,1,4,F,MBA,YA,50,1,Player 2,0,27292,1,1
+USC-S2,16,0,1,10,M,Economics,YA,50,0,Player 1,0,7566,1,1
+USC-S2,16,0,2,3,F,Business Administration,YA,20,0,Player 1,2,5819,0,0
+USC-S2,16,0,2,7,M,Music Industry,YA,50,2,Player 3,0,4196,1,1
+USC-S2,16,0,2,11,F,Electrical Engineering,YA,50,1,Player 2,0,4727,1,1
+USC-S2,16,0,3,0,M,Computer Science,YA,50,1,Player 2,0,8986,1,1
+USC-S2,16,0,3,6,F,Economics/Mathematics,YA,50,0,Player 1,0,14524,1,1
+USC-S2,16,0,3,9,F,Computational Linguistics,YA,50,2,Player 3,0,3431,1,1
+USC-S2,17,0,0,2,F,Data Informatics,YA,20,0,Player 1,0,4930,0,0
+USC-S2,17,0,0,4,F,MBA,YA,50,2,Player 3,2,6877,1,1
+USC-S2,17,0,0,10,M,Economics,YA,50,1,Player 2,0,9625,1,1
+USC-S2,17,0,1,6,F,Economics/Mathematics,YA,50,1,Player 2,0,10358,1,1
+USC-S2,17,0,1,8,M,Business Administration,YA,50,2,Player 3,2,19812,1,1
+USC-S2,17,0,1,9,F,Computational Linguistics,YA,50,0,Player 1,2,6986,1,1
+USC-S2,17,0,2,0,M,Computer Science,YA,50,2,Player 3,2,3338,1,1
+USC-S2,17,0,2,1,F,Public Health,YA,20,0,Player 1,2,7129,1,0
+USC-S2,17,0,2,3,F,Business Administration,YA,20,1,Player 2,1,7145,0,0
+USC-S2,17,0,3,5,F,Human Biology,YA,50,1,Player 2,0,13026,1,1
+USC-S2,17,0,3,7,M,Music Industry,YA,50,0,Player 1,2,7566,1,1
+USC-S2,17,0,3,11,F,Electrical Engineering,YA,50,2,Player 3,2,4243,1,1
+USC-S2,18,0,0,0,M,Computer Science,YA,20,0,Player 1,1,6802,1,0
+USC-S2,18,0,0,2,F,Data Informatics,YA,20,1,Player 2,1,5538,0,0
+USC-S2,18,0,0,6,F,Economics/Mathematics,YA,50,2,Player 3,0,4025,1,1
+USC-S2,18,0,1,4,F,MBA,YA,50,0,Player 1,1,25360,1,1
+USC-S2,18,0,1,5,F,Human Biology,YA,50,2,Player 3,0,4181,1,1
+USC-S2,18,0,1,7,M,Music Industry,YA,50,1,Player 2,0,9938,1,1
+USC-S2,18,0,2,9,F,Computational Linguistics,YA,50,1,Player 2,0,4554,1,1
+USC-S2,18,0,2,10,M,Economics,YA,50,2,Player 3,0,3245,1,1
+USC-S2,18,0,2,11,F,Electrical Engineering,YA,50,0,Player 1,1,6194,1,1
+USC-S2,18,0,3,1,F,Public Health,YA,50,1,Player 2,0,6723,1,1
+USC-S2,18,0,3,3,F,Business Administration,YA,50,2,Player 3,0,5788,1,1
+USC-S2,18,0,3,8,M,Business Administration,YA,50,0,Player 1,1,30014,1,1
+USC-S2,19,0,0,0,M,Computer Science,YA,50,1,Player 2,2,5725,1,1
+USC-S2,19,0,0,1,F,Public Health,YA,50,2,Player 3,1,3229,1,1
+USC-S2,19,0,0,5,F,Human Biology,YA,50,0,Player 1,1,14540,1,1
+USC-S2,19,0,1,2,F,Data Informatics,YA,50,2,Player 3,1,4602,1,1
+USC-S2,19,0,1,6,F,Economics/Mathematics,YA,50,0,Player 1,1,17098,1,1
+USC-S2,19,0,1,8,M,Business Administration,YA,50,1,Player 2,2,14961,1,1
+USC-S2,19,0,2,4,F,MBA,YA,50,1,Player 2,2,24817,1,1
+USC-S2,19,0,2,9,F,Computational Linguistics,YA,50,2,Player 3,1,2839,1,1
+USC-S2,19,0,2,10,M,Economics,YA,50,0,Player 1,1,11653,1,1
+USC-S2,19,0,3,3,F,Business Administration,YA,20,0,Player 1,0,5757,0,0
+USC-S2,19,0,3,7,M,Music Industry,YA,50,2,Player 3,1,8985,1,1
+USC-S2,19,0,3,11,F,Electrical Engineering,YA,50,1,Player 2,2,6739,1,1
+USC-S2,20,0,0,5,F,Human Biology,YA,50,1,Player 2,0,11653,1,1
+USC-S2,20,0,0,9,F,Computational Linguistics,YA,50,0,Player 1,1,5442,1,1
+USC-S2,20,0,0,11,F,Electrical Engineering,YA,50,2,Player 3,2,4726,1,1
+USC-S2,20,0,1,0,M,Computer Science,YA,50,2,Player 3,2,3838,1,1
+USC-S2,20,0,1,2,F,Data Informatics,YA,20,0,Player 1,2,8455,0,0
+USC-S2,20,0,1,6,F,Economics/Mathematics,YA,50,1,Player 2,0,10452,1,1
+USC-S2,20,0,2,4,F,MBA,YA,50,2,Player 3,2,10155,1,1
+USC-S2,20,0,2,7,M,Music Industry,YA,50,0,Player 1,1,14804,1,1
+USC-S2,20,0,2,10,M,Economics,YA,50,1,Player 2,0,8361,1,1
+USC-S2,20,0,3,1,F,Public Health,YA,20,0,Player 1,1,6755,1,0
+USC-S2,20,0,3,3,F,Business Administration,YA,20,1,Player 2,2,7956,0,0
+USC-S2,20,0,3,8,M,Business Administration,YA,50,2,Player 3,2,13603,1,1
+USC-S3,3,0,0,0,F,Accounting; Business Administration,YA,50,2,Player 3,2,6240,1,1
+USC-S3,3,0,0,6,M,BA Neuroscience & BS Health Promotion ,YA,50,1,Player 2,1,11356,1,1
+USC-S3,3,0,0,9,F,Computer Science,YA,50,0,Player 1,2,12371,1,1
+USC-S3,3,0,1,4,F,Theatre,YA,50,2,Player 3,2,11232,1,1
+USC-S3,3,0,1,8,M,Electrical Engineering,YA,20,0,Player 1,1,7816,0,0
+USC-S3,3,0,1,10,f,international relations & NGO and Social change,YA,50,1,Player 2,1,18127,1,1
+USC-S3,3,0,2,2,M,n/a,YA,20,1,Player 2,1,11404,1,0
+USC-S3,3,0,2,3,M,Computer Engineering,YA,20,2,Player 3,0,8034,0,0
+USC-S3,3,0,2,7,F,Linguistics / Communication,YA,50,0,Player 1,2,18907,1,1
+USC-S3,3,0,3,1,F,Physical Therapy,YA,50,2,Player 3,2,10717,1,1
+USC-S3,3,0,3,5,M,Accounting,YA,20,1,Player 2,0,72212,0,0
+USC-S3,3,0,3,11,F,Psychology; Neuroscience,YA,20,0,Player 1,2,12574,1,0
+USC-S3,4,0,0,3,M,Computer Engineering,YA,20,0,Player 1,0,12558,0,0
+USC-S3,4,0,0,6,M,BA Neuroscience & BS Health Promotion ,YA,50,2,Player 3,1,4664,1,1
+USC-S3,4,0,0,7,F,Linguistics / Communication,YA,50,1,Player 2,1,22136,1,1
+USC-S3,4,0,1,0,F,Accounting; Business Administration,YA,50,0,Player 1,1,12386,1,1
+USC-S3,4,0,1,5,M,Accounting,YA,50,2,Player 3,1,14804,1,1
+USC-S3,4,0,1,9,F,Computer Science,YA,50,1,Player 2,1,16005,1,1
+USC-S3,4,0,2,4,F,Theatre,YA,50,0,Player 1,1,10249,1,1
+USC-S3,4,0,2,10,f,international relations & NGO and Social change,YA,50,2,Player 3,1,7051,1,1
+USC-S3,4,0,2,11,F,Psychology; Neuroscience,YA,50,1,Player 2,1,8097,1,1
+USC-S3,4,0,3,1,F,Physical Therapy,YA,50,0,Player 1,1,23821,1,1
+USC-S3,4,0,3,2,M,n/a,YA,50,2,Player 3,1,6739,1,1
+USC-S3,4,0,3,8,M,Electrical Engineering,YA,50,1,Player 2,1,19157,1,1
+USC-S3,5,0,0,1,F,Physical Therapy,YA,50,1,Player 2,2,14617,1,1
+USC-S3,5,0,0,2,M,n/a,YA,50,0,Player 1,2,11434,1,1
+USC-S3,5,0,0,7,F,Linguistics / Communication,YA,50,2,Player 3,0,20701,1,1
+USC-S3,5,0,1,3,M,Computer Engineering,YA,20,1,Player 2,1,46753,0,0
+USC-S3,5,0,1,5,M,Accounting,YA,20,0,Player 1,1,22698,0,0
+USC-S3,5,0,1,11,F,Psychology; Neuroscience,YA,50,2,Player 3,0,4165,1,1
+USC-S3,5,0,2,4,F,Theatre,YA,50,1,Player 2,2,8221,1,1
+USC-S3,5,0,2,6,M,BA Neuroscience & BS Health Promotion ,YA,50,0,Player 1,2,7644,1,1
+USC-S3,5,0,2,8,M,Electrical Engineering,YA,50,2,Player 3,0,23478,1,1
+USC-S3,5,0,3,0,F,Accounting; Business Administration,YA,50,1,Player 2,2,6147,1,1
+USC-S3,5,0,3,9,F,Computer Science,YA,50,2,Player 3,0,5584,1,1
+USC-S3,5,0,3,10,f,international relations & NGO and Social change,YA,50,0,Player 1,2,10155,1,1
+USC-S3,6,0,0,4,F,Theatre,YA,50,2,Player 3,2,6442,1,1
+USC-S3,6,0,0,7,F,Linguistics / Communication,YA,50,0,Player 1,0,17893,1,1
+USC-S3,6,0,0,10,f,international relations & NGO and Social change,YA,50,1,Player 2,0,7223,1,1
+USC-S3,6,0,1,0,F,Accounting; Business Administration,YA,50,2,Player 3,2,3900,1,1
+USC-S3,6,0,1,2,M,n/a,YA,50,1,Player 2,0,23790,1,1
+USC-S3,6,0,1,8,M,Electrical Engineering,YA,50,0,Player 1,0,13166,1,1
+USC-S3,6,0,2,3,M,Computer Engineering,YA,50,2,Player 3,2,7207,1,1
+USC-S3,6,0,2,6,M,BA Neuroscience & BS Health Promotion ,YA,50,1,Player 2,0,6630,1,1
+USC-S3,6,0,2,9,F,Computer Science,YA,50,0,Player 1,0,11809,1,1
+USC-S3,6,0,3,1,F,Physical Therapy,YA,50,2,Player 3,2,17035,1,1
+USC-S3,6,0,3,5,M,Accounting,YA,20,1,Player 2,1,6333,0,0
+USC-S3,6,0,3,11,F,Psychology; Neuroscience,YA,20,0,Player 1,0,10702,1,0
+USC-S3,7,0,0,4,F,Theatre,YA,50,0,Player 1,0,7348,1,1
+USC-S3,7,0,0,6,M,BA Neuroscience & BS Health Promotion ,YA,50,2,Player 3,0,4415,1,1
+USC-S3,7,0,0,11,F,Psychology; Neuroscience,YA,50,1,Player 2,0,4976,1,1
+USC-S3,7,0,1,1,F,Physical Therapy,YA,50,0,Player 1,0,9531,1,1
+USC-S3,7,0,1,9,F,Computer Science,YA,50,1,Player 2,0,10312,1,1
+USC-S3,7,0,1,10,f,international relations & NGO and Social change,YA,50,2,Player 3,0,4992,1,1
+USC-S3,7,0,2,0,F,Accounting; Business Administration,YA,50,0,Player 1,0,5897,1,1
+USC-S3,7,0,2,5,M,Accounting,YA,50,2,Player 3,0,7519,1,1
+USC-S3,7,0,2,8,M,Electrical Engineering,YA,50,1,Player 2,0,10593,1,1
+USC-S3,7,0,3,2,M,n/a,YA,50,2,Player 3,0,4244,1,1
+USC-S3,7,0,3,3,M,Computer Engineering,YA,50,0,Player 1,0,13307,1,1
+USC-S3,7,0,3,7,F,Linguistics / Communication,YA,50,1,Player 2,0,16630,1,1
+USC-S3,8,0,0,0,F,Accounting; Business Administration,YA,50,1,Player 2,0,6708,1,1
+USC-S3,8,0,0,9,F,Computer Science,YA,50,2,Player 3,2,12402,1,1
+USC-S3,8,0,0,10,f,international relations & NGO and Social change,YA,50,0,Player 1,2,10187,1,1
+USC-S3,8,0,1,1,F,Physical Therapy,YA,50,1,Player 2,0,12168,1,1
+USC-S3,8,0,1,5,M,Accounting,YA,20,0,Player 1,0,7425,0,0
+USC-S3,8,0,1,7,F,Linguistics / Communication,YA,50,2,Player 3,2,7707,1,1
+USC-S3,8,0,2,2,M,n/a,YA,20,0,Player 1,2,10998,1,0
+USC-S3,8,0,2,3,M,Computer Engineering,YA,20,1,Player 2,1,8830,0,0
+USC-S3,8,0,2,8,M,Electrical Engineering,YA,50,2,Player 3,2,7675,1,1
+USC-S3,8,0,3,4,F,Theatre,YA,50,1,Player 2,0,4914,1,1
+USC-S3,8,0,3,6,M,BA Neuroscience & BS Health Promotion ,YA,50,0,Player 1,2,7223,1,1
+USC-S3,8,0,3,11,F,Psychology; Neuroscience,YA,50,2,Player 3,2,3463,1,1
+USC-S3,9,0,0,3,M,Computer Engineering,YA,50,2,Player 3,0,5990,1,1
+USC-S3,9,0,0,6,M,BA Neuroscience & BS Health Promotion ,YA,50,1,Player 2,0,4634,1,1
+USC-S3,9,0,0,7,F,Linguistics / Communication,YA,50,0,Player 1,1,7378,1,1
+USC-S3,9,0,1,4,F,Theatre,YA,50,2,Player 3,0,3136,1,1
+USC-S3,9,0,1,5,M,Accounting,YA,20,1,Player 2,2,10748,0,0
+USC-S3,9,0,1,8,M,Electrical Engineering,YA,20,0,Player 1,1,9781,1,0
+USC-S3,9,0,2,0,F,Accounting; Business Administration,YA,50,2,Player 3,0,3510,1,1
+USC-S3,9,0,2,2,M,n/a,YA,50,1,Player 2,0,12589,1,1
+USC-S3,9,0,2,11,F,Psychology; Neuroscience,YA,50,0,Player 1,1,8003,1,1
+USC-S3,9,0,3,1,F,Physical Therapy,YA,50,2,Player 3,0,5600,1,1
+USC-S3,9,0,3,9,F,Computer Science,YA,50,0,Player 1,1,8767,1,1
+USC-S3,9,0,3,10,f,international relations & NGO and Social change,YA,50,1,Player 2,0,10764,1,1
+USC-S3,10,0,0,0,F,Accounting; Business Administration,YA,50,0,Player 1,1,5694,1,1
+USC-S3,10,0,0,9,F,Computer Science,YA,50,1,Player 2,2,6583,1,1
+USC-S3,10,0,0,10,f,international relations & NGO and Social change,YA,50,2,Player 3,1,4399,1,1
+USC-S3,10,0,1,2,M,n/a,YA,50,2,Player 3,1,10593,1,1
+USC-S3,10,0,1,4,F,Theatre,YA,50,0,Player 1,1,6599,1,1
+USC-S3,10,0,1,7,F,Linguistics / Communication,YA,50,1,Player 2,2,8049,1,1
+USC-S3,10,0,2,1,F,Physical Therapy,YA,50,0,Player 1,1,11778,1,1
+USC-S3,10,0,2,6,M,BA Neuroscience & BS Health Promotion ,YA,50,2,Player 3,1,3198,1,1
+USC-S3,10,0,2,8,M,Electrical Engineering,YA,50,1,Player 2,2,11154,1,1
+USC-S3,10,0,3,3,M,Computer Engineering,YA,20,0,Player 1,0,6021,0,0
+USC-S3,10,0,3,5,M,Accounting,YA,50,2,Player 3,1,14383,1,1
+USC-S3,10,0,3,11,F,Psychology; Neuroscience,YA,50,1,Player 2,2,5694,1,1
+USC-S3,11,0,0,3,M,Computer Engineering,YA,50,1,Player 2,0,21029,1,1
+USC-S3,11,0,0,10,f,international relations & NGO and Social change,YA,50,0,Player 1,1,10311,1,1
+USC-S3,11,0,0,11,F,Psychology; Neuroscience,YA,50,2,Player 3,2,3822,1,1
+USC-S3,11,0,1,2,M,n/a,YA,50,0,Player 1,1,10296,1,1
+USC-S3,11,0,1,4,F,Theatre,YA,50,1,Player 2,0,4509,1,1
+USC-S3,11,0,1,9,F,Computer Science,YA,50,2,Player 3,2,5350,1,1
+USC-S3,11,0,2,1,F,Physical Therapy,YA,50,1,Player 2,0,8736,1,1
+USC-S3,11,0,2,5,M,Accounting,YA,20,0,Player 1,2,15257,0,0
+USC-S3,11,0,2,8,M,Electrical Engineering,YA,50,2,Player 3,2,4400,1,1
+USC-S3,11,0,3,0,F,Accounting; Business Administration,YA,50,1,Player 2,0,5257,1,1
+USC-S3,11,0,3,6,M,BA Neuroscience & BS Health Promotion ,YA,50,0,Player 1,1,6474,1,1
+USC-S3,11,0,3,7,F,Linguistics / Communication,YA,50,2,Player 3,2,4087,1,1
+USC-S3,12,0,0,0,F,Accounting; Business Administration,YA,50,2,Player 3,2,3089,1,1
+USC-S3,12,0,0,7,F,Linguistics / Communication,YA,50,0,Player 1,2,9391,1,1
+USC-S3,12,0,0,10,f,international relations & NGO and Social change,YA,50,1,Player 2,1,9454,1,1
+USC-S3,12,0,1,1,F,Physical Therapy,YA,50,2,Player 3,2,4758,1,1
+USC-S3,12,0,1,6,M,BA Neuroscience & BS Health Promotion ,YA,50,1,Player 2,1,4181,1,1
+USC-S3,12,0,1,9,F,Computer Science,YA,50,0,Player 1,2,6693,1,1
+USC-S3,12,0,2,3,M,Computer Engineering,YA,50,2,Player 3,2,3822,1,1
+USC-S3,12,0,2,5,M,Accounting,YA,20,1,Player 2,0,15615,0,0
+USC-S3,12,0,2,11,F,Psychology; Neuroscience,YA,20,0,Player 1,2,11732,1,0
+USC-S3,12,0,3,2,M,n/a,YA,50,1,Player 2,1,7909,1,1
+USC-S3,12,0,3,4,F,Theatre,YA,50,2,Player 3,2,3853,1,1
+USC-S3,12,0,3,8,M,Electrical Engineering,YA,50,0,Player 1,2,11123,1,1
+USC-S3,13,0,0,3,M,Computer Engineering,YA,20,0,Player 1,2,6240,0,0
+USC-S3,13,0,0,10,f,international relations & NGO and Social change,YA,50,2,Player 3,1,5647,1,1
+USC-S3,13,0,0,11,F,Psychology; Neuroscience,YA,50,1,Player 2,1,5086,1,1
+USC-S3,13,0,1,4,F,Theatre,YA,50,0,Player 1,1,11856,1,1
+USC-S3,13,0,1,6,M,BA Neuroscience & BS Health Promotion ,YA,50,2,Player 3,1,3666,1,1
+USC-S3,13,0,1,7,F,Linguistics / Communication,YA,50,1,Player 2,1,10342,1,1
+USC-S3,13,0,2,1,F,Physical Therapy,YA,50,0,Player 1,1,17409,1,1
+USC-S3,13,0,2,2,M,n/a,YA,50,2,Player 3,1,8736,1,1
+USC-S3,13,0,2,8,M,Electrical Engineering,YA,50,1,Player 2,1,7098,1,1
+USC-S3,13,0,3,0,F,Accounting; Business Administration,YA,50,0,Player 1,1,5086,1,1
+USC-S3,13,0,3,5,M,Accounting,YA,50,2,Player 3,1,3572,1,1
+USC-S3,13,0,3,9,F,Computer Science,YA,50,1,Player 2,1,4727,1,1
+USC-S3,14,0,0,1,F,Physical Therapy,YA,50,1,Player 2,2,15928,1,1
+USC-S3,14,0,0,2,M,n/a,YA,50,0,Player 1,2,9734,1,1
+USC-S3,14,0,0,11,F,Psychology; Neuroscience,YA,50,2,Player 3,0,4493,1,1
+USC-S3,14,0,1,3,M,Computer Engineering,YA,20,1,Player 2,1,9812,0,0
+USC-S3,14,0,1,5,M,Accounting,YA,20,0,Player 1,1,8299,0,0
+USC-S3,14,0,1,8,M,Electrical Engineering,YA,50,2,Player 3,0,9984,1,1
+USC-S3,14,0,2,0,F,Accounting; Business Administration,YA,50,1,Player 2,2,4290,1,1
+USC-S3,14,0,2,7,F,Linguistics / Communication,YA,50,2,Player 3,0,3900,1,1
+USC-S3,14,0,2,10,f,international relations & NGO and Social change,YA,50,0,Player 1,2,8658,1,1
+USC-S3,14,0,3,4,F,Theatre,YA,50,1,Player 2,2,7456,1,1
+USC-S3,14,0,3,6,M,BA Neuroscience & BS Health Promotion ,YA,50,0,Player 1,2,7145,1,1
+USC-S3,14,0,3,9,F,Computer Science,YA,50,2,Player 3,0,2699,1,1
+USC-S3,15,0,0,4,F,Theatre,YA,50,2,Player 3,2,2340,1,1
+USC-S3,15,0,0,5,M,Accounting,YA,20,1,Player 2,1,6178,0,0
+USC-S3,15,0,0,11,F,Psychology; Neuroscience,YA,20,0,Player 1,0,7363,1,0
+USC-S3,15,0,1,3,M,Computer Engineering,YA,50,2,Player 3,2,3697,1,1
+USC-S3,15,0,1,9,F,Computer Science,YA,50,0,Player 1,0,6708,1,1
+USC-S3,15,0,1,10,f,international relations & NGO and Social change,YA,50,1,Player 2,0,8190,1,1
+USC-S3,15,0,2,0,F,Accounting; Business Administration,YA,50,2,Player 3,2,2356,1,1
+USC-S3,15,0,2,6,M,BA Neuroscience & BS Health Promotion ,YA,50,1,Player 2,0,5398,1,1
+USC-S3,15,0,2,8,M,Electrical Engineering,YA,50,0,Player 1,0,10639,1,1
+USC-S3,15,0,3,1,F,Physical Therapy,YA,50,2,Player 3,2,3682,1,1
+USC-S3,15,0,3,2,M,n/a,YA,50,1,Player 2,0,7597,1,1
+USC-S3,15,0,3,7,F,Linguistics / Communication,YA,50,0,Player 1,0,10498,1,1
+USC-S3,16,0,0,2,M,n/a,YA,50,2,Player 3,0,5413,1,1
+USC-S3,16,0,0,3,M,Computer Engineering,YA,50,0,Player 1,0,12153,1,1
+USC-S3,16,0,0,9,F,Computer Science,YA,50,1,Player 2,0,4461,1,1
+USC-S3,16,0,1,0,F,Accounting; Business Administration,YA,50,0,Player 1,0,5117,1,1
+USC-S3,16,0,1,5,M,Accounting,YA,50,2,Player 3,0,4180,1,1
+USC-S3,16,0,1,8,M,Electrical Engineering,YA,50,1,Player 2,0,6178,1,1
+USC-S3,16,0,2,1,F,Physical Therapy,YA,50,0,Player 1,0,9298,1,1
+USC-S3,16,0,2,10,f,international relations & NGO and Social change,YA,50,2,Player 3,0,3853,1,1
+USC-S3,16,0,2,11,F,Psychology; Neuroscience,YA,50,1,Player 2,0,6349,1,1
+USC-S3,16,0,3,4,F,Theatre,YA,50,0,Player 1,0,5226,1,1
+USC-S3,16,0,3,6,M,BA Neuroscience & BS Health Promotion ,YA,50,2,Player 3,0,3089,1,1
+USC-S3,16,0,3,7,F,Linguistics / Communication,YA,50,1,Player 2,0,6630,1,1
+USC-S3,17,0,0,2,M,n/a,YA,20,0,Player 1,2,9126,1,0
+USC-S3,17,0,0,3,M,Computer Engineering,YA,20,1,Player 2,1,8221,0,0
+USC-S3,17,0,0,9,F,Computer Science,YA,50,2,Player 3,2,4150,1,1
+USC-S3,17,0,1,4,F,Theatre,YA,50,1,Player 2,0,6740,1,1
+USC-S3,17,0,1,6,M,BA Neuroscience & BS Health Promotion ,YA,50,0,Player 1,2,5913,1,1
+USC-S3,17,0,1,7,F,Linguistics / Communication,YA,50,2,Player 3,2,3635,1,1
+USC-S3,17,0,2,0,F,Accounting; Business Administration,YA,50,1,Player 2,0,4399,1,1
+USC-S3,17,0,2,5,M,Accounting,YA,50,0,Player 1,2,4648,1,1
+USC-S3,17,0,2,11,F,Psychology; Neuroscience,YA,50,2,Player 3,2,3323,1,1
+USC-S3,17,0,3,1,F,Physical Therapy,YA,50,1,Player 2,0,9204,1,1
+USC-S3,17,0,3,8,M,Electrical Engineering,YA,50,2,Player 3,2,3588,1,1
+USC-S3,17,0,3,10,f,international relations & NGO and Social change,YA,50,0,Player 1,2,9610,1,1
+USC-S3,18,0,0,2,M,n/a,YA,50,1,Player 2,0,10172,1,1
+USC-S3,18,0,0,4,F,Theatre,YA,50,2,Player 3,0,2746,1,1
+USC-S3,18,0,0,8,M,Electrical Engineering,YA,50,0,Player 1,1,11778,1,1
+USC-S3,18,0,1,3,M,Computer Engineering,YA,50,2,Player 3,0,4477,1,1
+USC-S3,18,0,1,10,f,international relations & NGO and Social change,YA,50,1,Player 2,0,7020,1,1
+USC-S3,18,0,1,11,F,Psychology; Neuroscience,YA,50,0,Player 1,1,10077,1,1
+USC-S3,18,0,2,0,F,Accounting; Business Administration,YA,50,2,Player 3,0,2200,1,1
+USC-S3,18,0,2,6,M,BA Neuroscience & BS Health Promotion ,YA,50,1,Player 2,0,4977,1,1
+USC-S3,18,0,2,9,F,Computer Science,YA,50,0,Player 1,1,9890,1,1
+USC-S3,18,0,3,1,F,Physical Therapy,YA,50,2,Player 3,0,4290,1,1
+USC-S3,18,0,3,5,M,Accounting,YA,50,1,Player 2,0,4430,1,1
+USC-S3,18,0,3,7,F,Linguistics / Communication,YA,50,0,Player 1,1,10156,1,1
+USC-S3,19,0,0,3,M,Computer Engineering,YA,20,0,Player 1,0,4478,0,0
+USC-S3,19,0,0,6,M,BA Neuroscience & BS Health Promotion ,YA,50,2,Player 3,1,3073,1,1
+USC-S3,19,0,0,7,F,Linguistics / Communication,YA,50,1,Player 2,2,5414,1,1
+USC-S3,19,0,1,0,F,Accounting; Business Administration,YA,50,0,Player 1,1,5241,1,1
+USC-S3,19,0,1,10,f,international relations & NGO and Social change,YA,50,2,Player 3,1,3697,1,1
+USC-S3,19,0,1,11,F,Psychology; Neuroscience,YA,50,1,Player 2,2,4665,1,1
+USC-S3,19,0,2,2,M,n/a,YA,50,2,Player 3,1,7988,1,1
+USC-S3,19,0,2,4,F,Theatre,YA,50,0,Player 1,1,5585,1,1
+USC-S3,19,0,2,8,M,Electrical Engineering,YA,50,1,Player 2,2,7660,1,1
+USC-S3,19,0,3,1,F,Physical Therapy,YA,50,0,Player 1,1,11029,1,1
+USC-S3,19,0,3,5,M,Accounting,YA,50,2,Player 3,1,3791,1,1
+USC-S3,19,0,3,9,F,Computer Science,YA,50,1,Player 2,2,5647,1,1
+USC-S3,20,0,0,1,F,Physical Therapy,YA,50,1,Player 2,0,8486,1,1
+USC-S3,20,0,0,6,M,BA Neuroscience & BS Health Promotion ,YA,50,0,Player 1,1,5819,1,1
+USC-S3,20,0,0,11,F,Psychology; Neuroscience,YA,50,2,Player 3,2,55489,1,1
+USC-S3,20,0,1,2,M,n/a,YA,50,0,Player 1,1,14726,1,1
+USC-S3,20,0,1,4,F,Theatre,YA,50,1,Player 2,0,4040,1,1
+USC-S3,20,0,1,8,M,Electrical Engineering,YA,50,2,Player 3,2,4508,1,1
+USC-S3,20,0,2,3,M,Computer Engineering,YA,20,1,Player 2,1,6911,0,0
+USC-S3,20,0,2,9,F,Computer Science,YA,50,2,Player 3,2,2450,1,1
+USC-S3,20,0,2,10,f,international relations & NGO and Social change,YA,20,0,Player 1,1,9719,1,0
+USC-S3,20,0,3,0,F,Accounting; Business Administration,YA,50,1,Player 2,0,3495,1,1
+USC-S3,20,0,3,5,M,Accounting,YA,20,0,Player 1,2,4259,0,0
+USC-S3,20,0,3,7,F,Linguistics / Communication,YA,50,2,Player 3,2,3245,1,1
+USC-S4,3,0,0,0,F,Business Administration and Accounting,YA,20,0,Player 1,0,4945,0,0
+USC-S4,3,0,0,5,F,Philosophy  Politics and Law,YA,50,2,Player 3,2,8955,1,1
+USC-S4,3,0,0,6,M,International Relations,YA,50,1,Player 2,1,17534,1,1
+USC-S4,3,0,1,1,F,International Relations and The Global Economy,YA,50,0,Player 1,2,21154,1,1
+USC-S4,3,0,1,2,F,biochemistry ,YA,50,1,Player 2,1,11747,1,1
+USC-S4,3,0,1,4,F,Computer Science,YA,50,2,Player 3,2,11186,1,1
+USC-S4,3,0,2,3,F,architecture,YA,50,2,Player 3,2,15085,1,1
+USC-S4,3,0,2,7,M,Business Administration,YA,50,0,Player 1,2,17800,1,1
+USC-S4,3,0,2,8,M,Mechanical Engineering,YA,50,1,Player 2,1,22916,1,1
+USC-S4,4,0,0,2,F,biochemistry ,YA,50,2,Player 3,1,6162,1,1
+USC-S4,4,0,0,5,F,Philosophy  Politics and Law,YA,50,0,Player 1,1,11123,1,1
+USC-S4,4,0,0,7,M,Business Administration,YA,50,1,Player 2,1,14867,1,1
+USC-S4,4,0,1,1,F,International Relations and The Global Economy,YA,50,1,Player 2,1,9516,1,1
+USC-S4,4,0,1,4,F,Computer Science,YA,50,0,Player 1,1,12792,1,1
+USC-S4,4,0,1,8,M,Mechanical Engineering,YA,50,2,Player 3,1,7410,1,1
+USC-S4,4,0,2,0,F,Business Administration and Accounting,YA,20,1,Player 2,2,12246,0,0
+USC-S4,4,0,2,3,F,architecture,YA,20,0,Player 1,1,15538,1,0
+USC-S4,4,0,2,6,M,International Relations,YA,50,2,Player 3,1,5179,1,1
+USC-S4,5,0,0,1,F,International Relations and The Global Economy,YA,50,2,Player 3,0,9313,1,1
+USC-S4,5,0,0,3,F,architecture,YA,50,1,Player 2,2,9859,1,1
+USC-S4,5,0,0,6,M,International Relations,YA,50,0,Player 1,2,14086,1,1
+USC-S4,5,0,1,0,F,Business Administration and Accounting,YA,50,2,Player 3,0,8361,1,1
+USC-S4,5,0,1,4,F,Computer Science,YA,50,1,Player 2,2,8814,1,1
+USC-S4,5,0,1,8,M,Mechanical Engineering,YA,50,0,Player 1,2,12464,1,1
+USC-S4,5,0,2,2,F,biochemistry ,YA,50,0,Player 1,2,10936,1,1
+USC-S4,5,0,2,5,F,Philosophy  Politics and Law,YA,50,1,Player 2,2,9391,1,1
+USC-S4,5,0,2,7,M,Business Administration,YA,50,2,Player 3,0,5523,1,1
+USC-S4,6,0,0,1,F,International Relations and The Global Economy,YA,50,0,Player 1,0,15256,1,1
+USC-S4,6,0,0,2,F,biochemistry ,YA,50,1,Player 2,0,8143,1,1
+USC-S4,6,0,0,3,F,architecture,YA,50,2,Player 3,2,3510,1,1
+USC-S4,6,0,1,0,F,Business Administration and Accounting,YA,50,0,Player 1,0,8409,1,1
+USC-S4,6,0,1,4,F,Computer Science,YA,50,2,Player 3,2,5273,1,1
+USC-S4,6,0,1,8,M,Mechanical Engineering,YA,50,1,Player 2,0,14399,1,1
+USC-S4,6,0,2,5,F,Philosophy  Politics and Law,YA,50,2,Player 3,2,6255,1,1
+USC-S4,6,0,2,6,M,International Relations,YA,50,1,Player 2,0,11107,1,1
+USC-S4,6,0,2,7,M,Business Administration,YA,50,0,Player 1,0,9438,1,1
+USC-S4,7,0,0,5,F,Philosophy  Politics and Law,YA,50,0,Player 1,0,10639,1,1
+USC-S4,7,0,0,6,M,International Relations,YA,50,2,Player 3,0,7893,1,1
+USC-S4,7,0,0,7,M,Business Administration,YA,50,1,Player 2,0,5086,1,1
+USC-S4,7,0,1,1,F,International Relations and The Global Economy,YA,50,1,Player 2,0,11014,1,1
+USC-S4,7,0,1,3,F,architecture,YA,50,0,Player 1,0,11216,1,1
+USC-S4,7,0,1,8,M,Mechanical Engineering,YA,50,2,Player 3,0,13354,1,1
+USC-S4,7,0,2,0,F,Business Administration and Accounting,YA,50,1,Player 2,0,8814,1,1
+USC-S4,7,0,2,2,F,biochemistry ,YA,50,2,Player 3,0,3900,1,1
+USC-S4,7,0,2,4,F,Computer Science,YA,50,0,Player 1,0,9189,1,1
+USC-S4,8,0,0,0,F,Business Administration and Accounting,YA,50,2,Player 3,2,7036,1,1
+USC-S4,8,0,0,5,F,Philosophy  Politics and Law,YA,50,1,Player 2,0,9360,1,1
+USC-S4,8,0,0,8,M,Mechanical Engineering,YA,50,0,Player 1,2,11622,1,1
+USC-S4,8,0,1,1,F,International Relations and The Global Economy,YA,50,2,Player 3,2,4399,1,1
+USC-S4,8,0,1,3,F,architecture,YA,50,1,Player 2,0,9578,1,1
+USC-S4,8,0,1,6,M,International Relations,YA,50,0,Player 1,2,13868,1,1
+USC-S4,8,0,2,2,F,biochemistry ,YA,50,0,Player 1,2,6302,1,1
+USC-S4,8,0,2,4,F,Computer Science,YA,50,1,Player 2,0,16941,1,1
+USC-S4,8,0,2,7,M,Business Administration,YA,50,2,Player 3,2,3978,1,1
+USC-S4,9,0,0,4,F,Computer Science,YA,50,2,Player 3,0,6380,1,1
+USC-S4,9,0,0,7,M,Business Administration,YA,50,0,Player 1,1,6537,1,1
+USC-S4,9,0,0,8,M,Mechanical Engineering,YA,50,1,Player 2,0,9048,1,1
+USC-S4,9,0,1,1,F,International Relations and The Global Economy,YA,50,0,Player 1,1,15116,1,1
+USC-S4,9,0,1,5,F,Philosophy  Politics and Law,YA,50,2,Player 3,0,5226,1,1
+USC-S4,9,0,1,6,M,International Relations,YA,50,1,Player 2,0,11076,1,1
+USC-S4,9,0,2,0,F,Business Administration and Accounting,YA,50,0,Player 1,1,7378,1,1
+USC-S4,9,0,2,2,F,biochemistry ,YA,50,1,Player 2,0,13572,1,1
+USC-S4,9,0,2,3,F,architecture,YA,50,2,Player 3,0,4961,1,1
+USC-S4,10,0,0,2,F,biochemistry ,YA,50,2,Player 3,1,3962,1,1
+USC-S4,10,0,0,5,F,Philosophy  Politics and Law,YA,50,0,Player 1,1,9220,1,1
+USC-S4,10,0,0,7,M,Business Administration,YA,50,1,Player 2,2,5194,1,1
+USC-S4,10,0,1,0,F,Business Administration and Accounting,YA,50,1,Player 2,2,5195,1,1
+USC-S4,10,0,1,3,F,architecture,YA,50,0,Player 1,1,18252,1,1
+USC-S4,10,0,1,8,M,Mechanical Engineering,YA,50,2,Player 3,1,11481,1,1
+USC-S4,10,0,2,1,F,International Relations and The Global Economy,YA,50,1,Player 2,2,4992,1,1
+USC-S4,10,0,2,4,F,Computer Science,YA,50,0,Player 1,1,10171,1,1
+USC-S4,10,0,2,6,M,International Relations,YA,50,2,Player 3,1,7191,1,1
+USC-S4,11,0,0,2,F,biochemistry ,YA,50,0,Player 1,1,7005,1,1
+USC-S4,11,0,0,5,F,Philosophy  Politics and Law,YA,50,1,Player 2,0,14680,1,1
+USC-S4,11,0,0,7,M,Business Administration,YA,50,2,Player 3,2,2558,1,1
+USC-S4,11,0,1,0,F,Business Administration and Accounting,YA,50,2,Player 3,2,5913,1,1
+USC-S4,11,0,1,4,F,Computer Science,YA,50,1,Player 2,0,7878,1,1
+USC-S4,11,0,1,8,M,Mechanical Engineering,YA,50,0,Player 1,1,12511,1,1
+USC-S4,11,0,2,1,F,International Relations and The Global Economy,YA,50,2,Player 3,2,6724,1,1
+USC-S4,11,0,2,3,F,architecture,YA,50,1,Player 2,0,10702,1,1
+USC-S4,11,0,2,6,M,International Relations,YA,50,0,Player 1,1,12792,1,1
+USC-S4,12,0,0,1,F,International Relations and The Global Economy,YA,50,0,Player 1,2,7441,1,1
+USC-S4,12,0,0,4,F,Computer Science,YA,50,2,Player 3,2,4914,1,1
+USC-S4,12,0,0,8,M,Mechanical Engineering,YA,50,1,Player 2,1,17705,1,1
+USC-S4,12,0,1,2,F,biochemistry ,YA,50,1,Player 2,1,6443,1,1
+USC-S4,12,0,1,3,F,architecture,YA,50,2,Player 3,2,3151,1,1
+USC-S4,12,0,1,7,M,Business Administration,YA,50,0,Player 1,2,5881,1,1
+USC-S4,12,0,2,0,F,Business Administration and Accounting,YA,50,0,Player 1,2,6630,1,1
+USC-S4,12,0,2,5,F,Philosophy  Politics and Law,YA,50,2,Player 3,2,8736,1,1
+USC-S4,12,0,2,6,M,International Relations,YA,50,1,Player 2,1,11279,1,1
+USC-S4,13,0,0,4,F,Computer Science,YA,50,0,Player 1,1,11263,1,1
+USC-S4,13,0,0,7,M,Business Administration,YA,50,1,Player 2,1,4571,1,1
+USC-S4,13,0,0,8,M,Mechanical Engineering,YA,50,2,Player 3,1,12371,1,1
+USC-S4,13,0,1,1,F,International Relations and The Global Economy,YA,50,1,Player 2,1,7956,1,1
+USC-S4,13,0,1,3,F,architecture,YA,50,0,Player 1,1,10499,1,1
+USC-S4,13,0,1,6,M,International Relations,YA,50,2,Player 3,1,3245,1,1
+USC-S4,13,0,2,0,F,Business Administration and Accounting,YA,50,1,Player 2,1,9095,1,1
+USC-S4,13,0,2,2,F,biochemistry ,YA,50,2,Player 3,1,4337,1,1
+USC-S4,13,0,2,5,F,Philosophy  Politics and Law,YA,50,0,Player 1,1,14274,1,1
+USC-S4,14,0,0,1,F,International Relations and The Global Economy,YA,50,2,Player 3,0,4368,1,1
+USC-S4,14,0,0,2,F,biochemistry ,YA,50,0,Player 1,2,4805,1,1
+USC-S4,14,0,0,5,F,Philosophy  Politics and Law,YA,50,1,Player 2,2,9610,1,1
+USC-S4,14,0,1,0,F,Business Administration and Accounting,YA,50,2,Player 3,0,3213,1,1
+USC-S4,14,0,1,3,F,architecture,YA,50,1,Player 2,2,6521,1,1
+USC-S4,14,0,1,6,M,International Relations,YA,50,0,Player 1,2,13119,1,1
+USC-S4,14,0,2,4,F,Computer Science,YA,50,1,Player 2,2,5522,1,1
+USC-S4,14,0,2,7,M,Business Administration,YA,50,2,Player 3,0,3588,1,1
+USC-S4,14,0,2,8,M,Mechanical Engineering,YA,50,0,Player 1,2,11200,1,1
+USC-S4,15,0,0,1,F,International Relations and The Global Economy,YA,50,0,Player 1,0,11622,1,1
+USC-S4,15,0,0,4,F,Computer Science,YA,50,2,Player 3,2,4586,1,1
+USC-S4,15,0,0,8,M,Mechanical Engineering,YA,50,1,Player 2,0,19141,1,1
+USC-S4,15,0,1,5,F,Philosophy  Politics and Law,YA,50,2,Player 3,2,4180,1,1
+USC-S4,15,0,1,6,M,International Relations,YA,50,1,Player 2,0,9797,1,1
+USC-S4,15,0,1,7,M,Business Administration,YA,20,0,Player 1,1,6053,0,0
+USC-S4,15,0,2,0,F,Business Administration and Accounting,YA,50,0,Player 1,0,7597,1,1
+USC-S4,15,0,2,2,F,biochemistry ,YA,50,1,Player 2,0,4539,1,1
+USC-S4,15,0,2,3,F,architecture,YA,50,2,Player 3,2,10624,1,1
+USC-S4,16,0,0,4,F,Computer Science,YA,50,0,Player 1,0,8236,1,1
+USC-S4,16,0,0,7,M,Business Administration,YA,50,1,Player 2,0,4743,1,1
+USC-S4,16,0,0,8,M,Mechanical Engineering,YA,50,2,Player 3,0,8876,1,1
+USC-S4,16,0,1,1,F,International Relations and The Global Economy,YA,50,1,Player 2,0,15537,1,1
+USC-S4,16,0,1,2,F,biochemistry ,YA,50,2,Player 3,0,3307,1,1
+USC-S4,16,0,1,5,F,Philosophy  Politics and Law,YA,50,0,Player 1,0,8907,1,1
+USC-S4,16,0,2,0,F,Business Administration and Accounting,YA,50,1,Player 2,0,5117,1,1
+USC-S4,16,0,2,3,F,architecture,YA,50,0,Player 1,0,10718,1,1
+USC-S4,16,0,2,6,M,International Relations,YA,50,2,Player 3,0,5382,1,1
+USC-S4,17,0,0,2,F,biochemistry ,YA,50,0,Player 1,2,5272,1,1
+USC-S4,17,0,0,5,F,Philosophy  Politics and Law,YA,50,1,Player 2,0,5834,1,1
+USC-S4,17,0,0,7,M,Business Administration,YA,50,2,Player 3,2,5803,1,1
+USC-S4,17,0,1,1,F,International Relations and The Global Economy,YA,50,2,Player 3,2,4524,1,1
+USC-S4,17,0,1,4,F,Computer Science,YA,50,1,Player 2,0,7207,1,1
+USC-S4,17,0,1,8,M,Mechanical Engineering,YA,50,0,Player 1,2,9579,1,1
+USC-S4,17,0,2,0,F,Business Administration and Accounting,YA,50,2,Player 3,2,4695,1,1
+USC-S4,17,0,2,3,F,architecture,YA,50,1,Player 2,0,8799,1,1
+USC-S4,17,0,2,6,M,International Relations,YA,50,0,Player 1,2,16333,1,1
+USC-S4,18,0,0,2,F,biochemistry ,YA,50,1,Player 2,0,5554,1,1
+USC-S4,18,0,0,3,F,architecture,YA,50,2,Player 3,0,6910,1,1
+USC-S4,18,0,0,7,M,Business Administration,YA,50,0,Player 1,1,7145,1,1
+USC-S4,18,0,1,1,F,International Relations and The Global Economy,YA,50,0,Player 1,1,9672,1,1
+USC-S4,18,0,1,4,F,Computer Science,YA,50,2,Player 3,0,4025,1,1
+USC-S4,18,0,1,6,M,International Relations,YA,50,1,Player 2,0,7925,1,1
+USC-S4,18,0,2,0,F,Business Administration and Accounting,YA,50,0,Player 1,1,6911,1,1
+USC-S4,18,0,2,5,F,Philosophy  Politics and Law,YA,50,2,Player 3,0,10047,1,1
+USC-S4,18,0,2,8,M,Mechanical Engineering,YA,50,1,Player 2,0,14430,1,1
+USC-S4,19,0,0,1,F,International Relations and The Global Economy,YA,50,1,Player 2,2,10577,1,1
+USC-S4,19,0,0,3,F,architecture,YA,50,0,Player 1,1,10296,1,1
+USC-S4,19,0,0,6,M,International Relations,YA,50,2,Player 3,1,3152,1,1
+USC-S4,19,0,1,2,F,biochemistry ,YA,50,2,Player 3,1,4898,1,1
+USC-S4,19,0,1,4,F,Computer Science,YA,50,0,Player 1,1,8564,1,1
+USC-S4,19,0,1,7,M,Business Administration,YA,50,1,Player 2,2,4961,1,1
+USC-S4,19,0,2,0,F,Business Administration and Accounting,YA,50,1,Player 2,2,4524,1,1
+USC-S4,19,0,2,5,F,Philosophy  Politics and Law,YA,50,0,Player 1,1,11123,1,1
+USC-S4,19,0,2,8,M,Mechanical Engineering,YA,50,2,Player 3,1,9953,1,1
+USC-S4,20,0,0,5,F,Philosophy  Politics and Law,YA,50,1,Player 2,0,6349,1,1
+USC-S4,20,0,0,6,M,International Relations,YA,50,0,Player 1,1,10374,1,1
+USC-S4,20,0,0,7,M,Business Administration,YA,50,2,Player 3,2,2839,1,1
+USC-S4,20,0,1,0,F,Business Administration and Accounting,YA,50,2,Player 3,2,3837,1,1
+USC-S4,20,0,1,2,F,biochemistry ,YA,50,0,Player 1,1,6583,1,1
+USC-S4,20,0,1,3,F,architecture,YA,50,1,Player 2,0,8081,1,1
+USC-S4,20,0,2,1,F,International Relations and The Global Economy,YA,50,2,Player 3,2,3447,1,1
+USC-S4,20,0,2,4,F,Computer Science,YA,50,1,Player 2,0,6146,1,1
+USC-S4,20,0,2,8,M,Mechanical Engineering,YA,50,0,Player 1,1,10919,1,1
+USC-S5,3,0,0,3,M,chemical engineering,YA,50,1,Player 2,1,7254,1,1
+USC-S5,3,0,0,9,F,Business Adminstration,YA,50,2,Player 3,2,15288,1,1
+USC-S5,3,0,0,13,M,Electrical Engineering,YA,20,0,Player 1,1,10359,0,0
+USC-S5,3,0,1,4,F,neuroscience,YA,50,0,Player 1,2,16973,1,1
+USC-S5,3,0,1,6,M,Electrical Engineering,YA,50,1,Player 2,1,29483,1,1
+USC-S5,3,0,1,12,M,Buad,YA,50,2,Player 3,2,58610,1,1
+USC-S5,3,0,2,0,f,physics,YA,50,2,Player 3,2,5070,1,1
+USC-S5,3,0,2,1,M,Electrical Engineer,YA,20,1,Player 2,0,19173,0,0
+USC-S5,3,0,2,11,M,Economics,YA,20,0,Player 1,2,49109,1,0
+USC-S5,3,0,3,8,M,Chemical Engineering ,YA,50,1,Player 2,1,11513,1,1
+USC-S5,3,0,3,10,M,Biomedical Engineering,YA,50,0,Player 1,2,12979,1,1
+USC-S5,3,0,3,14,M,Health Sciences,YA,50,2,Player 3,2,9969,1,1
+USC-S5,3,0,4,2,F,Sociology,YA,20,0,Player 1,1,25350,0,0
+USC-S5,3,0,4,5,M,Computer Science,YA,50,1,Player 2,1,21621,1,1
+USC-S5,3,0,4,7,F,Applied Mathematics,YA,50,2,Player 3,2,5663,1,1
+USC-S5,4,0,0,1,M,Electrical Engineer,YA,50,2,Player 3,1,32416,1,1
+USC-S5,4,0,0,4,F,neuroscience,YA,50,1,Player 2,1,17940,1,1
+USC-S5,4,0,0,12,M,Buad,YA,50,0,Player 1,1,20156,1,1
+USC-S5,4,0,1,2,F,Sociology,YA,50,1,Player 2,1,13775,1,1
+USC-S5,4,0,1,8,M,Chemical Engineering ,YA,50,2,Player 3,1,12230,1,1
+USC-S5,4,0,1,9,F,Business Adminstration,YA,50,0,Player 1,1,30373,1,1
+USC-S5,4,0,2,5,M,Computer Science,YA,50,2,Player 3,1,9516,1,1
+USC-S5,4,0,2,7,F,Applied Mathematics,YA,50,0,Player 1,1,14430,1,1
+USC-S5,4,0,2,11,M,Economics,YA,50,1,Player 2,1,51495,1,1
+USC-S5,4,0,3,3,M,chemical engineering,YA,20,2,Player 3,2,3760,0,0
+USC-S5,4,0,3,10,M,Biomedical Engineering,YA,20,1,Player 2,1,6614,1,0
+USC-S5,4,0,3,14,M,Health Sciences,YA,50,0,Player 1,1,16801,1,1
+USC-S5,4,0,4,0,f,physics,YA,20,0,Player 1,1,9360,1,0
+USC-S5,4,0,4,6,M,Electrical Engineering,YA,50,2,Player 3,1,18221,1,1
+USC-S5,4,0,4,13,M,Electrical Engineering,YA,20,1,Player 2,2,10140,0,0
+USC-S5,5,0,0,3,M,chemical engineering,YA,50,0,Player 1,2,13759,1,1
+USC-S5,5,0,0,7,F,Applied Mathematics,YA,50,1,Player 2,2,8985,1,1
+USC-S5,5,0,0,13,M,Electrical Engineering,YA,50,2,Player 3,0,7800,1,1
+USC-S5,5,0,1,1,M,Electrical Engineer,YA,20,0,Player 1,0,43072,0,0
+USC-S5,5,0,1,2,F,Sociology,YA,50,2,Player 3,0,5632,1,1
+USC-S5,5,0,1,12,M,Buad,YA,50,1,Player 2,2,28221,1,1
+USC-S5,5,0,2,0,f,physics,YA,50,1,Player 2,2,8923,1,1
+USC-S5,5,0,2,5,M,Computer Science,YA,50,0,Player 1,2,10343,1,1
+USC-S5,5,0,2,10,M,Biomedical Engineering,YA,50,2,Player 3,0,4930,1,1
+USC-S5,5,0,3,4,F,neuroscience,YA,50,2,Player 3,0,6131,1,1
+USC-S5,5,0,3,6,M,Electrical Engineering,YA,50,0,Player 1,2,12776,1,1
+USC-S5,5,0,3,9,F,Business Adminstration,YA,50,1,Player 2,2,41715,1,1
+USC-S5,5,0,4,8,M,Chemical Engineering ,YA,50,0,Player 1,2,12137,1,1
+USC-S5,5,0,4,11,M,Economics,YA,50,2,Player 3,0,14008,1,1
+USC-S5,5,0,4,14,M,Health Sciences,YA,50,1,Player 2,2,12543,1,1
+USC-S5,6,0,0,6,M,Electrical Engineering,YA,50,1,Player 2,0,8487,1,1
+USC-S5,6,0,0,11,M,Economics,YA,20,0,Player 1,2,14540,0,0
+USC-S5,6,0,0,12,M,Buad,YA,50,2,Player 3,2,21076,1,1
+USC-S5,6,0,1,4,F,neuroscience,YA,50,0,Player 1,0,11061,1,1
+USC-S5,6,0,1,8,M,Chemical Engineering ,YA,50,1,Player 2,0,7488,1,1
+USC-S5,6,0,1,14,M,Health Sciences,YA,50,2,Player 3,2,3806,1,1
+USC-S5,6,0,2,0,f,physics,YA,50,2,Player 3,2,3698,1,1
+USC-S5,6,0,2,3,M,chemical engineering,YA,50,1,Player 2,0,15850,1,1
+USC-S5,6,0,2,13,M,Electrical Engineering,YA,20,0,Player 1,1,8502,0,0
+USC-S5,6,0,3,2,F,Sociology,YA,50,0,Player 1,0,29952,1,1
+USC-S5,6,0,3,5,M,Computer Science,YA,50,1,Player 2,0,12355,1,1
+USC-S5,6,0,3,9,F,Business Adminstration,YA,50,2,Player 3,2,9765,1,1
+USC-S5,6,0,4,1,M,Electrical Engineer,YA,50,1,Player 2,0,15896,1,1
+USC-S5,6,0,4,7,F,Applied Mathematics,YA,50,2,Player 3,2,7425,1,1
+USC-S5,6,0,4,10,M,Biomedical Engineering,YA,50,0,Player 1,0,8580,1,1
+USC-S5,7,0,0,5,M,Computer Science,YA,50,2,Player 3,0,4368,1,1
+USC-S5,7,0,0,9,F,Business Adminstration,YA,20,0,Player 1,0,19562,1,0
+USC-S5,7,0,0,13,M,Electrical Engineering,YA,20,1,Player 2,1,5195,0,0
+USC-S5,7,0,1,3,M,chemical engineering,YA,50,2,Player 3,0,8159,1,1
+USC-S5,7,0,1,10,M,Biomedical Engineering,YA,50,1,Player 2,0,7660,1,1
+USC-S5,7,0,1,14,M,Health Sciences,YA,50,0,Player 1,0,7020,1,1
+USC-S5,7,0,2,1,M,Electrical Engineer,YA,50,2,Player 3,0,10967,1,1
+USC-S5,7,0,2,11,M,Economics,YA,50,1,Player 2,0,51465,1,1
+USC-S5,7,0,2,12,M,Buad,YA,50,0,Player 1,0,14196,1,1
+USC-S5,7,0,3,0,f,physics,YA,50,0,Player 1,0,6178,1,1
+USC-S5,7,0,3,2,F,Sociology,YA,50,1,Player 2,0,12932,1,1
+USC-S5,7,0,3,6,M,Electrical Engineering,YA,50,2,Player 3,0,6942,1,1
+USC-S5,7,0,4,4,F,neuroscience,YA,50,1,Player 2,0,14477,1,1
+USC-S5,7,0,4,7,F,Applied Mathematics,YA,50,0,Player 1,0,9984,1,1
+USC-S5,7,0,4,8,M,Chemical Engineering ,YA,50,2,Player 3,0,3837,1,1
+USC-S5,8,0,0,0,f,physics,YA,50,1,Player 2,0,6490,1,1
+USC-S5,8,0,0,4,F,neuroscience,YA,50,2,Player 3,2,6302,1,1
+USC-S5,8,0,0,5,M,Computer Science,YA,50,0,Player 1,2,15678,1,1
+USC-S5,8,0,1,1,M,Electrical Engineer,YA,50,0,Player 1,2,16692,1,1
+USC-S5,8,0,1,11,M,Economics,YA,50,2,Player 3,2,10873,1,1
+USC-S5,8,0,1,12,M,Buad,YA,50,1,Player 2,0,10983,1,1
+USC-S5,8,0,2,2,F,Sociology,YA,50,2,Player 3,2,6412,1,1
+USC-S5,8,0,2,6,M,Electrical Engineering,YA,50,0,Player 1,2,9906,1,1
+USC-S5,8,0,2,7,F,Applied Mathematics,YA,50,1,Player 2,0,8096,1,1
+USC-S5,8,0,3,8,M,Chemical Engineering ,YA,50,0,Player 1,2,14164,1,1
+USC-S5,8,0,3,9,F,Business Adminstration,YA,50,1,Player 2,0,20779,1,1
+USC-S5,8,0,3,10,M,Biomedical Engineering,YA,50,2,Player 3,2,4758,1,1
+USC-S5,8,0,4,3,M,chemical engineering,YA,50,0,Player 1,2,9485,1,1
+USC-S5,8,0,4,13,M,Electrical Engineering,YA,50,2,Player 3,2,5616,1,1
+USC-S5,8,0,4,14,M,Health Sciences,YA,50,1,Player 2,0,7551,1,1
+USC-S5,9,0,0,8,M,Chemical Engineering ,YA,50,1,Player 2,0,7644,1,1
+USC-S5,9,0,0,9,F,Business Adminstration,YA,50,2,Player 3,0,5694,1,1
+USC-S5,9,0,0,13,M,Electrical Engineering,YA,20,0,Player 1,2,7379,0,0
+USC-S5,9,0,1,1,M,Electrical Engineer,YA,50,1,Player 2,0,10998,1,1
+USC-S5,9,0,1,11,M,Economics,YA,50,0,Player 1,1,46707,1,1
+USC-S5,9,0,1,14,M,Health Sciences,YA,50,2,Player 3,0,3510,1,1
+USC-S5,9,0,2,3,M,chemical engineering,YA,50,1,Player 2,0,10296,1,1
+USC-S5,9,0,2,7,F,Applied Mathematics,YA,50,2,Player 3,0,4414,1,1
+USC-S5,9,0,2,10,M,Biomedical Engineering,YA,50,0,Player 1,1,8065,1,1
+USC-S5,9,0,3,0,f,physics,YA,50,2,Player 3,0,3588,1,1
+USC-S5,9,0,3,4,F,neuroscience,YA,50,0,Player 1,1,20358,1,1
+USC-S5,9,0,3,6,M,Electrical Engineering,YA,50,1,Player 2,0,242171,1,1
+USC-S5,9,0,4,2,F,Sociology,YA,50,0,Player 1,1,9329,1,1
+USC-S5,9,0,4,5,M,Computer Science,YA,50,1,Player 2,0,19718,1,1
+USC-S5,9,0,4,12,M,Buad,YA,50,2,Player 3,0,6583,1,1
+USC-S5,10,0,0,3,M,chemical engineering,YA,50,2,Player 3,1,12137,1,1
+USC-S5,10,0,0,7,F,Applied Mathematics,YA,50,0,Player 1,1,10156,1,1
+USC-S5,10,0,0,11,M,Economics,YA,50,1,Player 2,2,46379,1,1
+USC-S5,10,0,1,0,f,physics,YA,50,0,Player 1,1,8315,1,1
+USC-S5,10,0,1,5,M,Computer Science,YA,20,2,Player 3,2,5647,0,0
+USC-S5,10,0,1,10,M,Biomedical Engineering,YA,20,1,Player 2,2,6567,1,0
+USC-S5,10,0,2,2,F,Sociology,YA,50,1,Player 2,2,19344,1,1
+USC-S5,10,0,2,6,M,Electrical Engineering,YA,50,2,Player 3,1,6349,1,1
+USC-S5,10,0,2,14,M,Health Sciences,YA,50,0,Player 1,1,21232,1,1
+USC-S5,10,0,3,4,F,neuroscience,YA,50,1,Player 2,2,16567,1,1
+USC-S5,10,0,3,8,M,Chemical Engineering ,YA,50,2,Player 3,1,10125,1,1
+USC-S5,10,0,3,9,F,Business Adminstration,YA,50,0,Player 1,1,16739,1,1
+USC-S5,10,0,4,1,M,Electrical Engineer,YA,50,2,Player 3,1,7534,1,1
+USC-S5,10,0,4,12,M,Buad,YA,20,0,Player 1,1,19126,1,0
+USC-S5,10,0,4,13,M,Electrical Engineering,YA,20,1,Player 2,1,5600,0,0
+USC-S5,11,0,0,0,f,physics,YA,50,1,Player 2,0,4649,1,1
+USC-S5,11,0,0,1,M,Electrical Engineer,YA,50,0,Player 1,1,22339,1,1
+USC-S5,11,0,0,10,M,Biomedical Engineering,YA,50,2,Player 3,2,3666,1,1
+USC-S5,11,0,1,3,M,chemical engineering,YA,50,0,Player 1,1,7737,1,1
+USC-S5,11,0,1,4,F,neuroscience,YA,50,2,Player 3,2,15147,1,1
+USC-S5,11,0,1,7,F,Applied Mathematics,YA,50,1,Player 2,0,7160,1,1
+USC-S5,11,0,2,8,M,Chemical Engineering ,YA,50,0,Player 1,1,9766,1,1
+USC-S5,11,0,2,13,M,Electrical Engineering,YA,50,2,Player 3,2,5367,1,1
+USC-S5,11,0,2,14,M,Health Sciences,YA,50,1,Player 2,0,7784,1,1
+USC-S5,11,0,3,2,F,Sociology,YA,50,2,Player 3,2,7020,1,1
+USC-S5,11,0,3,5,M,Computer Science,YA,50,0,Player 1,1,13119,1,1
+USC-S5,11,0,3,12,M,Buad,YA,50,1,Player 2,0,10608,1,1
+USC-S5,11,0,4,6,M,Electrical Engineering,YA,50,0,Player 1,1,8689,1,1
+USC-S5,11,0,4,9,F,Business Adminstration,YA,50,1,Player 2,0,19578,1,1
+USC-S5,11,0,4,11,M,Economics,YA,50,2,Player 3,2,20810,1,1
+USC-S5,12,0,0,2,F,Sociology,YA,50,0,Player 1,2,10234,1,1
+USC-S5,12,0,0,8,M,Chemical Engineering ,YA,50,1,Player 2,1,6926,1,1
+USC-S5,12,0,0,14,M,Health Sciences,YA,50,2,Player 3,2,2855,1,1
+USC-S5,12,0,1,3,M,chemical engineering,YA,50,1,Player 2,1,5882,1,1
+USC-S5,12,0,1,4,F,neuroscience,YA,50,0,Player 1,2,20046,1,1
+USC-S5,12,0,1,7,F,Applied Mathematics,YA,50,2,Player 3,2,4961,1,1
+USC-S5,12,0,2,5,M,Computer Science,YA,50,1,Player 2,1,25240,1,1
+USC-S5,12,0,2,9,F,Business Adminstration,YA,50,2,Player 3,2,4540,1,1
+USC-S5,12,0,2,13,M,Electrical Engineering,YA,20,0,Player 1,1,4727,0,0
+USC-S5,12,0,3,0,f,physics,YA,50,2,Player 3,2,4259,1,1
+USC-S5,12,0,3,1,M,Electrical Engineer,YA,50,1,Player 2,1,8237,1,1
+USC-S5,12,0,3,10,M,Biomedical Engineering,YA,50,0,Player 1,2,13416,1,1
+USC-S5,12,0,4,6,M,Electrical Engineering,YA,50,1,Player 2,1,6505,1,1
+USC-S5,12,0,4,11,M,Economics,YA,50,0,Player 1,2,38095,1,1
+USC-S5,12,0,4,12,M,Buad,YA,50,2,Player 3,2,5741,1,1
+USC-S5,13,0,0,3,M,chemical engineering,YA,50,2,Player 3,1,3775,1,1
+USC-S5,13,0,0,4,F,neuroscience,YA,50,1,Player 2,1,9781,1,1
+USC-S5,13,0,0,7,F,Applied Mathematics,YA,50,0,Player 1,1,9578,1,1
+USC-S5,13,0,1,8,M,Chemical Engineering ,YA,50,2,Player 3,1,11419,1,1
+USC-S5,13,0,1,9,F,Business Adminstration,YA,50,0,Player 1,1,7940,1,1
+USC-S5,13,0,1,11,M,Economics,YA,50,1,Player 2,1,33290,1,1
+USC-S5,13,0,2,1,M,Electrical Engineer,YA,50,2,Player 3,1,4524,1,1
+USC-S5,13,0,2,2,F,Sociology,YA,50,1,Player 2,1,13338,1,1
+USC-S5,13,0,2,14,M,Health Sciences,YA,50,0,Player 1,1,6801,1,1
+USC-S5,13,0,3,0,f,physics,YA,20,0,Player 1,1,11762,1,0
+USC-S5,13,0,3,6,M,Electrical Engineering,YA,50,2,Player 3,1,3931,1,1
+USC-S5,13,0,3,13,M,Electrical Engineering,YA,20,1,Player 2,2,4976,0,0
+USC-S5,13,0,4,5,M,Computer Science,YA,50,2,Player 3,1,3900,1,1
+USC-S5,13,0,4,10,M,Biomedical Engineering,YA,50,1,Player 2,1,6021,1,1
+USC-S5,13,0,4,12,M,Buad,YA,50,0,Player 1,1,35147,1,1
+USC-S5,14,0,0,7,F,Applied Mathematics,YA,50,1,Player 2,2,10592,1,1
+USC-S5,14,0,0,8,M,Chemical Engineering ,YA,50,0,Player 1,2,7940,1,1
+USC-S5,14,0,0,11,M,Economics,YA,50,2,Player 3,0,17222,1,1
+USC-S5,14,0,1,3,M,chemical engineering,YA,50,0,Player 1,2,7722,1,1
+USC-S5,14,0,1,4,F,neuroscience,YA,50,2,Player 3,0,7519,1,1
+USC-S5,14,0,1,9,F,Business Adminstration,YA,50,1,Player 2,2,13697,1,1
+USC-S5,14,0,2,5,M,Computer Science,YA,50,0,Player 1,2,14960,1,1
+USC-S5,14,0,2,10,M,Biomedical Engineering,YA,50,2,Player 3,0,6458,1,1
+USC-S5,14,0,2,14,M,Health Sciences,YA,50,1,Player 2,2,4415,1,1
+USC-S5,14,0,3,2,F,Sociology,YA,50,2,Player 3,0,9017,1,1
+USC-S5,14,0,3,6,M,Electrical Engineering,YA,50,0,Player 1,2,11217,1,1
+USC-S5,14,0,3,12,M,Buad,YA,50,1,Player 2,2,10327,1,1
+USC-S5,14,0,4,0,f,physics,YA,50,1,Player 2,2,4695,1,1
+USC-S5,14,0,4,1,M,Electrical Engineer,YA,50,0,Player 1,2,8626,1,1
+USC-S5,14,0,4,13,M,Electrical Engineering,YA,50,2,Player 3,0,5117,1,1
+USC-S5,15,0,0,6,M,Electrical Engineering,YA,50,1,Player 2,0,7800,1,1
+USC-S5,15,0,0,10,M,Biomedical Engineering,YA,50,0,Player 1,0,9063,1,1
+USC-S5,15,0,0,14,M,Health Sciences,YA,50,2,Player 3,2,2730,1,1
+USC-S5,15,0,1,2,F,Sociology,YA,50,0,Player 1,0,16100,1,1
+USC-S5,15,0,1,3,M,chemical engineering,YA,50,1,Player 2,0,9453,1,1
+USC-S5,15,0,1,12,M,Buad,YA,50,2,Player 3,2,35241,1,1
+USC-S5,15,0,2,1,M,Electrical Engineer,YA,50,1,Player 2,0,7924,1,1
+USC-S5,15,0,2,4,F,neuroscience,YA,50,0,Player 1,0,14242,1,1
+USC-S5,15,0,2,7,F,Applied Mathematics,YA,50,2,Player 3,2,4633,1,1
+USC-S5,15,0,3,0,f,physics,YA,50,2,Player 3,2,3292,1,1
+USC-S5,15,0,3,8,M,Chemical Engineering ,YA,50,1,Player 2,0,7285,1,1
+USC-S5,15,0,3,11,M,Economics,YA,50,0,Player 1,0,49530,1,1
+USC-S5,15,0,4,5,M,Computer Science,YA,50,1,Player 2,0,11591,1,1
+USC-S5,15,0,4,9,F,Business Adminstration,YA,50,2,Player 3,2,3822,1,1
+USC-S5,15,0,4,13,M,Electrical Engineering,YA,20,0,Player 1,1,4727,0,0
+USC-S5,16,0,0,4,F,neuroscience,YA,50,1,Player 2,0,15819,1,1
+USC-S5,16,0,0,6,M,Electrical Engineering,YA,50,2,Player 3,0,5273,1,1
+USC-S5,16,0,0,12,M,Buad,YA,50,0,Player 1,0,7519,1,1
+USC-S5,16,0,1,0,f,physics,YA,20,0,Player 1,0,8517,1,0
+USC-S5,16,0,1,5,M,Computer Science,YA,50,2,Player 3,0,5008,1,1
+USC-S5,16,0,1,13,M,Electrical Engineering,YA,20,1,Player 2,1,5429,0,0
+USC-S5,16,0,2,2,F,Sociology,YA,50,1,Player 2,0,9672,1,1
+USC-S5,16,0,2,8,M,Chemical Engineering ,YA,50,2,Player 3,0,9688,1,1
+USC-S5,16,0,2,14,M,Health Sciences,YA,50,0,Player 1,0,6053,1,1
+USC-S5,16,0,3,3,M,chemical engineering,YA,50,2,Player 3,0,8923,1,1
+USC-S5,16,0,3,9,F,Business Adminstration,YA,50,0,Player 1,0,9625,1,1
+USC-S5,16,0,3,11,M,Economics,YA,50,1,Player 2,0,55568,1,1
+USC-S5,16,0,4,1,M,Electrical Engineer,YA,50,2,Player 3,0,5023,1,1
+USC-S5,16,0,4,7,F,Applied Mathematics,YA,50,0,Player 1,0,9064,1,1
+USC-S5,16,0,4,10,M,Biomedical Engineering,YA,50,1,Player 2,0,5335,1,1
+USC-S5,17,0,0,7,F,Applied Mathematics,YA,50,1,Player 2,0,7846,1,1
+USC-S5,17,0,0,8,M,Chemical Engineering ,YA,50,0,Player 1,2,8236,1,1
+USC-S5,17,0,0,13,M,Electrical Engineering,YA,50,2,Player 3,2,4088,1,1
+USC-S5,17,0,1,5,M,Computer Science,YA,50,0,Player 1,2,10873,1,1
+USC-S5,17,0,1,11,M,Economics,YA,50,2,Player 3,2,11498,1,1
+USC-S5,17,0,1,14,M,Health Sciences,YA,50,1,Player 2,0,6989,1,1
+USC-S5,17,0,2,3,M,chemical engineering,YA,50,0,Player 1,2,8970,1,1
+USC-S5,17,0,2,10,M,Biomedical Engineering,YA,50,2,Player 3,2,6927,1,1
+USC-S5,17,0,2,12,M,Buad,YA,50,1,Player 2,0,6770,1,1
+USC-S5,17,0,3,2,F,Sociology,YA,50,2,Player 3,2,36567,1,1
+USC-S5,17,0,3,6,M,Electrical Engineering,YA,50,0,Player 1,2,9079,1,1
+USC-S5,17,0,3,9,F,Business Adminstration,YA,50,1,Player 2,0,6520,1,1
+USC-S5,17,0,4,0,f,physics,YA,50,1,Player 2,0,6974,1,1
+USC-S5,17,0,4,1,M,Electrical Engineer,YA,50,0,Player 1,2,12980,1,1
+USC-S5,17,0,4,4,F,neuroscience,YA,50,2,Player 3,2,16130,1,1
+USC-S5,18,0,0,3,M,chemical engineering,YA,50,1,Player 2,0,5631,1,1
+USC-S5,18,0,0,4,F,neuroscience,YA,50,0,Player 1,1,19921,1,1
+USC-S5,18,0,0,14,M,Health Sciences,YA,50,2,Player 3,0,3276,1,1
+USC-S5,18,0,1,0,f,physics,YA,50,2,Player 3,0,8424,1,1
+USC-S5,18,0,1,5,M,Computer Science,YA,50,1,Player 2,0,7160,1,1
+USC-S5,18,0,1,10,M,Biomedical Engineering,YA,50,0,Player 1,1,9890,1,1
+USC-S5,18,0,2,8,M,Chemical Engineering ,YA,50,1,Player 2,0,5740,1,1
+USC-S5,18,0,2,11,M,Economics,YA,50,0,Player 1,1,36520,1,1
+USC-S5,18,0,2,12,M,Buad,YA,50,2,Player 3,0,9719,1,1
+USC-S5,18,0,3,1,M,Electrical Engineer,YA,50,1,Player 2,0,12075,1,1
+USC-S5,18,0,3,2,F,Sociology,YA,50,0,Player 1,1,15725,1,1
+USC-S5,18,0,3,7,F,Applied Mathematics,YA,50,2,Player 3,0,4087,1,1
+USC-S5,18,0,4,6,M,Electrical Engineering,YA,50,1,Player 2,0,7160,1,1
+USC-S5,18,0,4,9,F,Business Adminstration,YA,50,2,Player 3,0,3369,1,1
+USC-S5,18,0,4,13,M,Electrical Engineering,YA,20,0,Player 1,2,4337,0,0
+USC-S5,19,0,0,2,F,Sociology,YA,50,1,Player 2,2,19313,1,1
+USC-S5,19,0,0,3,M,chemical engineering,YA,50,2,Player 3,1,9329,1,1
+USC-S5,19,0,0,14,M,Health Sciences,YA,50,0,Player 1,1,6474,1,1
+USC-S5,19,0,1,0,f,physics,YA,20,0,Player 1,1,10905,1,0
+USC-S5,19,0,1,8,M,Chemical Engineering ,YA,50,2,Player 3,1,4868,1,1
+USC-S5,19,0,1,13,M,Electrical Engineering,YA,20,1,Player 2,1,3869,0,0
+USC-S5,19,0,2,5,M,Computer Science,YA,50,2,Player 3,1,4461,1,1
+USC-S5,19,0,2,9,F,Business Adminstration,YA,50,0,Player 1,1,8190,1,1
+USC-S5,19,0,2,11,M,Economics,YA,50,1,Player 2,2,29235,1,1
+USC-S5,19,0,3,1,M,Electrical Engineer,YA,50,2,Player 3,1,8144,1,1
+USC-S5,19,0,3,4,F,neuroscience,YA,50,1,Player 2,2,12122,1,1
+USC-S5,19,0,3,7,F,Applied Mathematics,YA,50,0,Player 1,1,9189,1,1
+USC-S5,19,0,4,6,M,Electrical Engineering,YA,50,2,Player 3,1,5304,1,1
+USC-S5,19,0,4,10,M,Biomedical Engineering,YA,50,1,Player 2,2,9375,1,1
+USC-S5,19,0,4,12,M,Buad,YA,50,0,Player 1,1,10155,1,1
+USC-S5,20,0,0,8,M,Chemical Engineering ,YA,50,0,Player 1,1,12277,1,1
+USC-S5,20,0,0,9,F,Business Adminstration,YA,50,1,Player 2,0,21200,1,1
+USC-S5,20,0,0,11,M,Economics,YA,50,2,Player 3,2,9142,1,1
+USC-S5,20,0,1,1,M,Electrical Engineer,YA,50,0,Player 1,1,10140,1,1
+USC-S5,20,0,1,10,M,Biomedical Engineering,YA,50,2,Player 3,2,3729,1,1
+USC-S5,20,0,1,12,M,Buad,YA,50,1,Player 2,0,9361,1,1
+USC-S5,20,0,2,0,f,physics,YA,50,1,Player 2,0,4851,1,1
+USC-S5,20,0,2,2,F,Sociology,YA,50,2,Player 3,2,3915,1,1
+USC-S5,20,0,2,5,M,Computer Science,YA,50,0,Player 1,1,10374,1,1
+USC-S5,20,0,3,3,M,chemical engineering,YA,50,0,Player 1,1,6427,1,1
+USC-S5,20,0,3,4,F,neuroscience,YA,50,2,Player 3,2,3744,1,1
+USC-S5,20,0,3,14,M,Health Sciences,YA,50,1,Player 2,0,4633,1,1
+USC-S5,20,0,4,6,M,Electrical Engineering,YA,50,0,Player 1,1,10499,1,1
+USC-S5,20,0,4,7,F,Applied Mathematics,YA,50,1,Player 2,0,11497,1,1
+USC-S5,20,0,4,13,M,Electrical Engineering,YA,50,2,Player 3,2,4056,1,1

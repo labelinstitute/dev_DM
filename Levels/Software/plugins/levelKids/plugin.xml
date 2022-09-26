@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<plugin name="LevelKids" version="1.0">
+	
+    <author></author>
+    <creationDate></creationDate>
+    <copyright></copyright>
+    <license></license>
+    <contactEmail></contactEmail>
+    <contactURL>http://multistage.ssel.caltech.edu</contactURL>
+    <description></description>
+
+    <serverController>edu.caltech.ssel.multistage.plugins.levelKids.LevelKidsControl</serverController>
+    <clientGUI>edu.caltech.ssel.multistage.plugins.levelKids.LevelKidsGUI</clientGUI>    
+
+</plugin>

@@ -1,0 +1,57 @@
+# SAMPLE SURVEY PARAMETER FILE, 20 MATCHES #
+
+### Experiment Scope Parameters ###
+exp.id=50
+numOfMatches=1
+
+#### Generic Match Scope Parameters ####
+match.0.type=Survey
+match.0.groupSize=1
+match.0.maxRounds=1
+match.0.exchangeRate=1
+match.0.practice=false
+match.0.matching=totalrandom
+
+### Survey specific match scope parameters ###
+
+match.0.roundsOfQuestions=1
+match.0.round.0.numOfQuestions=6
+
+match.0.round.0.question.0=If you have seven apples and eat four how many do you have left?
+match.0.round.0.question.0.type=choice
+match.0.round.0.question.0.ans.0=One
+match.0.round.0.question.0.ans.1=Two
+match.0.round.0.question.0.ans.2=Three
+match.0.round.0.question.0.ans.3=Four
+match.0.round.0.question.0.correct=2
+match.0.round.0.question.0.outputName=sevenMinusFourChoice
+
+match.0.round.0.question.1=Please answer the following questions as honestly as possible
+match.0.round.0.question.1.type=instruction
+
+match.0.round.0.question.2=If you have seven apples and eat four how many do you have left?
+match.0.round.0.question.2.type=dropdown
+match.0.round.0.question.2.ans.0=One
+match.0.round.0.question.2.ans.1=Two
+match.0.round.0.question.2.ans.2=Three
+match.0.round.0.question.2.ans.3=Four
+match.0.round.0.question.2.correct=2
+match.0.round.0.question.2.outputName=sevenMinusFourDropdown
+
+match.0.round.0.question.3=If you have seven apples and eat four how many do you have left?
+match.0.round.0.question.3.type=slider
+match.0.round.0.question.3.min=1
+match.0.round.0.question.3.max=4
+match.0.round.0.question.3.inc=1
+match.0.round.0.question.3.answer=3
+match.0.round.0.question.3.outputName=sevenMinusFourSlider
+
+match.0.round.0.question.4=If you have seven apples and eat four, how many do you have left?
+match.0.round.0.question.4.type=text
+match.0.round.0.question.4.outputName=sevenMinusFourText
+
+match.0.round.0.question.5=If you have seven apples and you eat four, how many do you have left?  (Please explain your steps)
+match.0.round.0.question.5.type=essay
+match.0.round.0.question.5.outputName=sevenMinusFourEssay
+
+match.0.repetitions=20
