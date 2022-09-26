@@ -1,0 +1,423 @@
+Session,matchId,roundId,clientId,Gender,Topic,Grade,Siblings,Track,Month,Year,payoff,selectionForOwn,selectionGivenToOther,selectionTime,selectionReceivedFromOther
+LILA-King-S1,0,0,5,Female,Art / Music,7,2 or more,ELD,aug.,2006,270,3,2,41269,6
+LILA-King-S1,0,0,0,Male,Science / Technology,6,2 or more,ELD,dec.,2005,180,1,4,15889,5
+LILA-King-S1,0,0,10,Male,Math,8,1,ELD,dec.,2004,210,6,4,10870,1
+LILA-King-S1,0,0,9,Female,Art / Music,7,2 or more,ELD,aug.,2004,240,6,2,27159,2
+LILA-King-S1,0,0,3,Female,History / Geography,6,2 or more,ELD,apr.,2007,180,3,2,37018,3
+LILA-King-S1,0,0,11,Male,Art / Music,6,0,ELD,jun.,2006,300,4,3,54441,6
+LILA-King-S1,0,0,2,Female,Math,7,2 or more,ELD,feb.,2006,240,4,1,19477,4
+LILA-King-S1,0,0,6,Male,History / Geography,8,1,ELD,nov.,2005,210,6,1,104519,1
+LILA-King-S1,0,0,7,Male,Science / Technology,8,0,ELD,jul.,2005,240,6,6,11371,2
+LILA-King-S1,0,0,8,Female,Science / Technology,7,2 or more,ELD,nov.,2005,300,5,5,47599,5
+LILA-King-S1,0,0,4,Female,Math,6,2 or more,ELD,jul.,2007,300,6,5,85902,4
+LILA-King-S1,0,0,1,Male,Math,8,1,ELD,apr.,2005,240,6,6,43828,2
+LILA-King-S1,1,0,3,Female,History / Geography,6,2 or more,ELD,apr.,2007,330,5,3,24964,6
+LILA-King-S1,1,0,11,Male,Art / Music,6,0,ELD,jun.,2006,240,5,2,15852,3
+LILA-King-S1,1,0,9,Female,Art / Music,7,2 or more,ELD,aug.,2004,330,5,3,20882,6
+LILA-King-S1,1,0,1,Male,Math,8,1,ELD,apr.,2005,210,5,6,18089,2
+LILA-King-S1,1,0,4,Female,Math,6,2 or more,ELD,jul.,2007,300,4,6,15803,6
+LILA-King-S1,1,0,6,Male,History / Geography,8,1,ELD,nov.,2005,330,5,4,39359,6
+LILA-King-S1,1,0,10,Male,Math,8,1,ELD,dec.,2004,180,5,6,10755,1
+LILA-King-S1,1,0,0,Male,Science / Technology,6,2 or more,ELD,dec.,2005,330,5,3,19505,6
+LILA-King-S1,1,0,7,Male,Science / Technology,8,0,ELD,jul.,2005,330,6,6,5777,5
+LILA-King-S1,1,0,8,Female,Science / Technology,7,2 or more,ELD,nov.,2005,270,5,1,44252,4
+LILA-King-S1,1,0,2,Female,Math,7,2 or more,ELD,feb.,2006,270,6,6,13924,3
+LILA-King-S1,1,0,5,Female,Art / Music,7,2 or more,ELD,aug.,2006,240,5,5,23160,3
+LILA-King-S2,0,0,8,Male,English,6,2 or more,Regular,aug.,2007,360,6,4,5445,6
+LILA-King-S2,0,0,1,Male,Science / Technology,6,0,Regular,oct.,2006,270,6,1,9310,3
+LILA-King-S2,0,0,3,Female,Art / Music,6,1,Regular,dec.,2006,210,5,2,9246,2
+LILA-King-S2,0,0,10,Female,English,6,0,Regular,jan.,2007,60,1,3,20226,1
+LILA-King-S2,0,0,7,Male,Science / Technology,6,2 or more,Regular,jul.,2007,150,1,1,17012,4
+LILA-King-S2,0,0,2,Female,Math,6,2 or more,Regular,dec.,2006,150,1,4,9134,4
+LILA-King-S2,0,0,5,Female,Art / Music,6,1,Regular,sep.,2007,180,2,6,8400,4
+LILA-King-S2,0,0,9,Male,Science / Technology,6,0,Regular,mar.,2007,270,5,5,15844,4
+LILA-King-S2,0,0,0,Female,Art / Music,6,2 or more,Regular,sep.,2007,330,6,2,6385,5
+LILA-King-S2,0,0,4,Male,Art / Music,6,1,Regular,jun.,2007,150,4,4,11454,1
+LILA-King-S2,0,0,11,Male,English,6,1,Regular,feb.,2007,270,5,4,12176,4
+LILA-King-S2,0,0,6,Male,History / Geography,6,1,Regular,may.,2006,150,3,4,22721,2
+LILA-King-S2,1,0,10,Female,English,6,0,Regular,jan.,2007,210,5,3,20846,2
+LILA-King-S2,1,0,1,Male,Science / Technology,6,0,Regular,oct.,2006,360,6,5,8839,6
+LILA-King-S2,1,0,2,Female,Math,6,2 or more,Regular,dec.,2006,210,5,6,10109,2
+LILA-King-S2,1,0,0,Female,Art / Music,6,2 or more,Regular,sep.,2007,240,3,4,10211,5
+LILA-King-S2,1,0,8,Male,English,6,2 or more,Regular,aug.,2007,300,6,6,10874,4
+LILA-King-S2,1,0,3,Female,Art / Music,6,1,Regular,dec.,2006,210,2,2,10613,5
+LILA-King-S2,1,0,9,Male,Science / Technology,6,0,Regular,mar.,2007,210,4,4,15314,3
+LILA-King-S2,1,0,11,Male,English,6,1,Regular,feb.,2007,240,4,2,15168,4
+LILA-King-S2,1,0,4,Male,Art / Music,6,1,Regular,jun.,2007,210,5,5,7118,2
+LILA-King-S2,1,0,7,Male,Science / Technology,6,2 or more,Regular,jul.,2007,360,6,3,22165,6
+LILA-King-S2,1,0,6,Male,History / Geography,6,1,Regular,may.,2006,210,4,1,21657,3
+LILA-King-S2,1,0,5,Female,Art / Music,6,1,Regular,sep.,2007,120,3,2,8098,1
+LILA-King-S3,0,0,11,Male,missing,6,missing,Honors,feb.,2007,360,6,4,17014,6
+LILA-King-S3,0,0,0,Male,missing,6,missing,Honors,oct.,2007,300,6,2,19768,4
+LILA-King-S3,0,0,3,Female,missing,6,missing,Honors,jul.,2007,300,6,3,33861,4
+LILA-King-S3,0,0,5,Female,missing,6,missing,Honors,oct.,2007,180,2,2,28297,4
+LILA-King-S3,0,0,6,Female,missing,6,missing,Honors,sep.,2005,60,1,5,29368,1
+LILA-King-S3,0,0,2,Male,missing,6,missing,Honors,oct.,2007,240,6,1,20826,2
+LILA-King-S3,0,0,4,Male,missing,6,missing,Honors,may.,2007,180,4,2,21179,2
+LILA-King-S3,0,0,9,Female,missing,6,missing,Honors,jan.,2007,240,6,3,49531,2
+LILA-King-S3,0,0,1,Female,missing,6,missing,Honors,oct.,2006,150,2,4,23021,3
+LILA-King-S3,0,0,7,Male,missing,6,missing,Honors,jan.,2007,270,6,6,17726,3
+LILA-King-S3,0,0,8,Female,missing,6,missing,Honors,jul.,2007,90,1,4,11522,2
+LILA-King-S3,0,0,10,Female,missing,6,missing,Honors,jun.,2007,270,4,2,10623,5
+LILA-King-S3,1,0,6,Female,missing,6,missing,Honors,sep.,2005,180,2,1,13024,4
+LILA-King-S3,1,0,5,Female,missing,6,missing,Honors,oct.,2007,210,3,5,12717,4
+LILA-King-S3,1,0,3,Female,missing,6,missing,Honors,jul.,2007,210,6,2,29977,1
+LILA-King-S3,1,0,9,Female,missing,6,missing,Honors,jan.,2007,330,6,4,26958,5
+LILA-King-S3,1,0,4,Male,missing,6,missing,Honors,may.,2007,180,4,4,15060,2
+LILA-King-S3,1,0,7,Male,missing,6,missing,Honors,jan.,2007,270,4,2,11840,5
+LILA-King-S3,1,0,11,Male,missing,6,missing,Honors,feb.,2007,240,2,1,11518,6
+LILA-King-S3,1,0,1,Female,missing,6,missing,Honors,oct.,2006,240,4,4,15862,4
+LILA-King-S3,1,0,2,Male,missing,6,missing,Honors,oct.,2007,300,5,6,9960,5
+LILA-King-S3,1,0,0,Male,missing,6,missing,Honors,oct.,2007,240,6,5,20487,2
+LILA-King-S3,1,0,10,Female,missing,6,missing,Honors,jun.,2007,270,5,5,8369,4
+LILA-King-S3,1,0,8,Female,missing,6,missing,Honors,jul.,2007,150,4,4,8577,1
+LILA-King-S4,0,0,2,Male,English,6,1,Honors,dec.,2006,60,1,1,11840,1
+LILA-King-S4,0,0,8,Female,Math,6,1,Honors,jul.,2007,120,3,5,32364,1
+LILA-King-S4,0,0,11,Male,History / Geography,6,1,Honors,jul.,2007,60,1,1,20049,1
+LILA-King-S4,0,0,6,Female,Science / Technology,6,1,Honors,feb.,2007,240,4,2,21671,4
+LILA-King-S4,0,0,1,Male,Math,6,1,Honors,feb.,2007,180,3,1,18054,3
+LILA-King-S4,0,0,4,Female,Art / Music,6,1,Honors,jan.,2007,240,4,3,17171,4
+LILA-King-S4,0,0,7,Female,Art / Music,6,2 or more,Honors,may.,2007,240,6,4,25667,2
+LILA-King-S4,0,0,0,Male,Science / Technology,6,2 or more,Honors,jul.,2007,150,1,5,25944,4
+LILA-King-S4,0,0,9,Female,Art / Music,6,2 or more,Honors,apr.,2007,330,6,4,7823,5
+LILA-King-S4,0,0,10,Male,English,6,1,Honors,jun.,2007,120,3,2,24114,1
+LILA-King-S4,0,0,5,Male,Science / Technology,6,0,Honors,nov.,2006,300,5,1,28323,5
+LILA-King-S4,0,0,3,Male,Science / Technology,6,1,Honors,dec.,2006,210,5,4,18058,2
+LILA-King-S4,1,0,0,Male,Science / Technology,6,2 or more,Honors,jul.,2007,360,6,3,12937,6
+LILA-King-S4,1,0,4,Female,Art / Music,6,1,Honors,jan.,2007,240,2,4,18726,6
+LILA-King-S4,1,0,7,Female,Art / Music,6,2 or more,Honors,may.,2007,210,5,5,9805,2
+LILA-King-S4,1,0,1,Male,Math,6,1,Honors,feb.,2007,300,4,6,17000,6
+LILA-King-S4,1,0,3,Male,Science / Technology,6,1,Honors,dec.,2006,240,4,3,13983,4
+LILA-King-S4,1,0,9,Female,Art / Music,6,2 or more,Honors,apr.,2007,180,3,1,5274,3
+LILA-King-S4,1,0,5,Male,Science / Technology,6,0,Honors,nov.,2006,180,3,6,12451,3
+LILA-King-S4,1,0,11,Male,History / Geography,6,1,Honors,jul.,2007,180,3,4,19912,3
+LILA-King-S4,1,0,2,Male,English,6,1,Honors,dec.,2006,240,5,6,8917,3
+LILA-King-S4,1,0,8,Female,Math,6,1,Honors,jul.,2007,180,5,2,29527,1
+LILA-King-S4,1,0,10,Male,English,6,1,Honors,jun.,2007,270,5,3,18203,4
+LILA-King-S4,1,0,6,Female,Science / Technology,6,1,Honors,feb.,2007,300,5,3,16062,5
+LILA-King-S5,0,0,0,Female,Art / Music,6,0,Regular,sep.,2007,210,6,2,33590,1
+LILA-King-S5,0,0,5,Male,Science / Technology,6,1,Regular,dec.,2006,150,1,4,31730,4
+LILA-King-S5,0,0,1,Female,Math,6,1,Regular,sep.,2007,360,6,2,34747,6
+LILA-King-S5,0,0,3,Male,History / Geography,6,2 or more,Regular,mar.,2007,150,3,4,21283,2
+LILA-King-S5,0,0,9,Male,History / Geography,6,1,Regular,jul.,2007,270,4,6,34194,5
+LILA-King-S5,0,0,4,Female,History / Geography,6,2 or more,Regular,aug.,2007,240,6,5,30566,2
+LILA-King-S5,0,0,7,Female,Math,6,1,Regular,mar.,2007,240,4,5,22955,4
+LILA-King-S5,0,0,10,Female,Math,6,2 or more,Regular,oct.,2006,180,4,1,27529,2
+LILA-King-S5,0,0,8,Male,Art / Music,6,2 or more,Regular,oct.,2006,300,6,2,13130,4
+LILA-King-S5,0,0,2,Male,Art / Music,6,2 or more,Regular,jan.,2007,180,4,2,53760,2
+LILA-King-S5,0,0,6,Female,Art / Music,6,2 or more,Regular,feb.,2007,330,6,4,43868,5
+LILA-King-S5,0,0,11,Male,Science / Technology,6,1,Regular,jan.,2007,330,5,6,48015,6
+LILA-King-S5,1,0,2,Male,Art / Music,6,2 or more,Regular,jan.,2007,180,5,2,29119,1
+LILA-King-S5,1,0,8,Male,Art / Music,6,2 or more,Regular,oct.,2006,330,6,5,21174,5
+LILA-King-S5,1,0,5,Male,Science / Technology,6,1,Regular,dec.,2006,270,6,6,31794,3
+LILA-King-S5,1,0,11,Male,Science / Technology,6,1,Regular,jan.,2007,300,4,2,13792,6
+LILA-King-S5,1,0,9,Male,History / Geography,6,1,Regular,jul.,2007,240,6,6,37880,2
+LILA-King-S5,1,0,10,Female,Math,6,2 or more,Regular,oct.,2006,150,2,5,21703,3
+LILA-King-S5,1,0,0,Female,Art / Music,6,0,Regular,sep.,2007,240,6,3,14036,2
+LILA-King-S5,1,0,3,Male,History / Geography,6,2 or more,Regular,mar.,2007,240,2,5,19507,6
+LILA-King-S5,1,0,1,Female,Math,6,1,Regular,sep.,2007,330,6,6,18976,5
+LILA-King-S5,1,0,7,Female,Math,6,1,Regular,mar.,2007,300,4,3,12718,6
+LILA-King-S5,1,0,4,Female,History / Geography,6,2 or more,Regular,aug.,2007,90,2,1,22807,1
+LILA-King-S5,1,0,6,Female,Art / Music,6,2 or more,Regular,feb.,2007,330,6,1,22799,5
+LILA-King-S6,0,0,11,Male,Science / Technology,8,2 or more,ELD,feb.,2005,300,4,3,62878,6
+LILA-King-S6,0,0,3,Male,Math,6,2 or more,ELD,aug.,2007,270,5,2,20543,4
+LILA-King-S6,0,0,2,Male,Science / Technology,8,2 or more,ELD,oct.,2004,360,6,3,12478,6
+LILA-King-S6,0,0,8,Female,Science / Technology,7,2 or more,ELD,jan.,2006,270,3,4,14536,6
+LILA-King-S6,0,0,5,Male,English,7,2 or more,ELD,dec.,2005,180,4,3,117852,2
+LILA-King-S6,0,0,10,Male,Math,6,1,ELD,sep.,2007,300,6,6,32536,4
+LILA-King-S6,0,0,9,Female,Art / Music,6,1,ELD,oct.,2007,180,5,6,18443,1
+LILA-King-S6,0,0,7,Male,Art / Music,7,2 or more,ELD,aug.,2006,270,6,1,59686,3
+LILA-King-S6,0,0,6,Male,History / Geography,6,2 or more,ELD,may.,2007,360,6,6,35910,6
+LILA-King-S6,0,0,1,Male,Science / Technology,6,1,ELD,oct.,2007,180,3,4,34391,3
+LILA-King-S6,1,0,7,Male,Art / Music,7,2 or more,ELD,aug.,2006,210,4,5,14881,3
+LILA-King-S6,1,0,3,Male,Math,6,2 or more,ELD,aug.,2007,120,2,2,8177,2
+LILA-King-S6,1,0,2,Male,Science / Technology,8,2 or more,ELD,oct.,2004,360,6,4,9809,6
+LILA-King-S6,1,0,8,Female,Science / Technology,7,2 or more,ELD,jan.,2006,240,2,5,15415,6
+LILA-King-S6,1,0,5,Male,English,7,2 or more,ELD,dec.,2005,330,6,2,29710,5
+LILA-King-S6,1,0,6,Male,History / Geography,6,2 or more,ELD,may.,2007,300,5,3,32289,5
+LILA-King-S6,1,0,9,Female,Art / Music,6,1,ELD,oct.,2007,90,2,3,14822,1
+LILA-King-S6,1,0,10,Male,Math,6,1,ELD,sep.,2007,360,6,6,21595,6
+LILA-King-S6,1,0,1,Male,Science / Technology,6,1,ELD,oct.,2007,180,4,4,17631,2
+LILA-King-S6,1,0,11,Male,Science / Technology,8,2 or more,ELD,feb.,2005,270,5,1,26747,4
+LILA-King-S7,0,0,1,Female,Math,6,2 or more,Honors,sep.,2007,210,6,4,32419,1
+LILA-King-S7,0,0,10,Male,Art / Music,8,2 or more,SPED,oct.,2005,330,5,6,40251,6
+LILA-King-S7,0,0,4,Male,Science / Technology,8,2 or more,SPED,dec.,2004,240,5,2,22918,3
+LILA-King-S7,0,0,0,Female,Math,6,2 or more,Honors,sep.,2007,270,5,3,37164,4
+LILA-King-S7,0,0,2,Male,Art / Music,8,0,SPED,jun.,2004,240,3,1,36696,5
+LILA-King-S7,0,0,9,Male,History / Geography,8,0,SPED,jun.,2005,240,2,2,18503,6
+LILA-King-S7,0,0,6,Male,Math,6,1,Honors,may.,2007,150,4,4,15987,1
+LILA-King-S7,0,0,3,Female,Art / Music,6,1,Honors,jul.,2007,120,2,5,17949,2
+LILA-King-S7,0,0,11,Male,Math,8,2 or more,SPED,jul.,2004,270,6,6,26634,3
+LILA-King-S7,0,0,5,Male,Science / Technology,8,2 or more,SPED,mar.,2005,300,6,3,32134,4
+LILA-King-S7,0,0,7,Male,Math,6,2 or more,Honors,may.,2007,330,6,1,13593,5
+LILA-King-S7,0,0,8,Male,Art / Music,8,1,SPED,nov.,2004,240,6,5,42358,2
+LILA-King-S7,1,0,6,Male,Math,6,1,Honors,may.,2007,150,4,2,17286,1
+LILA-King-S7,1,0,1,Female,Math,6,2 or more,Honors,sep.,2007,240,4,2,13838,4
+LILA-King-S7,1,0,5,Male,Science / Technology,8,2 or more,SPED,mar.,2005,240,6,3,26702,2
+LILA-King-S7,1,0,9,Male,History / Geography,8,0,SPED,jun.,2005,270,6,1,18186,3
+LILA-King-S7,1,0,4,Male,Science / Technology,8,2 or more,SPED,dec.,2004,270,6,6,16827,3
+LILA-King-S7,1,0,10,Male,Art / Music,8,2 or more,SPED,oct.,2005,300,6,3,35894,4
+LILA-King-S7,1,0,8,Male,Art / Music,8,1,SPED,nov.,2004,150,4,5,26454,1
+LILA-King-S7,1,0,2,Male,Art / Music,8,0,SPED,jun.,2004,240,3,4,20099,5
+LILA-King-S7,1,0,3,Female,Art / Music,6,1,Honors,jul.,2007,360,6,5,13154,6
+LILA-King-S7,1,0,7,Male,Math,6,2 or more,Honors,may.,2007,330,6,1,23806,5
+LILA-King-S7,1,0,11,Male,Math,8,2 or more,SPED,jul.,2004,240,6,4,30652,2
+LILA-King-S7,1,0,0,Female,Math,6,2 or more,Honors,sep.,2007,90,1,2,15446,2
+LILA-King-S8,0,0,2,Male,History / Geography,7,2 or more,SPED,dec.,2005,120,3,6,18262,1
+LILA-King-S8,0,0,5,Female,Math,7,1,SPED,apr.,2006,270,4,4,73910,5
+LILA-King-S8,0,0,10,Female,History / Geography,8,1,SPED,jun.,2005,360,6,2,8053,6
+LILA-King-S8,0,0,0,Male,Science / Technology,7,2 or more,SPED,jul.,2005,300,5,4,26740,5
+LILA-King-S8,0,0,11,Female,History / Geography,8,1,SPED,jun.,2005,90,2,4,72365,1
+LILA-King-S8,0,0,3,Male,English,7,1,SPED,apr.,2006,150,2,1,37788,3
+LILA-King-S8,0,0,8,Male,Art / Music,7,2 or more,SPED,oct.,2006,300,6,2,31169,4
+LILA-King-S8,0,0,6,Male,Math,7,1,SPED,sep.,2006,240,6,1,51339,2
+LILA-King-S8,0,0,7,Male,English,7,2 or more,SPED,sep.,2006,300,6,3,45580,4
+LILA-King-S8,0,0,1,Male,Math,8,2 or more,SPED,aug.,2005,210,3,3,13307,4
+LILA-King-S8,0,0,9,Male,Art / Music,7,2 or more,SPED,feb.,2006,270,6,5,32483,3
+LILA-King-S8,0,0,4,Male,Science / Technology,7,2 or more,SPED,aug.,2006,210,5,5,55335,2
+LILA-King-S8,1,0,1,Male,Math,8,2 or more,SPED,aug.,2005,270,4,4,10842,5
+LILA-King-S8,1,0,10,Female,History / Geography,8,1,SPED,jun.,2005,300,6,4,24439,4
+LILA-King-S8,1,0,4,Male,Science / Technology,7,2 or more,SPED,aug.,2006,300,6,5,20474,4
+LILA-King-S8,1,0,3,Male,English,7,1,SPED,apr.,2006,150,3,6,39355,2
+LILA-King-S8,1,0,0,Male,Science / Technology,7,2 or more,SPED,jul.,2005,210,1,4,15236,6
+LILA-King-S8,1,0,6,Male,Math,7,1,SPED,sep.,2006,300,6,2,20944,4
+LILA-King-S8,1,0,7,Male,English,7,2 or more,SPED,sep.,2006,210,3,4,39762,4
+LILA-King-S8,1,0,8,Male,Art / Music,7,2 or more,SPED,oct.,2006,300,6,4,20546,4
+LILA-King-S8,1,0,5,Female,Math,7,1,SPED,apr.,2006,240,4,1,33539,4
+LILA-King-S8,1,0,9,Male,Art / Music,7,2 or more,SPED,feb.,2006,300,6,4,23770,4
+LILA-King-S8,1,0,2,Male,History / Geography,7,2 or more,SPED,dec.,2005,150,4,3,15436,1
+LILA-King-S8,1,0,11,Female,History / Geography,8,1,SPED,jun.,2005,240,5,4,26035,3
+LILA-King-S9,0,0,5,Male,History / Geography,6,2 or more,At risk,may.,2007,240,6,2,64331,2
+LILA-King-S9,0,0,8,Female,Science / Technology,8,2 or more,At risk,oct.,2005,240,5,3,43158,3
+LILA-King-S9,0,0,0,Male,Science / Technology,6,1,At risk,jun.,2007,60,1,6,48574,1
+LILA-King-S9,0,0,11,Female,Science / Technology,7,0,At risk,aug.,2006,120,2,4,33259,2
+LILA-King-S9,0,0,6,Male,Science / Technology,6,2 or more,Regular,apr.,2007,270,6,6,30761,3
+LILA-King-S9,0,0,2,Male,Science / Technology,6,1,Regular,mar.,2006,270,3,1,38501,6
+LILA-King-S9,0,0,7,Male,Art / Music,6,0,Regular,jan.,2007,180,2,2,28974,4
+LILA-King-S9,0,0,1,Female,Art / Music,6,0,At risk,aug.,2007,150,4,2,34597,1
+LILA-King-S9,0,0,3,Male,English,7,2 or more,At risk,jun.,2005,240,6,1,36421,2
+LILA-King-S9,0,0,4,Female,Science / Technology,6,0,At risk,mar.,2007,240,2,6,48266,6
+LILA-King-S9,0,0,10,Male,Art / Music,6,2 or more,At risk,jul.,2007,330,5,3,90672,6
+LILA-King-S9,0,0,9,Male,Math,7,0,At risk,jun.,2006,270,5,4,45295,4
+LILA-King-S9,1,0,5,Male,History / Geography,6,2 or more,At risk,may.,2007,180,4,5,41146,2
+LILA-King-S9,1,0,0,Male,Science / Technology,6,1,At risk,jun.,2007,90,1,4,14803,2
+LILA-King-S9,1,0,3,Male,English,7,2 or more,At risk,jun.,2005,330,6,1,25498,5
+LILA-King-S9,1,0,10,Male,Art / Music,6,2 or more,At risk,jul.,2007,180,2,4,26970,4
+LILA-King-S9,1,0,2,Male,Science / Technology,6,1,Regular,mar.,2006,300,6,2,14618,4
+LILA-King-S9,1,0,1,Female,Art / Music,6,0,At risk,aug.,2007,210,6,1,18119,1
+LILA-King-S9,1,0,8,Female,Science / Technology,8,2 or more,At risk,oct.,2005,300,6,4,18965,4
+LILA-King-S9,1,0,4,Female,Science / Technology,6,0,At risk,mar.,2007,90,1,4,19137,2
+LILA-King-S9,1,0,7,Male,Art / Music,6,0,Regular,jan.,2007,240,4,2,12440,4
+LILA-King-S9,1,0,9,Male,Math,7,0,At risk,jun.,2006,120,1,4,32865,3
+LILA-King-S9,1,0,11,Female,Science / Technology,7,0,At risk,aug.,2006,150,4,3,15041,1
+LILA-King-S9,1,0,6,Male,Science / Technology,6,2 or more,Regular,apr.,2007,270,5,2,16578,4
+LILA-King-S10,0,0,11,Male,Math,8,1,SPED,nov.,2005,150,3,4,24077,2
+LILA-King-S10,0,0,7,Male,Art / Music,8,2 or more,SPED,oct.,2005,270,6,5,20437,3
+LILA-King-S10,0,0,0,Male,English,6,0,Honors,apr.,2007,180,5,3,23092,1
+LILA-King-S10,0,0,3,Female,Art / Music,8,2 or more,SPED,mar.,2005,210,6,5,27693,1
+LILA-King-S10,0,0,10,Female,Art / Music,8,2 or more,SPED,sep.,2005,180,3,6,23438,3
+LILA-King-S10,0,0,4,Female,Art / Music,6,2 or more,Honors,jan.,2007,330,5,1,11670,6
+LILA-King-S10,0,0,1,Male,Science / Technology,6,1,Honors,sep.,2006,180,1,2,41934,5
+LILA-King-S10,0,0,2,Male,Art / Music,8,2 or more,SPED,nov.,2005,210,6,1,22587,1
+LILA-King-S10,0,0,8,Female,Art / Music,8,2 or more,SPED,sep.,2005,270,3,3,23174,6
+LILA-King-S10,0,0,9,Male,Science / Technology,6,1,Honors,mar.,2007,300,6,3,53258,4
+LILA-King-S10,0,0,5,Female,Art / Music,6,2 or more,Honors,aug.,2007,300,5,1,10533,5
+LILA-King-S10,0,0,6,Male,Science / Technology,8,2 or more,SPED,jan.,2005,270,6,6,10012,3
+LILA-King-S10,1,0,5,Female,Art / Music,6,2 or more,Honors,aug.,2007,240,4,4,11838,4
+LILA-King-S10,1,0,4,Female,Art / Music,6,2 or more,Honors,jan.,2007,330,6,6,9489,5
+LILA-King-S10,1,0,1,Male,Science / Technology,6,1,Honors,sep.,2006,240,5,1,29419,3
+LILA-King-S10,1,0,8,Female,Art / Music,8,2 or more,SPED,sep.,2005,360,6,3,15862,6
+LILA-King-S10,1,0,10,Female,Art / Music,8,2 or more,SPED,sep.,2005,270,4,6,9780,5
+LILA-King-S10,1,0,2,Male,Art / Music,8,2 or more,SPED,nov.,2005,330,5,1,15590,6
+LILA-King-S10,1,0,6,Male,Science / Technology,8,2 or more,SPED,jan.,2005,270,6,5,12381,3
+LILA-King-S10,1,0,11,Male,Math,8,1,SPED,nov.,2005,210,6,3,17292,1
+LILA-King-S10,1,0,7,Male,Art / Music,8,2 or more,SPED,oct.,2005,240,5,4,28173,3
+LILA-King-S10,1,0,3,Female,Art / Music,8,2 or more,SPED,mar.,2005,210,3,3,11478,4
+LILA-King-S10,1,0,0,Male,English,6,0,Honors,apr.,2007,150,4,5,12836,1
+LILA-King-S10,1,0,9,Male,Science / Technology,6,1,Honors,mar.,2007,150,2,3,32165,3
+LILA-King-S11,0,0,5,Male,Science / Technology,7,1,SPED,dec.,2005,150,4,4,18647,1
+LILA-King-S11,0,0,1,Male,Science / Technology,7,2 or more,ELD,may.,2006,210,6,4,9710,1
+LILA-King-S11,0,0,0,Female,History / Geography,8,2 or more,ELD,dec.,2004,150,4,1,19803,1
+LILA-King-S11,0,0,2,Male,English,7,0,ELD,jan.,2006,180,2,6,14392,4
+LILA-King-S11,0,0,11,Female,Math,7,2 or more,ELD,aug.,2006,270,3,4,44673,6
+LILA-King-S11,0,0,8,Female,Art / Music,7,2 or more,ELD,dec.,2005,270,5,1,26118,4
+LILA-King-S11,0,0,7,Male,History / Geography,7,2 or more,ELD,apr.,2006,210,6,6,30644,1
+LILA-King-S11,0,0,6,Male,History / Geography,7,1,ELD,jun.,2006,300,5,2,40648,5
+LILA-King-S11,0,0,3,Female,Art / Music,8,1,SPED,sep.,2005,150,3,1,15356,2
+LILA-King-S11,0,0,9,Female,Science / Technology,8,2 or more,ELD,may.,2005,90,2,5,23195,1
+LILA-King-S11,0,0,4,Male,Math,7,2 or more,ELD,may.,2006,360,6,1,10349,6
+LILA-King-S11,1,0,7,Male,History / Geography,7,2 or more,ELD,apr.,2006,270,4,3,19297,5
+LILA-King-S11,1,0,9,Female,Science / Technology,8,2 or more,ELD,may.,2005,180,4,3,9316,2
+LILA-King-S11,1,0,4,Male,Math,7,2 or more,ELD,may.,2006,330,5,2,8389,6
+LILA-King-S11,1,0,3,Female,Art / Music,8,1,SPED,sep.,2005,240,6,5,16641,2
+LILA-King-S11,1,0,8,Female,Art / Music,7,2 or more,ELD,dec.,2005,210,5,3,21089,2
+LILA-King-S11,1,0,11,Female,Math,7,2 or more,ELD,aug.,2006,210,4,2,15450,3
+LILA-King-S11,1,0,6,Male,History / Geography,7,1,ELD,jun.,2006,210,6,3,20417,1
+LILA-King-S11,1,0,1,Male,Science / Technology,7,2 or more,ELD,may.,2006,270,6,2,9510,3
+LILA-King-S11,1,0,0,Female,History / Geography,8,2 or more,ELD,dec.,2004,180,3,6,14057,3
+LILA-King-S11,1,0,2,Male,English,7,0,ELD,jan.,2006,300,5,1,21255,5
+LILA-King-S11,1,0,5,Male,Science / Technology,7,1,SPED,dec.,2005,180,4,2,10529,2
+LILA-King-S12,0,0,7,Male,History / Geography,6,0,Regular,jun.,2007,240,6,4,5842,2
+LILA-King-S12,0,0,1,Female,Science / Technology,6,2 or more,Regular,may.,2007,180,4,4,24613,2
+LILA-King-S12,0,0,2,Female,Science / Technology,7,2 or more,SPED,nov.,2006,210,3,6,8576,4
+LILA-King-S12,0,0,4,Male,Math,6,2 or more,Regular,mar.,2007,210,1,6,30035,6
+LILA-King-S12,0,0,6,Male,History / Geography,6,2 or more,Regular,dec.,2006,120,3,2,13113,1
+LILA-King-S12,0,0,9,Male,Science / Technology,6,0,Regular,aug.,2007,210,6,3,13531,1
+LILA-King-S12,0,0,11,Male,History / Geography,7,1,SPED,feb.,2006,210,6,6,23125,1
+LILA-King-S12,0,0,5,Female,Art / Music,6,2 or more,Regular,nov.,2007,360,6,1,10430,6
+LILA-King-S12,0,0,0,Female,History / Geography,6,2 or more,Regular,apr.,2007,330,5,2,90012,6
+LILA-King-S12,0,0,10,Female,Art / Music,7,1,SPED,apr.,2004,270,6,1,63766,3
+LILA-King-S12,0,0,8,Female,Art / Music,6,2 or more,Regular,oct.,2007,240,4,1,14143,4
+LILA-King-S12,1,0,1,Female,Science / Technology,6,2 or more,Regular,may.,2007,240,6,3,26235,2
+LILA-King-S12,1,0,2,Female,Science / Technology,7,2 or more,SPED,nov.,2006,120,2,4,29089,2
+LILA-King-S12,1,0,11,Male,History / Geography,7,1,SPED,feb.,2006,270,6,3,30821,3
+LILA-King-S12,1,0,10,Female,Art / Music,7,1,SPED,apr.,2004,300,6,2,34892,4
+LILA-King-S12,1,0,9,Male,Science / Technology,6,0,Regular,aug.,2007,270,6,1,33873,3
+LILA-King-S12,1,0,6,Male,History / Geography,6,2 or more,Regular,dec.,2006,180,4,2,22181,2
+LILA-King-S12,1,0,8,Female,Art / Music,6,2 or more,Regular,oct.,2007,90,1,2,24121,2
+LILA-King-S12,1,0,7,Male,History / Geography,6,0,Regular,jun.,2007,210,6,1,34983,1
+LILA-King-S12,1,0,4,Male,Math,6,2 or more,Regular,mar.,2007,120,2,2,24268,2
+LILA-King-S12,1,0,0,Female,History / Geography,6,2 or more,Regular,apr.,2007,150,1,4,26110,4
+LILA-King-S12,1,0,5,Female,Art / Music,6,2 or more,Regular,nov.,2007,150,4,1,33945,1
+LILA-King-S13,0,0,2,Male,Math,6,1,Regular,feb.,2007,300,6,2,9142,4
+LILA-King-S13,0,0,3,Male,Science / Technology,6,2 or more,Regular,feb.,2007,300,5,4,19220,5
+LILA-King-S13,0,0,0,Male,English,6,0,Regular,jan.,2007,240,6,1,10147,2
+LILA-King-S13,0,0,4,Female,Science / Technology,6,1,Regular,may.,2007,240,6,5,24658,2
+LILA-King-S13,0,0,11,Female,Art / Music,6,2 or more,Regular,may.,2007,180,5,2,16340,1
+LILA-King-S13,0,0,5,Female,Science / Technology,6,2 or more,Regular,jan.,2007,180,5,2,33847,1
+LILA-King-S13,0,0,9,Male,Math,6,1,Regular,dec.,2006,210,1,5,12421,6
+LILA-King-S13,0,0,8,Male,Math,6,1,Regular,sep.,2007,270,4,1,11094,5
+LILA-King-S13,0,0,1,Male,Science / Technology,6,2 or more,Regular,sep.,2007,180,4,2,13004,2
+LILA-King-S13,0,0,10,Male,History / Geography,6,2 or more,Regular,jun.,2007,240,6,6,15992,2
+LILA-King-S13,0,0,6,Female,Math,6,2 or more,Regular,aug.,2007,180,1,1,24805,5
+LILA-King-S13,0,0,7,Male,Science / Technology,6,2 or more,Regular,jun.,2007,210,6,5,25437,1
+LILA-King-S13,1,0,5,Female,Science / Technology,6,2 or more,Regular,jan.,2007,240,6,1,42980,2
+LILA-King-S13,1,0,7,Male,Science / Technology,6,2 or more,Regular,jun.,2007,150,2,2,23157,3
+LILA-King-S13,1,0,1,Male,Science / Technology,6,2 or more,Regular,sep.,2007,210,3,6,21678,4
+LILA-King-S13,1,0,4,Female,Science / Technology,6,1,Regular,may.,2007,210,6,2,33319,1
+LILA-King-S13,1,0,8,Male,Math,6,1,Regular,sep.,2007,240,3,4,21112,5
+LILA-King-S13,1,0,6,Female,Math,6,2 or more,Regular,aug.,2007,240,2,3,22855,6
+LILA-King-S13,1,0,11,Female,Art / Music,6,2 or more,Regular,may.,2007,120,1,1,21422,3
+LILA-King-S13,1,0,3,Male,Science / Technology,6,2 or more,Regular,feb.,2007,240,3,5,23800,5
+LILA-King-S13,1,0,9,Male,Math,6,1,Regular,dec.,2006,150,3,3,31243,2
+LILA-King-S13,1,0,0,Male,English,6,0,Regular,jan.,2007,240,6,2,21586,2
+LILA-King-S13,1,0,10,Male,History / Geography,6,2 or more,Regular,jun.,2007,180,5,5,19600,1
+LILA-King-S13,1,0,2,Male,Math,6,1,Regular,feb.,2007,240,5,3,28782,3
+LILA-King-S14,0,0,4,Male,Science / Technology,7,1,ELD,aug.,2006,150,4,5,40982,1
+LILA-King-S14,0,0,9,Male,Art / Music,6,2 or more,ELD,sep.,2007,210,6,4,73431,1
+LILA-King-S14,0,0,3,Male,History / Geography,7,2 or more,ELD,aug.,2006,300,4,2,20705,6
+LILA-King-S14,0,0,7,Female,Math,7,2 or more,ELD,dec.,2006,180,4,3,83336,2
+LILA-King-S14,0,0,1,Male,Math,8,0,ELD,feb.,2005,150,1,2,26185,4
+LILA-King-S14,0,0,6,Female,English,7,2 or more,ELD,nov.,2006,360,6,6,21468,6
+LILA-King-S14,0,0,2,Female,Math,7,2 or more,ELD,sep.,2006,180,3,6,39658,3
+LILA-King-S14,0,0,5,Female,English,8,2 or more,ELD,apr.,2004,240,6,1,27858,2
+LILA-King-S14,0,0,8,Male,Art / Music,7,2 or more,ELD,may.,2005,240,3,5,25638,5
+LILA-King-S14,0,0,10,Male,Science / Technology,8,1,ELD,feb.,2005,360,6,3,23548,6
+LILA-King-S14,0,0,0,Male,Art / Music,7,2 or more,ELD,aug.,2005,330,6,1,14190,5
+LILA-King-S14,0,0,11,Male,Math,7,2 or more,ELD,oct.,2007,180,3,6,64585,3
+LILA-King-S14,1,0,3,Male,History / Geography,7,2 or more,ELD,aug.,2006,120,1,2,13199,3
+LILA-King-S14,1,0,11,Male,Math,7,2 or more,ELD,oct.,2007,120,2,6,26406,2
+LILA-King-S14,1,0,5,Female,English,8,2 or more,ELD,apr.,2004,240,5,3,20766,3
+LILA-King-S14,1,0,6,Female,English,7,2 or more,ELD,nov.,2006,300,4,6,10758,6
+LILA-King-S14,1,0,9,Male,Art / Music,6,2 or more,ELD,sep.,2007,210,3,3,15000,4
+LILA-King-S14,1,0,0,Male,Art / Music,7,2 or more,ELD,aug.,2005,270,6,1,3754,3
+LILA-King-S14,1,0,10,Male,Science / Technology,8,1,ELD,feb.,2005,180,4,3,20095,2
+LILA-King-S14,1,0,4,Male,Science / Technology,7,1,ELD,aug.,2006,240,5,2,19784,3
+LILA-King-S14,1,0,8,Male,Art / Music,7,2 or more,ELD,may.,2005,180,1,3,15237,5
+LILA-King-S14,1,0,7,Female,Math,7,2 or more,ELD,dec.,2006,120,3,3,9226,1
+LILA-King-S14,1,0,2,Female,Math,7,2 or more,ELD,sep.,2006,210,4,4,18095,3
+LILA-King-S14,1,0,1,Male,Math,8,0,ELD,feb.,2005,300,4,5,19312,6
+LILA-King-S15,0,0,2,Male,Art / Music,6,2 or more,ELD,sep.,2006,150,3,3,23594,2
+LILA-King-S15,0,0,9,Female,English,8,1,ELD,aug.,2005,150,2,5,28751,3
+LILA-King-S15,0,0,10,Female,English,7,2 or more,ELD,dec.,2005,180,5,5,17151,1
+LILA-King-S15,0,0,5,Male,Science / Technology,6,2 or more,ELD,aug.,2007,300,5,2,79291,5
+LILA-King-S15,0,0,1,Male,Math,8,1,ELD,mar.,2005,270,5,1,10481,4
+LILA-King-S15,0,0,0,Male,Art / Music,7,2 or more,SPED,jul.,2005,240,6,1,39472,2
+LILA-King-S15,0,0,4,Female,Art / Music,8,0,SPED,jun.,2005,270,4,2,18032,5
+LILA-King-S15,0,0,8,Male,Math,6,2 or more,ELD,apr.,2008,180,5,5,163841,1
+LILA-King-S15,0,0,7,Male,Math,7,1,ELD,jun.,2006,120,3,2,16491,1
+LILA-King-S15,0,0,6,Female,Science / Technology,7,1,ELD,jul.,2005,330,6,4,17626,5
+LILA-King-S15,0,0,3,Male,Math,7,2 or more,SPED,jan.,2006,330,6,1,21710,5
+LILA-King-S15,1,0,5,Male,Science / Technology,6,2 or more,ELD,aug.,2007,210,5,2,40604,2
+LILA-King-S15,1,0,10,Female,English,7,2 or more,ELD,dec.,2005,180,4,2,19461,2
+LILA-King-S15,1,0,2,Male,Art / Music,6,2 or more,ELD,sep.,2006,270,5,1,16750,4
+LILA-King-S15,1,0,9,Female,English,8,1,ELD,aug.,2005,180,5,5,15778,1
+LILA-King-S15,1,0,1,Male,Math,8,1,ELD,mar.,2005,330,6,5,17123,5
+LILA-King-S15,1,0,8,Male,Math,6,2 or more,ELD,apr.,2008,330,6,1,18873,5
+LILA-King-S15,1,0,6,Female,Science / Technology,7,1,ELD,jul.,2005,150,4,5,15686,1
+LILA-King-S15,1,0,3,Male,Math,7,2 or more,SPED,jan.,2006,210,6,2,11949,1
+LILA-King-S15,1,0,0,Male,Art / Music,7,2 or more,SPED,jul.,2005,240,6,3,15686,2
+LILA-King-S15,1,0,7,Male,Math,7,1,ELD,jun.,2006,240,5,4,15053,3
+LILA-King-S15,1,0,4,Female,Art / Music,8,0,SPED,jun.,2005,330,6,3,31041,5
+LILA-King-S16,0,0,6,Female,English,8,2 or more,At risk,sep.,2005,60,1,3,25065,1
+LILA-King-S16,0,0,2,Female,Art / Music,8,2 or more,At risk,apr.,2005,120,2,1,32384,2
+LILA-King-S16,0,0,8,Male,Math,6,2 or more,SPED,oct.,2007,270,4,6,55812,5
+LILA-King-S16,0,0,1,Female,English,8,1,At risk,jun.,2005,270,6,1,23481,3
+LILA-King-S16,0,0,4,Female,Math,8,2 or more,At risk,oct.,2005,150,3,5,25156,2
+LILA-King-S16,0,0,5,Female,Math,8,2 or more,At risk,jul.,2005,180,5,1,21858,1
+LILA-King-S16,0,0,7,Female,Math,8,2 or more,At risk,aug.,2005,300,4,2,28936,6
+LILA-King-S16,0,0,0,Female,History / Geography,8,0,At risk,jun.,2005,210,6,2,29516,1
+LILA-King-S16,0,0,3,Female,English,8,2 or more,At risk,oct.,2005,360,6,6,17236,6
+LILA-King-S16,1,0,7,Female,Math,8,2 or more,At risk,aug.,2005,330,6,5,24149,5
+LILA-King-S16,1,0,6,Female,English,8,2 or more,At risk,sep.,2005,90,1,2,20418,2
+LILA-King-S16,1,0,3,Female,English,8,2 or more,At risk,oct.,2005,330,6,2,17105,5
+LILA-King-S16,1,0,1,Female,English,8,1,At risk,jun.,2005,330,6,2,13734,5
+LILA-King-S16,1,0,2,Female,Art / Music,8,2 or more,At risk,apr.,2005,210,5,5,18963,2
+LILA-King-S16,1,0,8,Male,Math,6,2 or more,SPED,oct.,2007,150,3,6,27952,2
+LILA-King-S16,1,0,0,Female,History / Geography,8,0,At risk,jun.,2005,120,1,2,14481,3
+LILA-King-S16,1,0,5,Female,Math,8,2 or more,At risk,jul.,2005,150,3,5,23096,2
+LILA-King-S16,1,0,4,Female,Math,8,2 or more,At risk,oct.,2005,330,5,3,18954,6
+LILA-King-S17,0,0,4,Female,Math,7,2 or more,ELD,nov.,2006,360,6,1,38342,6
+LILA-King-S17,0,0,3,Female,History / Geography,6,2 or more,ELD,may.,2007,300,4,3,24917,6
+LILA-King-S17,0,0,1,Female,Science / Technology,7,1,ELD,sep.,2006,270,6,4,12204,3
+LILA-King-S17,0,0,2,Female,Science / Technology,6,2 or more,ELD,jul.,2007,210,6,2,41904,1
+LILA-King-S17,0,0,5,Female,Math,7,2 or more,ELD,oct.,2006,180,2,6,24644,4
+LILA-King-S17,1,0,4,Female,Math,7,2 or more,ELD,nov.,2006,240,6,2,18751,2
+LILA-King-S17,1,0,2,Female,Science / Technology,6,2 or more,ELD,jul.,2007,240,2,2,11974,6
+LILA-King-S17,1,0,3,Female,History / Geography,6,2 or more,ELD,may.,2007,210,1,5,11808,6
+LILA-King-S17,1,0,1,Female,Science / Technology,7,1,ELD,sep.,2006,120,2,6,14968,2
+LILA-King-S17,1,0,5,Female,Math,7,2 or more,ELD,oct.,2006,180,1,2,16941,5
+LILA-King-S18,0,0,3,Female,Art / Music,6,1,Honors,dec.,2006,120,2,3,65284,2
+LILA-King-S18,0,0,10,Male,Science / Technology,6,1,Honors,dec.,2006,210,2,1,10224,5
+LILA-King-S18,0,0,5,Male,History / Geography,6,0,Honors,feb.,2007,270,6,1,58483,3
+LILA-King-S18,0,0,1,Female,Math,6,0,Honors,nov.,2006,150,4,2,13853,1
+LILA-King-S18,0,0,9,Female,Science / Technology,6,1,Honors,aug.,2007,330,5,1,21688,6
+LILA-King-S18,0,0,2,Male,Art / Music,6,1,Honors,mar.,2007,210,5,1,26250,2
+LILA-King-S18,0,0,0,Female,Math,6,1,Honors,nov.,2007,90,2,2,18418,1
+LILA-King-S18,0,0,11,Female,Science / Technology,6,0,Honors,apr.,2007,90,2,1,60336,1
+LILA-King-S18,0,0,6,Male,Math,6,1,Honors,sep.,2007,180,3,2,19964,3
+LILA-King-S18,0,0,4,Male,Science / Technology,6,2 or more,Honors,feb.,2007,150,4,3,66196,1
+LILA-King-S18,0,0,8,Female,Art / Music,6,2 or more,Honors,apr.,2007,210,5,5,44726,2
+LILA-King-S18,1,0,6,Male,Math,6,1,Honors,sep.,2007,240,4,2,19265,4
+LILA-King-S18,1,0,2,Male,Art / Music,6,1,Honors,mar.,2007,270,6,2,23588,3
+LILA-King-S18,1,0,5,Male,History / Geography,6,0,Honors,feb.,2007,90,2,4,19572,1
+LILA-King-S18,1,0,10,Male,Science / Technology,6,1,Honors,dec.,2006,270,6,2,16239,3
+LILA-King-S18,1,0,8,Female,Art / Music,6,2 or more,Honors,apr.,2007,120,2,3,27662,2
+LILA-King-S18,1,0,0,Female,Math,6,1,Honors,nov.,2007,240,6,3,23873,2
+LILA-King-S18,1,0,4,Male,Science / Technology,6,2 or more,Honors,feb.,2007,150,3,4,33139,2
+LILA-King-S18,1,0,11,Female,Science / Technology,6,0,Honors,apr.,2007,150,2,4,15925,3
+LILA-King-S18,1,0,1,Female,Math,6,0,Honors,nov.,2006,270,5,2,13055,4
+LILA-King-S18,1,0,3,Female,Art / Music,6,1,Honors,dec.,2006,120,2,1,23808,2
+LILA-King-S18,1,0,9,Female,Science / Technology,6,1,Honors,aug.,2007,240,2,3,11602,6
+LILA-King-S19,0,0,0,Male,Science / Technology,6,0,Honors,dec.,2006,330,6,2,27372,5
+LILA-King-S19,0,0,5,Male,Math,6,1,Honors,oct.,2006,90,1,1,12907,2
+LILA-King-S19,0,0,3,Female,English,6,0,Honors,mar.,2007,180,5,2,24916,1
+LILA-King-S19,0,0,4,Female,Art / Music,6,1,Honors,may.,2007,240,2,3,17256,6
+LILA-King-S19,0,0,7,Male,Science / Technology,6,0,Honors,may.,2007,90,2,1,13660,1
+LILA-King-S19,0,0,1,Male,Math,6,1,Honors,sep.,2006,150,4,1,25426,1
+LILA-King-S19,0,0,8,Female,English,6,2 or more,Honors,may.,2007,360,6,5,35646,6
+LILA-King-S19,0,0,10,Male,Art / Music,8,2 or more,SPED,nov.,2005,240,3,5,26025,5
+LILA-King-S19,0,0,9,Male,Science / Technology,6,1,Honors,jan.,2007,90,2,3,19503,1
+LILA-King-S19,0,0,6,Male,Art / Music,6,1,Honors,jun.,2007,270,6,6,22015,3
+LILA-King-S19,0,0,11,Male,Art / Music,8,1,SPED,jan.,2005,180,3,1,19663,3
+LILA-King-S19,1,0,6,Male,Art / Music,6,1,Honors,jun.,2007,360,6,6,10246,6
+LILA-King-S19,1,0,8,Female,English,6,2 or more,Honors,may.,2007,300,5,5,25500,5
+LILA-King-S19,1,0,3,Female,English,6,0,Honors,mar.,2007,330,6,3,28180,5
+LILA-King-S19,1,0,0,Male,Science / Technology,6,0,Honors,dec.,2006,300,4,4,14566,6
+LILA-King-S19,1,0,9,Male,Science / Technology,6,1,Honors,jan.,2007,360,6,3,35276,6
+LILA-King-S19,1,0,10,Male,Art / Music,8,2 or more,SPED,nov.,2005,240,5,3,14987,3
+LILA-King-S19,1,0,1,Male,Math,6,1,Honors,sep.,2006,210,1,5,14698,6
+LILA-King-S19,1,0,11,Male,Art / Music,8,1,SPED,jan.,2005,330,6,6,11583,5
+LILA-King-S19,1,0,7,Male,Science / Technology,6,0,Honors,may.,2007,300,6,6,10314,4
+LILA-King-S19,1,0,5,Male,Math,6,1,Honors,oct.,2006,270,6,6,20964,3
+LILA-King-S19,1,0,4,Female,Art / Music,6,1,Honors,may.,2007,270,6,5,20001,3

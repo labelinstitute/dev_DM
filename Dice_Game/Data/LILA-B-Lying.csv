@@ -1,0 +1,329 @@
+Session,matchId,roundId,clientId,Gender,Topic,Grade,Siblings,Month,Year,payoff,selectionForOwn,selectionGivenToOther,selectionTime,selectionReceivedFromOther
+LILA-Burbank-S1,0,0,6,Male,English,11FB,2 or more,aug.,2001,180,3,1,16360,3
+LILA-Burbank-S1,0,0,5,Female,English,11FB,0,feb.,2001,210,3,5,13548,4
+LILA-Burbank-S1,0,0,2,Male,Science / Technology,11FB,1,jul.,2001,150,3,3,7563,2
+LILA-Burbank-S1,0,0,3,Male,Science / Technology,11FB,1,mar.,2001,360,6,4,11729,6
+LILA-Burbank-S1,0,0,0,Female,Science / Technology,11FB,1,oct.,2001,270,3,2,11369,6
+LILA-Burbank-S1,0,0,11,Male,Science / Technology,11FB,0,oct.,2001,90,1,4,12688,2
+LILA-Burbank-S1,0,0,9,Male,Math,11FB,0,feb.,2001,270,6,2,12948,3
+LILA-Burbank-S1,0,0,1,Female,Math,11FB,1,apr.,2002,300,6,6,15032,4
+LILA-Burbank-S1,0,0,7,Female,English,11FB,0,jul.,2001,210,2,3,10989,5
+LILA-Burbank-S1,0,0,10,Male,Science / Technology,11FB,1,jul.,2001,270,3,6,11924,6
+LILA-Burbank-S1,0,0,8,Male,Science / Technology,11FB,1,dec.,2001,180,5,6,14813,1
+LILA-Burbank-S1,0,0,4,Female,French,11FB,1,aug.,2001,270,6,3,9378,3
+LILA-Burbank-S1,1,0,4,Female,French,11FB,1,aug.,2001,210,6,2,13940,1
+LILA-Burbank-S1,1,0,0,Female,Science / Technology,11FB,1,oct.,2001,240,3,3,17582,5
+LILA-Burbank-S1,1,0,3,Male,Science / Technology,11FB,1,mar.,2001,180,5,1,12353,1
+LILA-Burbank-S1,1,0,7,Female,English,11FB,0,jul.,2001,120,1,2,12762,3
+LILA-Burbank-S1,1,0,5,Female,English,11FB,0,feb.,2001,270,4,5,11813,5
+LILA-Burbank-S1,1,0,6,Male,English,11FB,2 or more,aug.,2001,90,2,5,10954,1
+LILA-Burbank-S1,1,0,1,Female,Math,11FB,1,apr.,2002,330,6,5,13625,5
+LILA-Burbank-S1,1,0,8,Male,Science / Technology,11FB,1,dec.,2001,300,5,1,15969,5
+LILA-Burbank-S1,1,0,11,Male,Science / Technology,11FB,0,oct.,2001,150,3,1,14501,2
+LILA-Burbank-S1,1,0,10,Male,Science / Technology,11FB,1,jul.,2001,210,6,5,12818,1
+LILA-Burbank-S1,1,0,2,Male,Science / Technology,11FB,1,jul.,2001,150,3,3,9814,2
+LILA-Burbank-S1,1,0,9,Male,Math,11FB,0,feb.,2001,120,1,1,11323,3
+LILA-Burbank-S2,0,0,1,Male,History / Geography,11IB,2 or more,apr.,2000,90,1,1,8829,2
+LILA-Burbank-S2,0,0,6,Female,Art / Music,11IB,1,jan.,2001,300,6,4,18313,4
+LILA-Burbank-S2,0,0,3,Female,Math,10FB,1,apr.,2003,210,6,1,9485,1
+LILA-Burbank-S2,0,0,0,Male,Math,11IB,1,oct.,2001,360,6,4,12313,6
+LILA-Burbank-S2,0,0,2,Male,History / Geography,11IB,2 or more,nov.,2001,300,6,3,17052,4
+LILA-Burbank-S2,0,0,10,Female,English,10FB,1,apr.,2002,240,3,6,25612,5
+LILA-Burbank-S2,0,0,5,Male,English,11IB,2 or more,may.,2000,210,6,3,13829,1
+LILA-Burbank-S2,0,0,8,Female,Art / Music,11IB,2 or more,oct.,2001,300,6,5,19441,4
+LILA-Burbank-S2,0,0,11,Female,Art / Music,11IB,2 or more,jan.,2001,300,4,2,14251,6
+LILA-Burbank-S2,0,0,9,Male,Science / Technology,11IB,2 or more,oct.,2001,360,6,6,12718,6
+LILA-Burbank-S2,0,0,4,Female,English,10FB,1,dec.,2002,180,3,4,12876,3
+LILA-Burbank-S2,0,0,7,Male,Art / Music,11IB,0,nov.,2000,240,5,6,40231,3
+LILA-Burbank-S2,1,0,6,Female,Art / Music,11IB,1,jan.,2001,270,4,1,11781,5
+LILA-Burbank-S2,1,0,11,Female,Art / Music,11IB,2 or more,jan.,2001,300,4,6,10798,6
+LILA-Burbank-S2,1,0,10,Female,English,10FB,1,apr.,2002,180,5,6,9004,1
+LILA-Burbank-S2,1,0,3,Female,Math,10FB,1,apr.,2003,300,6,1,12126,4
+LILA-Burbank-S2,1,0,1,Male,History / Geography,11IB,2 or more,apr.,2000,300,5,1,8859,5
+LILA-Burbank-S2,1,0,9,Male,Science / Technology,11IB,2 or more,oct.,2001,330,5,1,19192,6
+LILA-Burbank-S2,1,0,7,Male,Art / Music,11IB,0,nov.,2000,210,6,5,30169,1
+LILA-Burbank-S2,1,0,8,Female,Art / Music,11IB,2 or more,oct.,2001,270,4,6,11766,5
+LILA-Burbank-S2,1,0,2,Male,History / Geography,11IB,2 or more,nov.,2001,180,5,4,21314,1
+LILA-Burbank-S2,1,0,5,Male,English,11IB,2 or more,may.,2000,330,6,5,14126,5
+LILA-Burbank-S2,1,0,0,Male,Math,11IB,1,oct.,2001,210,1,5,8000,6
+LILA-Burbank-S2,1,0,4,Female,English,10FB,1,dec.,2002,210,6,5,9618,1
+LILA-Burbank-S3,0,0,5,Female,French,11ES,1,mar.,2001,210,3,6,9969,4
+LILA-Burbank-S3,0,0,7,Male,Math,11ES,1,apr.,2001,120,3,2,10683,1
+LILA-Burbank-S3,0,0,0,Male,History / Geography,10FB,1,may.,2002,210,6,2,10892,1
+LILA-Burbank-S3,0,0,4,Female,Art / Music,11ES,2 or more,mar.,2001,210,6,6,13432,1
+LILA-Burbank-S3,0,0,2,Female,History / Geography,11ES,2 or more,dec.,2000,240,2,5,10403,6
+LILA-Burbank-S3,0,0,6,Female,English,10FB,2 or more,oct.,2002,210,5,1,23376,2
+LILA-Burbank-S3,0,0,8,Female,English,11ES,1,aug.,2001,90,1,6,10203,2
+LILA-Burbank-S3,0,0,1,Female,French,10FB,2 or more,mar.,2003,360,6,2,11814,6
+LILA-Burbank-S3,0,0,9,Male,History / Geography,11ES,2 or more,sep.,2001,270,4,4,18206,5
+LILA-Burbank-S3,0,0,3,Female,English,10FB,1,sep.,2002,210,6,1,9485,1
+LILA-Burbank-S3,0,0,10,Female,Math,11ES,0,jul.,2001,270,3,1,15392,6
+LILA-Burbank-S3,0,0,11,Female,English,11ES,1,sep.,2001,120,2,1,11281,2
+LILA-Burbank-S3,1,0,5,Female,French,11ES,1,mar.,2001,240,6,5,13642,2
+LILA-Burbank-S3,1,0,7,Male,Math,11ES,1,apr.,2001,120,2,2,12977,2
+LILA-Burbank-S3,1,0,0,Male,History / Geography,10FB,1,may.,2002,210,6,2,10110,1
+LILA-Burbank-S3,1,0,4,Female,Art / Music,11ES,2 or more,mar.,2001,180,4,1,9840,2
+LILA-Burbank-S3,1,0,2,Female,History / Geography,11ES,2 or more,dec.,2000,270,6,2,8053,3
+LILA-Burbank-S3,1,0,6,Female,English,10FB,2 or more,oct.,2002,270,6,3,17268,3
+LILA-Burbank-S3,1,0,8,Female,English,11ES,1,aug.,2001,240,5,3,14860,3
+LILA-Burbank-S3,1,0,1,Female,French,10FB,2 or more,mar.,2003,300,6,3,8082,4
+LILA-Burbank-S3,1,0,9,Male,History / Geography,11ES,2 or more,sep.,2001,90,2,4,11792,1
+LILA-Burbank-S3,1,0,3,Female,English,10FB,1,sep.,2002,180,3,1,16487,3
+LILA-Burbank-S3,1,0,10,Female,Math,11ES,0,jul.,2001,210,6,3,5906,1
+LILA-Burbank-S3,1,0,11,Female,English,11ES,1,sep.,2001,330,6,1,8766,5
+LILA-Burbank-S4,0,0,4,Male,Science / Technology,10IB,1,may.,2001,360,6,1,9934,6
+LILA-Burbank-S4,0,0,6,Female,Art / Music,10FB,1,mar.,2002,150,4,5,11725,1
+LILA-Burbank-S4,0,0,7,Female,English,10FB,1,jul.,2002,360,6,5,10364,6
+LILA-Burbank-S4,0,0,11,Female,History / Geography,10IB,2 or more,may.,2002,300,6,2,13564,4
+LILA-Burbank-S4,0,0,2,Female,Math,10FB,0,sep.,2002,300,6,6,9344,4
+LILA-Burbank-S4,0,0,5,Male,History / Geography,10IB,0,sep.,2001,150,1,6,8719,4
+LILA-Burbank-S4,0,0,10,Male,History / Geography,10IB,2 or more,mar.,2002,240,5,3,13423,3
+LILA-Burbank-S4,0,0,9,Female,Math,10IB,0,jun.,2002,270,4,4,15127,5
+LILA-Burbank-S4,0,0,1,Female,Art / Music,10IB,1,apr.,2002,90,1,2,10015,2
+LILA-Burbank-S4,0,0,8,Male,Art / Music,10IB,2 or more,nov.,2002,270,4,3,13533,5
+LILA-Burbank-S4,0,0,3,Female,Math,10IB,1,aug.,2002,210,5,4,15766,2
+LILA-Burbank-S4,0,0,0,Male,History / Geography,10IB,0,aug.,2002,240,5,4,11110,3
+LILA-Burbank-S4,1,0,1,Female,Art / Music,10IB,1,apr.,2002,210,6,6,7755,1
+LILA-Burbank-S4,1,0,10,Male,History / Geography,10IB,2 or more,mar.,2002,180,5,2,13085,1
+LILA-Burbank-S4,1,0,5,Male,History / Geography,10IB,0,sep.,2001,270,6,1,12375,3
+LILA-Burbank-S4,1,0,6,Female,Art / Music,10FB,1,mar.,2002,330,5,3,10966,6
+LILA-Burbank-S4,1,0,2,Female,Math,10FB,0,sep.,2002,300,6,5,10797,4
+LILA-Burbank-S4,1,0,3,Female,Math,10IB,1,aug.,2002,90,1,6,10469,2
+LILA-Burbank-S4,1,0,11,Female,History / Geography,10IB,2 or more,may.,2002,270,6,6,6781,3
+LILA-Burbank-S4,1,0,4,Male,Science / Technology,10IB,1,may.,2001,210,1,4,8403,6
+LILA-Burbank-S4,1,0,9,Female,Math,10IB,0,jun.,2002,270,5,4,10014,4
+LILA-Burbank-S4,1,0,8,Male,Art / Music,10IB,2 or more,nov.,2002,360,6,1,14480,6
+LILA-Burbank-S4,1,0,0,Male,History / Geography,10IB,0,aug.,2002,300,6,3,10673,4
+LILA-Burbank-S4,1,0,7,Female,English,10FB,1,jul.,2002,240,3,4,11744,5
+LILA-Burbank-S5,0,0,3,Female,History / Geography,8,0,jan.,2004,150,4,4,16485,1
+LILA-Burbank-S5,0,0,1,Female,Art / Music,8,0,oct.,2004,240,6,1,8125,2
+LILA-Burbank-S5,0,0,9,Female,Art / Music,8,0,jul.,2004,270,6,2,10311,3
+LILA-Burbank-S5,0,0,4,Female,English,10IB,0,mar.,2002,210,2,2,12146,5
+LILA-Burbank-S5,0,0,0,Male,Art / Music,8,2 or more,sep.,2004,270,5,3,19580,4
+LILA-Burbank-S5,0,0,2,Female,Science / Technology,8,1,oct.,2003,180,4,4,11922,2
+LILA-Burbank-S5,0,0,6,Female,Art / Music,10IB,0,aug.,2002,210,5,1,13747,2
+LILA-Burbank-S5,0,0,11,Male,Science / Technology,8,0,mar.,2004,300,6,4,20860,4
+LILA-Burbank-S5,0,0,10,Male,Science / Technology,8,2 or more,nov.,2004,180,5,3,13985,1
+LILA-Burbank-S5,0,0,5,Female,History / Geography,10IB,0,jun.,2002,210,5,2,13751,2
+LILA-Burbank-S5,0,0,8,Female,Art / Music,8,0,feb.,2004,210,3,2,16676,4
+LILA-Burbank-S5,0,0,7,Female,Art / Music,10IB,2 or more,aug.,2002,210,4,5,20691,3
+LILA-Burbank-S5,1,0,6,Female,Art / Music,10IB,0,aug.,2002,210,2,5,11018,5
+LILA-Burbank-S5,1,0,10,Male,Science / Technology,8,2 or more,nov.,2004,300,5,1,7116,5
+LILA-Burbank-S5,1,0,4,Female,English,10IB,0,mar.,2002,210,2,2,10864,5
+LILA-Burbank-S5,1,0,1,Female,Art / Music,8,0,oct.,2004,210,6,4,7281,1
+LILA-Burbank-S5,1,0,3,Female,History / Geography,8,0,jan.,2004,120,1,5,10016,3
+LILA-Burbank-S5,1,0,11,Male,Science / Technology,8,0,mar.,2004,180,5,6,20157,1
+LILA-Burbank-S5,1,0,9,Female,Art / Music,8,0,jul.,2004,210,5,5,8940,2
+LILA-Burbank-S5,1,0,0,Male,Art / Music,8,2 or more,sep.,2004,210,1,1,10066,6
+LILA-Burbank-S5,1,0,7,Female,Art / Music,10IB,2 or more,aug.,2002,330,6,1,15443,5
+LILA-Burbank-S5,1,0,5,Female,History / Geography,10IB,0,jun.,2002,210,5,5,8516,2
+LILA-Burbank-S5,1,0,2,Female,Science / Technology,8,1,oct.,2003,300,6,3,10922,4
+LILA-Burbank-S5,1,0,8,Female,Art / Music,8,0,feb.,2004,180,5,2,17527,1
+LILA-Burbank-S6,0,0,7,Female,Art / Music,8,1,oct.,2004,120,3,2,18641,1
+LILA-Burbank-S6,0,0,1,Female,Art / Music,8,0,oct.,2004,210,3,1,9954,4
+LILA-Burbank-S6,0,0,3,Female,Art / Music,8,2 or more,aug.,2004,330,6,5,11392,5
+LILA-Burbank-S6,0,0,4,Male,Art / Music,8,2 or more,jul.,2004,240,6,4,13064,2
+LILA-Burbank-S6,0,0,0,Male,Art / Music,8,1,dec.,2005,330,6,3,11485,5
+LILA-Burbank-S6,0,0,8,Male,French,8,2 or more,feb.,2004,90,2,6,27541,1
+LILA-Burbank-S6,0,0,6,Male,Art / Music,8,2 or more,may.,2004,120,1,5,12204,3
+LILA-Burbank-S6,0,0,5,Male,History / Geography,8,1,jul.,2004,330,5,1,16689,6
+LILA-Burbank-S6,0,0,2,Female,Art / Music,8,1,dec.,2004,120,3,1,17255,1
+LILA-Burbank-S6,1,0,6,Male,Art / Music,8,2 or more,may.,2004,270,6,3,11969,3
+LILA-Burbank-S6,1,0,7,Female,Art / Music,8,1,oct.,2004,300,6,3,24470,4
+LILA-Burbank-S6,1,0,8,Male,French,8,2 or more,feb.,2004,330,6,2,12928,5
+LILA-Burbank-S6,1,0,3,Female,Art / Music,8,2 or more,aug.,2004,180,3,5,11486,3
+LILA-Burbank-S6,1,0,0,Male,Art / Music,8,1,dec.,2005,150,4,4,11516,1
+LILA-Burbank-S6,1,0,2,Female,Art / Music,8,1,dec.,2004,240,5,4,16629,3
+LILA-Burbank-S6,1,0,1,Female,Art / Music,8,0,oct.,2004,240,5,3,9688,3
+LILA-Burbank-S6,1,0,5,Male,History / Geography,8,1,jul.,2004,300,6,3,13766,4
+LILA-Burbank-S6,1,0,4,Male,Art / Music,8,2 or more,jul.,2004,240,6,1,9579,2
+LILA-Burbank-S7,0,0,3,Female,Science / Technology,7,2 or more,aug.,2005,270,3,4,23871,6
+LILA-Burbank-S7,0,0,10,Female,Art / Music,7,2 or more,mar.,2005,120,3,3,12376,1
+LILA-Burbank-S7,0,0,1,Male,Science / Technology,7,1,dec.,2005,180,2,2,13563,4
+LILA-Burbank-S7,0,0,5,Female,French,7,0,oct.,2005,150,2,3,7125,3
+LILA-Burbank-S7,0,0,6,Female,English,7,1,feb.,2005,150,3,3,20878,2
+LILA-Burbank-S7,0,0,9,Male,Math,7,1,apr.,2005,150,2,4,13700,3
+LILA-Burbank-S7,0,0,8,Female,Math,7,2 or more,sep.,2005,180,3,1,13129,3
+LILA-Burbank-S7,0,0,2,Male,History / Geography,7,0,jul.,2005,270,5,5,10626,4
+LILA-Burbank-S7,0,0,0,Male,History / Geography,7,0,jun.,2005,90,2,2,14954,1
+LILA-Burbank-S7,0,0,4,Male,Science / Technology,7,2 or more,jul.,2005,240,3,2,28394,5
+LILA-Burbank-S7,0,0,11,Male,Science / Technology,7,1,dec.,2005,210,5,6,12172,2
+LILA-Burbank-S7,0,0,7,Male,Math,7,0,oct.,2005,180,4,1,8829,2
+LILA-Burbank-S7,1,0,7,Male,Math,7,0,oct.,2005,210,3,5,21174,4
+LILA-Burbank-S7,1,0,3,Female,Science / Technology,7,2 or more,aug.,2005,150,4,5,13756,1
+LILA-Burbank-S7,1,0,10,Female,Art / Music,7,2 or more,mar.,2005,180,5,2,12438,1
+LILA-Burbank-S7,1,0,1,Male,Science / Technology,7,1,dec.,2005,240,3,2,9954,5
+LILA-Burbank-S7,1,0,5,Female,French,7,0,oct.,2005,330,6,4,7641,5
+LILA-Burbank-S7,1,0,6,Female,English,7,1,feb.,2005,150,3,3,9257,2
+LILA-Burbank-S7,1,0,9,Male,Math,7,1,apr.,2005,240,6,6,9267,2
+LILA-Burbank-S7,1,0,8,Female,Math,7,2 or more,sep.,2005,180,2,4,11093,4
+LILA-Burbank-S7,1,0,2,Male,History / Geography,7,0,jul.,2005,270,6,4,12563,3
+LILA-Burbank-S7,1,0,0,Male,History / Geography,7,0,jun.,2005,210,1,4,14377,6
+LILA-Burbank-S7,1,0,4,Male,Science / Technology,7,2 or more,jul.,2005,300,6,1,23366,4
+LILA-Burbank-S7,1,0,11,Male,Science / Technology,7,1,dec.,2005,300,6,1,13328,4
+LILA-Burbank-S8,0,0,8,Male,Science / Technology,8,1,mar.,2004,240,3,5,12235,5
+LILA-Burbank-S8,0,0,7,Female,English,7,2 or more,jun.,2005,210,5,4,7820,2
+LILA-Burbank-S8,0,0,3,Male,History / Geography,7,0,jul.,2005,210,1,2,11376,6
+LILA-Burbank-S8,0,0,4,Male,History / Geography,7,1,aug.,2005,180,4,2,10876,2
+LILA-Burbank-S8,0,0,5,Male,English,7,0,feb.,2005,270,6,5,10731,3
+LILA-Burbank-S8,0,0,2,Male,History / Geography,7,1,feb.,2005,180,5,3,10001,1
+LILA-Burbank-S8,0,0,9,Male,Math,7,1,feb.,2005,180,4,2,5594,2
+LILA-Burbank-S8,0,0,1,Male,English,7,2 or more,oct.,2005,210,6,2,4753,1
+LILA-Burbank-S8,0,0,11,Male,Math,7,2 or more,sep.,2005,270,4,1,9735,5
+LILA-Burbank-S8,0,0,6,Male,Math,7,1,may.,2005,240,6,2,6734,2
+LILA-Burbank-S8,0,0,0,Male,Math,7,1,sep.,2005,150,3,6,7297,2
+LILA-Burbank-S8,0,0,10,Female,Art / Music,7,1,may.,2005,300,6,1,5907,4
+LILA-Burbank-S8,1,0,10,Female,Art / Music,7,1,may.,2005,270,5,1,18391,4
+LILA-Burbank-S8,1,0,9,Male,Math,7,1,feb.,2005,300,4,4,7312,6
+LILA-Burbank-S8,1,0,7,Female,English,7,2 or more,jun.,2005,330,5,3,12046,6
+LILA-Burbank-S8,1,0,3,Male,History / Geography,7,0,jul.,2005,330,5,4,7484,6
+LILA-Burbank-S8,1,0,4,Male,History / Geography,7,1,aug.,2005,300,6,2,5406,4
+LILA-Burbank-S8,1,0,6,Male,Math,7,1,may.,2005,180,4,2,5768,2
+LILA-Burbank-S8,1,0,8,Male,Science / Technology,8,1,mar.,2004,150,3,6,17985,2
+LILA-Burbank-S8,1,0,5,Male,English,7,0,feb.,2005,180,5,1,14644,1
+LILA-Burbank-S8,1,0,2,Male,History / Geography,7,1,feb.,2005,120,1,6,11576,3
+LILA-Burbank-S8,1,0,1,Male,English,7,2 or more,oct.,2005,210,5,2,17766,2
+LILA-Burbank-S8,1,0,0,Male,Math,7,1,sep.,2005,90,2,6,10641,1
+LILA-Burbank-S8,1,0,11,Male,Math,7,2 or more,sep.,2005,240,6,2,10331,2
+LILA-Burbank-S9,0,0,7,Female,Art / Music,6,2 or more,jun.,2006,210,6,5,20502,1
+LILA-Burbank-S9,0,0,11,Male,English,6,2 or more,dec.,2006,300,6,5,18383,4
+LILA-Burbank-S9,0,0,1,Female,Math,6,1,aug.,2006,270,6,4,21659,3
+LILA-Burbank-S9,0,0,0,Female,Art / Music,6,1,jan.,2007,210,3,2,31271,4
+LILA-Burbank-S9,0,0,3,Male,Math,6,2 or more,aug.,2006,150,3,4,12938,2
+LILA-Burbank-S9,0,0,6,Female,Art / Music,6,1,aug.,2006,240,2,2,45471,6
+LILA-Burbank-S9,0,0,5,Female,Art / Music,6,2 or more,sep.,2006,300,4,3,11891,6
+LILA-Burbank-S9,0,0,4,Female,Art / Music,6,1,may.,2006,270,4,3,22202,5
+LILA-Burbank-S9,0,0,8,Female,Art / Music,6,0,jan.,2006,270,4,6,27907,5
+LILA-Burbank-S9,0,0,10,Male,Science / Technology,6,1,aug.,2006,300,6,1,12641,4
+LILA-Burbank-S9,0,0,9,Male,History / Geography,6,1,sep.,2006,240,6,6,35258,2
+LILA-Burbank-S9,0,0,2,Female,Art / Music,6,1,apr.,2006,240,5,4,32050,3
+LILA-Burbank-S9,1,0,2,Female,Art / Music,6,1,apr.,2006,120,3,5,20830,1
+LILA-Burbank-S9,1,0,5,Female,Art / Music,6,2 or more,sep.,2006,150,4,3,12391,1
+LILA-Burbank-S9,1,0,4,Female,Art / Music,6,1,may.,2006,270,5,3,22770,4
+LILA-Burbank-S9,1,0,8,Female,Art / Music,6,0,jan.,2006,210,2,2,10500,5
+LILA-Burbank-S9,1,0,0,Female,Art / Music,6,1,jan.,2007,240,5,4,23564,3
+LILA-Burbank-S9,1,0,1,Female,Math,6,1,aug.,2006,180,4,5,13818,2
+LILA-Burbank-S9,1,0,11,Male,English,6,2 or more,dec.,2006,240,5,2,12985,3
+LILA-Burbank-S9,1,0,6,Female,Art / Music,6,1,aug.,2006,210,5,2,16656,2
+LILA-Burbank-S9,1,0,10,Male,Science / Technology,6,1,aug.,2006,240,6,1,7594,2
+LILA-Burbank-S9,1,0,9,Male,History / Geography,6,1,sep.,2006,270,4,4,15844,5
+LILA-Burbank-S9,1,0,7,Female,Art / Music,6,2 or more,jun.,2006,180,2,1,10266,4
+LILA-Burbank-S9,1,0,3,Male,Math,6,2 or more,aug.,2006,150,3,2,14363,2
+LILA-Burbank-S10,0,0,4,Male,Art / Music,6,1,nov.,2006,330,6,5,10907,5
+LILA-Burbank-S10,0,0,3,Male,Art / Music,6,1,may.,2006,270,6,2,12616,3
+LILA-Burbank-S10,0,0,1,Male,Art / Music,6,0,nov.,2005,210,5,1,15485,2
+LILA-Burbank-S10,0,0,6,Female,English,6,2 or more,mar.,2006,210,5,5,10059,2
+LILA-Burbank-S10,0,0,11,Female,Art / Music,6,0,nov.,2006,180,5,3,30892,1
+LILA-Burbank-S10,0,0,7,Male,Math,6,1,aug.,2006,240,4,1,16189,4
+LILA-Burbank-S10,0,0,5,Male,Art / Music,6,0,nov.,2005,210,6,3,16313,1
+LILA-Burbank-S10,0,0,0,Female,Art / Music,6,1,sep.,2006,150,4,2,20575,1
+LILA-Burbank-S10,0,0,10,Male,Art / Music,6,1,sep.,2006,150,3,1,48901,2
+LILA-Burbank-S10,0,0,2,Male,Art / Music,6,2 or more,dec.,2005,270,4,1,16297,5
+LILA-Burbank-S10,0,0,8,Male,Math,6,1,aug.,2007,150,4,2,15830,1
+LILA-Burbank-S10,0,0,9,Male,History / Geography,6,1,jun.,2006,150,2,4,17329,3
+LILA-Burbank-S10,1,0,2,Male,Art / Music,6,2 or more,dec.,2005,240,6,3,11813,2
+LILA-Burbank-S10,1,0,9,Male,History / Geography,6,1,jun.,2006,240,6,2,11875,2
+LILA-Burbank-S10,1,0,11,Female,Art / Music,6,0,nov.,2006,240,6,2,10188,2
+LILA-Burbank-S10,1,0,4,Male,Art / Music,6,1,nov.,2006,150,1,2,6141,4
+LILA-Burbank-S10,1,0,6,Female,English,6,2 or more,mar.,2006,240,6,4,11934,2
+LILA-Burbank-S10,1,0,8,Male,Math,6,1,aug.,2007,210,5,2,10658,2
+LILA-Burbank-S10,1,0,7,Male,Math,6,1,aug.,2006,210,5,2,26514,2
+LILA-Burbank-S10,1,0,5,Male,Art / Music,6,0,nov.,2005,120,2,5,12188,2
+LILA-Burbank-S10,1,0,0,Female,Art / Music,6,1,sep.,2006,270,6,2,13130,3
+LILA-Burbank-S10,1,0,1,Male,Art / Music,6,0,nov.,2005,300,6,2,10690,4
+LILA-Burbank-S10,1,0,10,Male,Art / Music,6,1,sep.,2006,240,6,2,17376,2
+LILA-Burbank-S10,1,0,3,Male,Art / Music,6,1,may.,2006,300,5,4,15916,5
+LILA-Burbank-S11,0,0,0,Female,Art / Music,6,2 or more,mar.,2006,240,6,6,24907,2
+LILA-Burbank-S11,0,0,5,Female,Art / Music,6,1,oct.,2005,360,6,4,31001,6
+LILA-Burbank-S11,0,0,2,Female,Art / Music,6,1,mar.,2006,180,2,2,7133,4
+LILA-Burbank-S11,0,0,7,Female,Science / Technology,6,0,aug.,2006,180,4,2,32501,2
+LILA-Burbank-S11,0,0,6,Female,Math,6,1,oct.,2005,270,6,3,7554,3
+LILA-Burbank-S11,0,0,10,Female,Art / Music,6,1,nov.,2005,300,6,3,10502,4
+LILA-Burbank-S11,0,0,3,Male,Art / Music,6,2 or more,feb.,2006,240,5,6,10453,3
+LILA-Burbank-S11,0,0,4,Female,Art / Music,6,1,jul.,2006,150,3,2,12095,2
+LILA-Burbank-S11,0,0,8,Female,Science / Technology,6,1,jan.,2006,330,5,4,10344,6
+LILA-Burbank-S11,0,0,1,Male,Art / Music,6,2 or more,dec.,2006,270,5,3,4915,4
+LILA-Burbank-S11,0,0,11,Female,Art / Music,6,2 or more,sep.,2006,240,5,2,10204,3
+LILA-Burbank-S11,0,0,9,Female,History / Geography,6,1,jul.,2001,240,6,4,31611,2
+LILA-Burbank-S11,1,0,2,Female,Art / Music,6,1,mar.,2006,180,1,5,12019,5
+LILA-Burbank-S11,1,0,4,Female,Art / Music,6,1,jul.,2006,120,1,2,10532,3
+LILA-Burbank-S11,1,0,11,Female,Art / Music,6,2 or more,sep.,2006,240,6,4,12750,2
+LILA-Burbank-S11,1,0,8,Female,Science / Technology,6,1,jan.,2006,210,5,3,6751,2
+LILA-Burbank-S11,1,0,1,Male,Art / Music,6,2 or more,dec.,2006,300,5,6,9077,5
+LILA-Burbank-S11,1,0,7,Female,Science / Technology,6,0,aug.,2006,330,6,2,12454,5
+LILA-Burbank-S11,1,0,9,Female,History / Geography,6,1,jul.,2001,240,3,5,13094,5
+LILA-Burbank-S11,1,0,6,Female,Math,6,1,oct.,2005,270,4,6,9063,5
+LILA-Burbank-S11,1,0,3,Male,Art / Music,6,2 or more,feb.,2006,210,3,5,9745,4
+LILA-Burbank-S11,1,0,5,Female,Art / Music,6,1,oct.,2005,360,6,5,8985,6
+LILA-Burbank-S11,1,0,0,Female,Art / Music,6,2 or more,mar.,2006,270,6,3,7469,3
+LILA-Burbank-S11,1,0,10,Female,Art / Music,6,1,nov.,2005,300,4,5,11979,6
+LILA-Burbank-S12,0,0,5,Female,English,7,1,nov.,2005,270,4,2,10267,5
+LILA-Burbank-S12,0,0,3,Female,Art / Music,6,2 or more,dec.,2005,300,6,5,30595,4
+LILA-Burbank-S12,0,0,4,Male,Math,6,0,may.,2006,360,6,5,20926,6
+LILA-Burbank-S12,0,0,1,Male,Science / Technology,7,1,dec.,2005,180,5,4,12968,1
+LILA-Burbank-S12,0,0,0,Female,Art / Music,6,1,sep.,2006,300,6,6,8657,4
+LILA-Burbank-S12,0,0,2,Male,Art / Music,6,2 or more,nov.,2005,330,5,6,26188,6
+LILA-Burbank-S12,0,0,8,Male,English,7,0,aug.,2005,240,2,1,6937,6
+LILA-Burbank-S12,0,0,7,Female,English,7,1,nov.,2005,180,4,4,21872,2
+LILA-Burbank-S12,0,0,6,Female,English,6,2 or more,oct.,2006,270,4,6,13235,5
+LILA-Burbank-S12,1,0,1,Male,Science / Technology,7,1,dec.,2005,210,5,6,14549,2
+LILA-Burbank-S12,1,0,4,Male,Math,6,0,may.,2006,300,4,6,12688,6
+LILA-Burbank-S12,1,0,0,Female,Art / Music,6,1,sep.,2006,360,6,6,12487,6
+LILA-Burbank-S12,1,0,3,Female,Art / Music,6,2 or more,dec.,2005,330,5,1,23699,6
+LILA-Burbank-S12,1,0,2,Male,Art / Music,6,2 or more,nov.,2005,270,6,2,18314,3
+LILA-Burbank-S12,1,0,5,Female,English,7,1,nov.,2005,210,5,2,17539,2
+LILA-Burbank-S12,1,0,8,Male,English,7,0,aug.,2005,210,5,3,10235,2
+LILA-Burbank-S12,1,0,6,Female,English,6,2 or more,oct.,2006,60,1,6,11157,1
+LILA-Burbank-S12,1,0,7,Female,English,7,1,nov.,2005,360,6,2,9674,6
+LILA-Burbank-S13,0,0,3,Male,Math,9,1,nov.,2003,240,4,5,106346,4
+LILA-Burbank-S13,0,0,1,Male,Science / Technology,9,1,oct.,2003,240,5,1,14228,3
+LILA-Burbank-S13,0,0,10,Male,Science / Technology,9,2 or more,oct.,2003,150,4,4,15179,1
+LILA-Burbank-S13,0,0,2,Male,English,9,2 or more,jul.,2003,300,6,3,15163,4
+LILA-Burbank-S13,0,0,6,Female,English,9,1,apr.,2004,150,2,1,7800,3
+LILA-Burbank-S13,0,0,5,Male,French,9,2 or more,jul.,2003,180,5,4,23416,1
+LILA-Burbank-S13,0,0,7,Female,Math,9,1,nov.,2003,180,1,1,16458,5
+LILA-Burbank-S13,0,0,8,Male,Math,9,1,nov.,2004,210,1,5,18377,6
+LILA-Burbank-S13,0,0,0,Male,Science / Technology,9,1,jan.,2003,270,4,4,11045,5
+LILA-Burbank-S13,0,0,11,Male,Science / Technology,9,2 or more,apr.,2003,180,5,4,43851,1
+LILA-Burbank-S13,0,0,4,Female,Math,9,0,jul.,2003,300,6,6,13042,4
+LILA-Burbank-S13,1,0,1,Male,Science / Technology,9,1,oct.,2003,270,6,2,24429,3
+LILA-Burbank-S13,1,0,4,Female,Math,9,0,jul.,2003,180,2,3,17628,4
+LILA-Burbank-S13,1,0,11,Male,Science / Technology,9,2 or more,apr.,2003,300,4,6,33321,6
+LILA-Burbank-S13,1,0,3,Male,Math,9,1,nov.,2003,150,2,5,22791,3
+LILA-Burbank-S13,1,0,7,Female,Math,9,1,nov.,2003,300,4,4,27799,6
+LILA-Burbank-S13,1,0,10,Male,Science / Technology,9,2 or more,oct.,2003,210,5,6,12058,2
+LILA-Burbank-S13,1,0,8,Male,Math,9,1,nov.,2004,270,3,2,16209,6
+LILA-Burbank-S13,1,0,6,Female,English,9,1,apr.,2004,330,5,3,19875,6
+LILA-Burbank-S13,1,0,0,Male,Science / Technology,9,1,jan.,2003,330,6,6,9329,5
+LILA-Burbank-S13,1,0,2,Male,English,9,2 or more,jul.,2003,240,5,6,18782,3
+LILA-Burbank-S13,1,0,5,Male,French,9,2 or more,jul.,2003,240,6,3,18970,2
+LILA-Burbank-S14,0,0,10,Male,Math,9,2 or more,jan.,2003,300,6,3,8549,4
+LILA-Burbank-S14,0,0,12,Female,English,9,0,feb.,2003,240,6,2,13353,2
+LILA-Burbank-S14,0,0,11,Female,Math,9,1,jun.,2003,270,5,4,20779,4
+LILA-Burbank-S14,0,0,2,Male,Math,9,1,dec.,2003,330,5,2,30156,6
+LILA-Burbank-S14,0,0,1,Male,Art / Music,9,1,sep.,2003,210,1,4,31371,6
+LILA-Burbank-S14,0,0,7,Female,English,9,1,jul.,2003,210,5,6,9314,2
+LILA-Burbank-S14,0,0,13,Female,English,9,2 or more,feb.,2003,360,6,1,66332,6
+LILA-Burbank-S14,0,0,5,Male,Math,9,1,apr.,2003,270,6,5,13915,3
+LILA-Burbank-S14,0,0,8,Female,Math,9,0,jul.,2003,180,5,4,5913,1
+LILA-Burbank-S14,0,0,9,Female,Science / Technology,9,1,dec.,2003,120,3,2,8861,1
+LILA-Burbank-S14,0,0,6,Female,French,9,1,dec.,2003,270,5,6,9345,4
+LILA-Burbank-S14,0,0,4,Male,Art / Music,9,1,jan.,2003,240,6,4,18064,2
+LILA-Burbank-S14,0,0,3,Male,French,9,1,mar.,2003,300,6,6,17877,4
+LILA-Burbank-S14,0,0,14,Female,Math,9,1,jul.,2003,210,3,1,9609,4
+LILA-Burbank-S14,0,0,0,Male,,9,,,2003,330,6,4,13774,5
+LILA-Burbank-S14,1,0,10,Male,Math,9,2 or more,jan.,2003,,4,5,17410,3
+LILA-Burbank-S14,1,0,12,Female,English,9,0,feb.,2003,,,,,4
+LILA-Burbank-S14,1,0,11,Female,Math,9,1,jun.,2003,,6,2,13931,1
+LILA-Burbank-S14,1,0,2,Male,Math,9,1,dec.,2003,,5,5,18923,5
+LILA-Burbank-S14,1,0,1,Male,Art / Music,9,1,sep.,2003,,2,4,16911,5
+LILA-Burbank-S14,1,0,7,Female,English,9,1,jul.,2003,,6,4,18472,2
+LILA-Burbank-S14,1,0,13,Female,English,9,2 or more,feb.,2003,,3,1,14961,5
+LILA-Burbank-S14,1,0,5,Male,Math,9,1,apr.,2003,,6,5,23993,3
+LILA-Burbank-S14,1,0,8,Female,Math,9,0,jul.,2003,,3,6,10467,
+LILA-Burbank-S14,1,0,9,Female,Science / Technology,9,1,dec.,2003,,2,3,10078,1
+LILA-Burbank-S14,1,0,6,Female,French,9,1,dec.,2003,,6,5,17971,5
+LILA-Burbank-S14,1,0,4,Male,Art / Music,9,1,jan.,2003,,5,5,19531,6
+LILA-Burbank-S14,1,0,3,Male,French,9,1,mar.,2003,,5,5,28314,4
+LILA-Burbank-S14,1,0,14,Female,Math,9,1,jul.,2003,,3,3,14336,5
+LILA-Burbank-S14,1,0,0,Male,,9,,,2003,,5,1,12277,5

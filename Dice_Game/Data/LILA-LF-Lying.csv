@@ -1,0 +1,379 @@
+Session,matchId,roundId,clientId,Gender,Topic,Grade,Siblings,Month,Year,payoff,selectionForOwn,selectionGivenToOther,selectionTime,selectionReceivedFromOther
+LILA-LF-S1,0,0,4,Male,Math / Science,4,1,may.,2008,33,5,2,22662,6
+LILA-LF-S1,0,0,11,Male,Math / Science,4,2 or more,feb.,2008,24,6,6,32159,2
+LILA-LF-S1,0,0,0,Male,English,4,1,jul.,2008,12,2,4,17251,2
+LILA-LF-S1,0,0,2,Female,Math / Science,4,1,feb.,2008,30,4,6,10126,6
+LILA-LF-S1,0,0,6,Female,Art / Music,4,0,dec.,2008,15,1,6,19083,4
+LILA-LF-S1,0,0,1,Female,Art / Music,4,1,sep.,2008,33,5,5,22188,6
+LILA-LF-S1,0,0,8,Male,Art / Music,4,1,jul.,2008,36,6,5,27829,6
+LILA-LF-S1,0,0,5,Male,Math / Science,4,0,aug.,2008,24,3,6,16099,5
+LILA-LF-S1,0,0,3,Female,Math / Science,4,1,jul.,2008,24,3,2,27735,5
+LILA-LF-S1,0,0,9,Female,Art / Music,4,2 or more,mar.,2008,27,3,3,29954,6
+LILA-LF-S1,0,0,10,Male,Math / Science,4,0,aug.,2008,24,6,6,15547,2
+LILA-LF-S1,0,0,7,Male,Math / Science,4,0,aug.,2008,27,6,2,10501,3
+LILA-LF-S1,1,0,7,Male,Math / Science,4,0,aug.,2008,12,3,1,16912,1
+LILA-LF-S1,1,0,4,Male,Math / Science,4,1,may.,2008,15,4,3,10760,1
+LILA-LF-S1,1,0,11,Male,Math / Science,4,2 or more,feb.,2008,33,5,4,20942,6
+LILA-LF-S1,1,0,0,Male,English,4,1,jul.,2008,12,3,5,12563,1
+LILA-LF-S1,1,0,2,Female,Math / Science,4,1,feb.,2008,24,5,2,15204,3
+LILA-LF-S1,1,0,6,Female,Art / Music,4,0,dec.,2008,27,5,6,12624,4
+LILA-LF-S1,1,0,1,Female,Art / Music,4,1,sep.,2008,27,4,2,18423,5
+LILA-LF-S1,1,0,8,Male,Art / Music,4,1,jul.,2008,9,1,3,27298,2
+LILA-LF-S1,1,0,5,Male,Math / Science,4,0,aug.,2008,36,6,1,17630,6
+LILA-LF-S1,1,0,3,Female,Math / Science,4,1,jul.,2008,21,5,1,12329,2
+LILA-LF-S1,1,0,9,Female,Art / Music,4,2 or more,mar.,2008,27,6,1,20360,3
+LILA-LF-S1,1,0,10,Male,Math / Science,4,0,aug.,2008,21,6,6,18814,1
+LILA-LF-S2,0,0,10,Male,Math / Science,3,0,nov.,2009,24,4,3,27751,4
+LILA-LF-S2,0,0,6,Female,Art / Music,3,2 or more,nov.,2009,21,5,4,26657,2
+LILA-LF-S2,0,0,0,Female,Art / Music,3,0,nov.,2009,15,4,1,37532,1
+LILA-LF-S2,0,0,5,Female,Art / Music,3,2 or more,jun.,2009,27,4,2,36814,5
+LILA-LF-S2,0,0,8,Male,Art / Music,3,1,jan.,2009,18,4,1,30972,2
+LILA-LF-S2,0,0,2,Female,English,3,1,mar.,2009,18,5,4,21985,1
+LILA-LF-S2,0,0,4,Female,French,3,1,may.,2009,18,5,5,15236,1
+LILA-LF-S2,0,0,3,Female,English,3,2 or more,feb.,2009,18,2,1,28141,4
+LILA-LF-S2,0,0,1,Male,Math / Science,3,1,jan.,2009,21,6,1,7156,1
+LILA-LF-S2,0,0,9,Male,French,3,1,apr.,2009,15,4,4,21018,1
+LILA-LF-S2,0,0,7,Female,Art / Music,3,1,may.,2009,15,1,2,16798,4
+LILA-LF-S2,0,0,11,Male,English,3,1,jan.,2010,27,6,1,8782,3
+LILA-LF-S2,1,0,2,Female,English,3,1,mar.,2009,21,3,5,22599,4
+LILA-LF-S2,1,0,0,Female,Art / Music,3,0,nov.,2009,33,6,1,33448,5
+LILA-LF-S2,1,0,11,Male,English,3,1,jan.,2010,36,6,6,36506,6
+LILA-LF-S2,1,0,6,Female,Art / Music,3,2 or more,nov.,2009,18,5,6,20376,1
+LILA-LF-S2,1,0,10,Male,Math / Science,3,0,nov.,2009,24,6,3,19969,2
+LILA-LF-S2,1,0,3,Female,English,3,2 or more,feb.,2009,27,6,6,23548,3
+LILA-LF-S2,1,0,8,Male,Art / Music,3,1,jan.,2009,30,4,4,15476,6
+LILA-LF-S2,1,0,9,Male,French,3,1,apr.,2009,24,4,4,40169,4
+LILA-LF-S2,1,0,5,Female,Art / Music,3,2 or more,jun.,2009,6,1,2,18970,1
+LILA-LF-S2,1,0,7,Female,Art / Music,3,1,may.,2009,18,1,5,14003,5
+LILA-LF-S2,1,0,4,Female,French,3,1,may.,2009,36,6,4,11974,6
+LILA-LF-S2,1,0,1,Male,Math / Science,3,1,jan.,2009,30,6,1,11704,4
+LILA-LF-S3,0,0,1,Female,Art / Music,5,2 or more,jun.,2007,21,2,5,35736,5
+LILA-LF-S3,0,0,9,Female,Math / Science,5,2 or more,nov.,2007,24,5,5,23563,3
+LILA-LF-S3,0,0,2,Male,Math / Science,5,2 or more,jun.,2007,21,5,3,21921,2
+LILA-LF-S3,0,0,8,Female,English,5,0,nov.,2007,18,5,2,20331,1
+LILA-LF-S3,0,0,5,Male,Math / Science,5,0,dec.,2006,33,6,3,19313,5
+LILA-LF-S3,0,0,3,Female,Art / Music,5,1,nov.,2007,15,1,1,21751,4
+LILA-LF-S3,0,0,0,Female,Art / Music,5,2 or more,mar.,2007,15,3,6,35908,2
+LILA-LF-S3,0,0,4,Female,Math / Science,5,1,nov.,2007,36,6,1,18314,6
+LILA-LF-S3,0,0,7,Female,Art / Music,5,1,sep.,2007,15,4,4,16966,1
+LILA-LF-S3,0,0,10,Female,English,5,1,nov.,2007,21,4,2,66789,3
+LILA-LF-S3,0,0,11,Male,Art / Music,5,1,mar.,2007,30,6,4,32159,4
+LILA-LF-S3,0,0,6,Male,Math / Science,5,1,may.,2007,21,4,3,18702,3
+LILA-LF-S3,1,0,4,Female,Math / Science,5,1,nov.,2007,33,6,3,11032,5
+LILA-LF-S3,1,0,9,Female,Math / Science,5,2 or more,nov.,2007,18,2,1,18688,4
+LILA-LF-S3,1,0,5,Male,Math / Science,5,0,dec.,2006,27,6,3,8641,3
+LILA-LF-S3,1,0,6,Male,Math / Science,5,1,may.,2007,24,5,5,7983,3
+LILA-LF-S3,1,0,7,Female,Art / Music,5,1,sep.,2007,33,6,1,31897,5
+LILA-LF-S3,1,0,10,Female,English,5,1,nov.,2007,18,5,5,7329,1
+LILA-LF-S3,1,0,8,Female,English,5,0,nov.,2007,9,2,4,40521,1
+LILA-LF-S3,1,0,11,Male,Art / Music,5,1,mar.,2007,30,5,5,17844,5
+LILA-LF-S3,1,0,3,Female,Art / Music,5,1,nov.,2007,27,3,5,14375,6
+LILA-LF-S3,1,0,0,Female,Art / Music,5,2 or more,mar.,2007,27,4,3,13750,5
+LILA-LF-S3,1,0,1,Female,Art / Music,5,2 or more,jun.,2007,27,6,2,15844,3
+LILA-LF-S3,1,0,2,Male,Math / Science,5,2 or more,jun.,2007,21,5,6,8128,2
+LILA-LF-S4,0,0,8,Female,Art / Music,K,1,sep.,2012,6,3,1,50627,3
+LILA-LF-S4,0,0,5,Male,Math / Science,K,2 or more,feb.,2012,9,5,5,71849,4
+LILA-LF-S4,0,0,7,Female,English,K,1,sep.,2012,11,5,3,82222,6
+LILA-LF-S4,0,0,2,Male,Math / Science,K,1,oct.,2012,8,6,6,50927,2
+LILA-LF-S4,0,0,3,Male,English,K,1,jun.,2012,8,2,5,79352,6
+LILA-LF-S4,0,0,4,Male,French,K,2 or more,sep.,2012,8,3,4,72551,5
+LILA-LF-S4,0,0,6,Female,French,K,1,jul.,2012,7,2,6,68253,5
+LILA-LF-S4,0,0,0,Male,Math / Science,K,1,may.,2012,6,2,2,108628,4
+LILA-LF-S4,0,0,10,Female,French,K,2 or more,aug.,2012,10,4,2,53471,6
+LILA-LF-S4,0,0,9,Female,French,K,1,feb.,2012,7,6,6,80457,1
+LILA-LF-S4,0,0,11,Male,English,K,0,may.,2012,7,5,4,73270,2
+LILA-LF-S4,0,0,1,Male,Math / Science,K,2 or more,oct.,2012,4,2,2,137031,2
+LILA-LF-S4,1,0,7,Female,English,K,1,sep.,2012,11,5,3,88038,6
+LILA-LF-S4,1,0,2,Male,Math / Science,K,1,oct.,2012,8,3,6,25753,5
+LILA-LF-S4,1,0,0,Male,Math / Science,K,1,may.,2012,11,6,6,25757,5
+LILA-LF-S4,1,0,11,Male,English,K,0,may.,2012,7,1,2,28367,6
+LILA-LF-S4,1,0,4,Male,French,K,2 or more,sep.,2012,8,5,5,26126,3
+LILA-LF-S4,1,0,1,Male,Math / Science,K,2 or more,oct.,2012,9,4,2,38322,5
+LILA-LF-S4,1,0,5,Male,Math / Science,K,2 or more,feb.,2012,8,5,5,26095,3
+LILA-LF-S4,1,0,3,Male,English,K,1,jun.,2012,8,5,5,31668,3
+LILA-LF-S4,1,0,6,Female,French,K,1,jul.,2012,11,5,3,28173,6
+LILA-LF-S4,1,0,9,Female,French,K,1,feb.,2012,12,6,6,48159,6
+LILA-LF-S4,1,0,10,Female,French,K,2 or more,aug.,2012,8,6,6,40751,2
+LILA-LF-S4,1,0,8,Female,Art / Music,K,1,sep.,2012,5,3,3,48158,2
+LILA-LF-S5,0,0,3,Male,Math / Science,1,1,jun.,2011,3,1,3,56615,2
+LILA-LF-S5,0,0,0,Male,Art / Music,1,1,apr.,2011,12,6,3,73066,6
+LILA-LF-S5,0,0,10,Male,Math / Science,1,1,nov.,2011,5,2,5,34736,3
+LILA-LF-S5,0,0,7,Male,French,1,0,feb.,2011,4,1,3,38647,3
+LILA-LF-S5,0,0,2,Male,Art / Music,1,0,apr.,2011,6,3,1,89822,3
+LILA-LF-S5,0,0,8,Female,Art / Music,1,0,jan.,2011,11,5,2,17094,6
+LILA-LF-S5,0,0,1,Female,English,1,1,dec.,2011,12,6,6,58154,6
+LILA-LF-S5,0,0,11,Male,English,1,2 or more,jun.,2011,5,3,2,48946,2
+LILA-LF-S5,0,0,6,Male,English,1,1,apr.,2011,6,4,6,39189,2
+LILA-LF-S5,0,0,4,Female,Art / Music,1,1,jul.,2011,5,1,2,57990,4
+LILA-LF-S5,0,0,5,Female,English,1,1,feb.,2011,7,2,6,44315,5
+LILA-LF-S5,0,0,9,Female,English,1,1,aug.,2011,7,6,4,42486,1
+LILA-LF-S5,1,0,0,Male,Art / Music,1,1,apr.,2011,3,2,1,22907,1
+LILA-LF-S5,1,0,5,Female,English,1,1,feb.,2011,2,1,6,26002,1
+LILA-LF-S5,1,0,4,Female,Art / Music,1,1,jul.,2011,5,3,1,27534,2
+LILA-LF-S5,1,0,8,Female,Art / Music,1,0,jan.,2011,8,6,6,53690,2
+LILA-LF-S5,1,0,9,Female,English,1,1,aug.,2011,7,5,1,57639,2
+LILA-LF-S5,1,0,11,Male,English,1,2 or more,jun.,2011,7,5,2,40424,2
+LILA-LF-S5,1,0,3,Male,Math / Science,1,1,jun.,2011,11,5,5,26800,6
+LILA-LF-S5,1,0,2,Male,Art / Music,1,0,apr.,2011,4,3,1,58360,1
+LILA-LF-S5,1,0,7,Male,French,1,0,feb.,2011,4,3,1,17199,1
+LILA-LF-S5,1,0,10,Male,Math / Science,1,1,nov.,2011,4,3,2,23455,1
+LILA-LF-S5,1,0,6,Male,English,1,1,apr.,2011,11,5,2,40704,6
+LILA-LF-S5,1,0,1,Female,English,1,1,dec.,2011,9,4,2,32041,5
+LILA-LF-S6,0,0,9,Male,Math / Science,2,1,mar.,2010,7,5,2,42880,2
+LILA-LF-S6,0,0,10,Female,French,2,1,sep.,2010,6,3,2,37515,3
+LILA-LF-S6,0,0,4,Female,Art / Music,2,2 or more,apr.,2010,9,5,1,52830,4
+LILA-LF-S6,0,0,1,Male,English,2,2 or more,may.,2010,7,5,4,64939,2
+LILA-LF-S6,0,0,3,Female,Math / Science,2,1,mar.,2010,2,1,6,47143,1
+LILA-LF-S6,0,0,11,Female,Math / Science,2,2 or more,jun.,2010,5,3,4,82659,2
+LILA-LF-S6,0,0,2,Female,Art / Music,2,0,mar.,2010,6,2,1,60597,4
+LILA-LF-S6,0,0,5,Male,Math / Science,2,1,jun.,2010,5,4,2,43161,1
+LILA-LF-S6,0,0,6,Female,Art / Music,2,1,jan.,2010,12,6,2,43440,6
+LILA-LF-S6,0,0,8,Female,Art / Music,2,1,feb.,2010,8,6,2,58347,2
+LILA-LF-S6,0,0,7,Male,Math / Science,2,1,dec.,2010,3,2,3,60997,1
+LILA-LF-S6,0,0,0,Male,Art / Music,2,1,mar.,2010,8,6,1,42669,2
+LILA-LF-S6,1,0,7,Male,Math / Science,2,1,dec.,2010,6,3,1,14782,3
+LILA-LF-S6,1,0,0,Male,Art / Music,2,1,mar.,2010,7,4,3,54921,3
+LILA-LF-S6,1,0,11,Female,Math / Science,2,2 or more,jun.,2010,5,4,4,19798,1
+LILA-LF-S6,1,0,9,Male,Math / Science,2,1,mar.,2010,9,4,6,69940,5
+LILA-LF-S6,1,0,6,Female,Art / Music,2,1,jan.,2010,2,1,4,26970,1
+LILA-LF-S6,1,0,5,Male,Math / Science,2,1,jun.,2010,4,1,5,18655,3
+LILA-LF-S6,1,0,1,Male,English,2,2 or more,may.,2010,12,6,3,56550,6
+LILA-LF-S6,1,0,4,Female,Art / Music,2,2 or more,apr.,2010,7,4,6,25423,3
+LILA-LF-S6,1,0,3,Female,Math / Science,2,1,mar.,2010,7,3,3,38627,4
+LILA-LF-S6,1,0,2,Female,Art / Music,2,0,mar.,2010,11,6,1,9001,5
+LILA-LF-S6,1,0,10,Female,French,2,1,sep.,2010,6,2,5,21648,4
+LILA-LF-S6,1,0,8,Female,Art / Music,2,1,feb.,2010,10,4,3,25814,6
+LILA-LF-S7,0,0,5,Male,Math / Science,3,0,apr.,2009,21,6,2,26394,1
+LILA-LF-S7,0,0,10,Female,Art / Music,3,2 or more,dec.,2009,30,6,6,33566,4
+LILA-LF-S7,0,0,2,Female,Math / Science,3,2 or more,jul.,2009,15,3,1,36752,2
+LILA-LF-S7,0,0,11,Male,Math / Science,3,1,aug.,2009,9,2,4,35755,1
+LILA-LF-S7,0,0,6,Female,Art / Music,3,2 or more,dec.,2009,21,6,5,22876,1
+LILA-LF-S7,0,0,0,Male,Math / Science,3,0,aug.,2009,12,2,3,37017,2
+LILA-LF-S7,0,0,4,Male,Art / Music,3,2 or more,aug.,2009,24,6,1,218132,2
+LILA-LF-S7,0,0,8,Male,Math / Science,3,1,jan.,2009,30,6,1,17485,4
+LILA-LF-S7,0,0,7,Male,Math / Science,3,1,aug.,2009,21,1,2,18438,6
+LILA-LF-S7,0,0,1,Female,Art / Music,3,2 or more,nov.,2009,18,5,4,49592,1
+LILA-LF-S7,0,0,9,Female,English,3,0,mar.,2009,27,6,1,39489,3
+LILA-LF-S7,0,0,3,Male,Math / Science,3,2 or more,may.,2009,33,6,2,36148,5
+LILA-LF-S7,1,0,2,Female,Math / Science,3,2 or more,jul.,2009,21,2,4,38892,5
+LILA-LF-S7,1,0,1,Female,Art / Music,3,2 or more,nov.,2009,30,6,4,23265,4
+LILA-LF-S7,1,0,8,Male,Math / Science,3,1,jan.,2009,21,6,1,26688,1
+LILA-LF-S7,1,0,3,Male,Math / Science,3,2 or more,may.,2009,12,1,5,23423,3
+LILA-LF-S7,1,0,5,Male,Math / Science,3,0,apr.,2009,30,5,6,23245,5
+LILA-LF-S7,1,0,0,Male,Math / Science,3,0,aug.,2009,27,5,3,26532,4
+LILA-LF-S7,1,0,4,Male,Art / Music,3,2 or more,aug.,2009,36,6,3,35932,6
+LILA-LF-S7,1,0,7,Male,Math / Science,3,1,aug.,2009,18,5,5,25501,1
+LILA-LF-S7,1,0,11,Male,Math / Science,3,1,aug.,2009,27,6,5,27319,3
+LILA-LF-S7,1,0,9,Female,English,3,0,mar.,2009,24,3,1,24286,5
+LILA-LF-S7,1,0,10,Female,Art / Music,3,2 or more,dec.,2009,33,6,5,25739,5
+LILA-LF-S7,1,0,6,Female,Art / Music,3,2 or more,dec.,2009,21,2,5,20470,5
+LILA-LF-S8,0,0,6,Female,Art / Music,3,2 or more,feb.,2009,21,2,4,45001,5
+LILA-LF-S8,0,0,2,Male,Math / Science,3,2 or more,apr.,2008,30,5,3,33993,5
+LILA-LF-S8,0,0,1,Male,French,3,1,apr.,2009,27,6,4,44286,3
+LILA-LF-S8,0,0,8,Female,Art / Music,3,2 or more,may.,2009,27,6,1,19518,3
+LILA-LF-S8,0,0,5,Female,English,3,0,jun.,2009,18,2,5,43928,4
+LILA-LF-S8,0,0,10,Female,Math / Science,4,0,jan.,2008,21,6,1,38158,1
+LILA-LF-S8,0,0,3,Female,Art / Music,3,0,jan.,2009,12,1,5,16412,3
+LILA-LF-S8,0,0,7,Male,Art / Music,3,0,aug.,2009,6,1,5,16470,1
+LILA-LF-S8,0,0,9,Male,English,4,1,jun.,2008,15,4,3,18096,1
+LILA-LF-S8,0,0,4,Female,English,4,1,oct.,2008,33,6,3,33986,5
+LILA-LF-S8,0,0,0,Female,Math / Science,3,1,may.,2009,24,4,6,34267,4
+LILA-LF-S8,0,0,11,Male,Math / Science,3,1,dec.,2009,27,3,1,30892,6
+LILA-LF-S8,1,0,9,Male,English,4,1,jun.,2008,30,4,6,12796,6
+LILA-LF-S8,1,0,11,Male,Math / Science,3,1,dec.,2009,24,6,2,22501,2
+LILA-LF-S8,1,0,4,Female,English,4,1,oct.,2008,36,6,2,21313,6
+LILA-LF-S8,1,0,10,Female,Math / Science,4,0,jan.,2008,36,6,5,16907,6
+LILA-LF-S8,1,0,0,Female,Math / Science,3,1,may.,2009,21,6,3,10016,1
+LILA-LF-S8,1,0,6,Female,Art / Music,3,2 or more,feb.,2009,21,5,4,15657,2
+LILA-LF-S8,1,0,2,Male,Math / Science,3,2 or more,apr.,2008,30,6,6,6850,4
+LILA-LF-S8,1,0,3,Female,Art / Music,3,0,jan.,2009,15,1,6,6218,4
+LILA-LF-S8,1,0,8,Female,Art / Music,3,2 or more,may.,2009,18,4,4,9430,2
+LILA-LF-S8,1,0,1,Male,French,3,1,apr.,2009,30,6,2,13237,4
+LILA-LF-S8,1,0,5,Female,English,3,0,jun.,2009,33,6,1,8686,5
+LILA-LF-S8,1,0,7,Male,Art / Music,3,0,aug.,2009,21,4,4,8860,3
+LILA-LF-S9,0,0,7,Female,English,4,0,jan.,2008,18,2,4,40377,4
+LILA-LF-S9,0,0,9,Female,French,3,1,may.,2009,21,1,6,62895,6
+LILA-LF-S9,0,0,0,Female,French,5,1,mar.,2007,30,4,5,27253,6
+LILA-LF-S9,0,0,5,Female,Art / Music,5,2 or more,sep.,2007,30,6,5,16219,4
+LILA-LF-S9,0,0,6,Female,Art / Music,5,1,dec.,2007,18,3,6,25392,3
+LILA-LF-S9,0,0,2,Female,Math / Science,5,0,nov.,2007,21,3,4,23204,4
+LILA-LF-S9,0,0,4,Male,Art / Music,2,1,mar.,2010,30,4,4,27753,6
+LILA-LF-S9,0,0,3,Male,Math / Science,4,2 or more,jul.,2008,33,6,3,24215,5
+LILA-LF-S9,0,0,11,Female,Art / Music,5,0,aug.,2007,36,6,4,30036,6
+LILA-LF-S9,0,0,10,Female,Art / Music,5,1,aug.,2007,15,1,3,21891,4
+LILA-LF-S9,0,0,8,Female,Math / Science,5,2 or more,nov.,2006,30,5,6,25940,5
+LILA-LF-S9,0,0,1,Female,Math / Science,5,2 or more,jul.,2007,24,5,6,25628,3
+LILA-LF-S9,1,0,4,Male,Art / Music,2,1,mar.,2010,30,6,4,17009,4
+LILA-LF-S9,1,0,0,Female,French,5,1,mar.,2007,18,5,2,18289,1
+LILA-LF-S9,1,0,8,Female,Math / Science,5,2 or more,nov.,2006,21,3,6,20436,4
+LILA-LF-S9,1,0,9,Female,French,3,1,may.,2009,36,6,4,32345,6
+LILA-LF-S9,1,0,3,Male,Math / Science,4,2 or more,jul.,2008,33,5,4,21545,6
+LILA-LF-S9,1,0,5,Female,Art / Music,5,2 or more,sep.,2007,15,1,6,24111,4
+LILA-LF-S9,1,0,1,Female,Math / Science,5,2 or more,jul.,2007,24,6,3,11200,2
+LILA-LF-S9,1,0,10,Female,Art / Music,5,1,aug.,2007,27,5,5,17345,4
+LILA-LF-S9,1,0,7,Female,English,4,0,jan.,2008,24,6,4,26270,2
+LILA-LF-S9,1,0,2,Female,Math / Science,5,0,nov.,2007,27,6,6,13376,3
+LILA-LF-S9,1,0,11,Female,Art / Music,5,0,aug.,2007,18,1,1,21468,5
+LILA-LF-S9,1,0,6,Female,Art / Music,5,1,dec.,2007,33,5,2,22438,6
+LILA-LF-S10,0,0,6,Female,Art / Music,2,1,nov.,2010,5,3,3,31317,2
+LILA-LF-S10,0,0,3,Male,French,2,1,nov.,2010,10,4,6,13048,6
+LILA-LF-S10,0,0,2,Female,French,2,0,jul.,2010,9,3,2,15469,6
+LILA-LF-S10,0,0,11,Male,Math / Science,2,1,oct.,2010,10,6,6,7923,4
+LILA-LF-S10,0,0,7,Male,French,2,1,aug.,2010,12,6,4,18063,6
+LILA-LF-S10,0,0,5,Male,Math / Science,2,1,nov.,2010,6,6,4,12766,2
+LILA-LF-S10,0,0,4,Female,Art / Music,2,2 or more,aug.,2010,12,2,5,55971,6
+LILA-LF-S10,0,0,0,Female,French,2,1,dec.,2010,4,6,1,14141,3
+LILA-LF-S10,0,0,1,Male,Math / Science,2,1,may.,2010,10,4,2,19625,6
+LILA-LF-S10,0,0,8,Female,Art / Music,2,1,mar.,2010,6,3,3,31671,3
+LILA-LF-S10,0,0,9,Male,Math / Science,2,0,apr.,2010,11,5,6,14533,6
+LILA-LF-S10,0,0,10,Female,Art / Music,2,1,nov.,2010,9,6,6,18018,3
+LILA-LF-S10,1,0,9,Male,Math / Science,2,0,apr.,2010,7,6,1,66353,1
+LILA-LF-S10,1,0,5,Male,Math / Science,2,1,nov.,2010,6,1,4,21076,5
+LILA-LF-S10,1,0,8,Female,Art / Music,2,1,mar.,2010,10,6,5,27724,4
+LILA-LF-S10,1,0,10,Female,Art / Music,2,1,nov.,2010,12,6,6,42670,6
+LILA-LF-S10,1,0,2,Female,French,2,0,jul.,2010,12,6,5,48409,6
+LILA-LF-S10,1,0,7,Male,French,2,1,aug.,2010,2,1,6,19532,1
+LILA-LF-S10,1,0,1,Male,Math / Science,2,1,may.,2010,12,6,2,36448,6
+LILA-LF-S10,1,0,6,Female,Art / Music,2,1,nov.,2010,8,6,1,58678,2
+LILA-LF-S10,1,0,3,Male,French,2,1,nov.,2010,7,6,2,31407,1
+LILA-LF-S10,1,0,0,Female,French,2,1,dec.,2010,7,6,1,32623,1
+LILA-LF-S10,1,0,11,Male,Math / Science,2,1,oct.,2010,11,6,6,12897,5
+LILA-LF-S10,1,0,4,Female,Art / Music,2,2 or more,aug.,2010,8,6,1,34377,2
+LILA-LF-S11,0,0,1,Male,Art / Music,2,0,jul.,2010,6,5,4,49596,1
+LILA-LF-S11,0,0,7,Female,Art / Music,2,1,dec.,2010,6,4,1,87191,2
+LILA-LF-S11,0,0,11,Female,Art / Music,2,1,sep.,2010,2,1,2,75612,1
+LILA-LF-S11,0,0,0,Male,Math / Science,2,1,jul.,2010,4,3,3,32042,1
+LILA-LF-S11,0,0,6,Female,Art / Music,2,1,aug.,2010,7,5,4,71571,2
+LILA-LF-S11,0,0,2,Female,Math / Science,2,0,jul.,2010,7,3,1,63316,4
+LILA-LF-S11,0,0,5,Male,French,2,2 or more,aug.,2010,7,6,1,70124,1
+LILA-LF-S11,0,0,8,Male,Math / Science,2,1,may.,2010,9,6,6,60460,3
+LILA-LF-S11,0,0,9,Female,Art / Music,2,2 or more,sep.,2012,7,3,1,34623,4
+LILA-LF-S11,0,0,10,Female,Art / Music,2,0,sep.,2010,2,1,2,59813,1
+LILA-LF-S11,0,0,4,Male,French,2,2 or more,nov.,2010,12,6,1,65722,6
+LILA-LF-S11,0,0,3,Female,Art / Music,2,2 or more,nov.,2010,5,4,1,73238,1
+LILA-LF-S11,1,0,5,Male,French,2,2 or more,aug.,2010,9,5,1,56449,4
+LILA-LF-S11,1,0,11,Female,Art / Music,2,1,sep.,2010,5,3,5,42783,2
+LILA-LF-S11,1,0,3,Female,Art / Music,2,2 or more,nov.,2010,7,6,1,35189,1
+LILA-LF-S11,1,0,1,Male,Art / Music,2,0,jul.,2010,6,3,4,28783,3
+LILA-LF-S11,1,0,6,Female,Art / Music,2,1,aug.,2010,7,1,4,47360,6
+LILA-LF-S11,1,0,7,Female,Art / Music,2,1,dec.,2010,11,6,6,54690,5
+LILA-LF-S11,1,0,10,Female,Art / Music,2,0,sep.,2010,7,2,4,37108,5
+LILA-LF-S11,1,0,2,Female,Math / Science,2,0,jul.,2010,3,2,3,51871,1
+LILA-LF-S11,1,0,8,Male,Math / Science,2,1,may.,2010,10,5,5,38615,5
+LILA-LF-S11,1,0,9,Female,Art / Music,2,2 or more,sep.,2012,6,2,5,52194,4
+LILA-LF-S11,1,0,4,Male,French,2,2 or more,nov.,2010,7,6,1,52299,1
+LILA-LF-S11,1,0,0,Male,Math / Science,2,1,jul.,2010,6,2,2,29129,4
+LILA-LF-S12,0,0,8,Male,unknown,K,unknown,sep.,2012,9,6,4,118276,3
+LILA-LF-S12,0,0,9,Male,unknown,K,unknown,may.,2012,7,3,6,119989,4
+LILA-LF-S12,0,0,4,Female,unknown,1,unknown,dec.,2011,9,4,3,48512,5
+LILA-LF-S12,0,0,6,Female,unknown,1,unknown,aug.,2011,9,5,5,84019,4
+LILA-LF-S12,0,0,1,Male,unknown,1,unknown,jul.,2011,5,4,5,31052,1
+LILA-LF-S12,0,0,2,Female,unknown,1,unknown,jun.,2011,7,2,3,45114,5
+LILA-LF-S12,0,0,7,Female,unknown,K,unknown,mar.,2012,6,1,3,80784,5
+LILA-LF-S12,0,0,10,Male,unknown,1,unknown,may.,2011,11,5,3,57318,6
+LILA-LF-S12,0,0,0,Female,unknown,1,unknown,nov.,2011,7,3,1,82209,4
+LILA-LF-S12,0,0,5,Female,unknown,K,unknown,dec.,2012,7,4,4,55659,3
+LILA-LF-S12,0,0,3,Male,unknown,1,unknown,nov.,2011,9,6,5,56931,3
+LILA-LF-S12,0,0,11,Male,unknown,K,unknown,aug.,2012,9,6,4,86702,3
+LILA-LF-S12,1,0,10,Male,unknown,1,unknown,may.,2011,9,6,1,35420,3
+LILA-LF-S12,1,0,9,Male,unknown,K,unknown,may.,2012,4,1,3,16547,3
+LILA-LF-S12,1,0,1,Male,unknown,1,unknown,jul.,2011,11,6,3,9485,5
+LILA-LF-S12,1,0,2,Female,unknown,1,unknown,jun.,2011,7,3,3,31241,4
+LILA-LF-S12,1,0,7,Female,unknown,K,unknown,mar.,2012,2,1,5,49455,1
+LILA-LF-S12,1,0,3,Male,unknown,1,unknown,nov.,2011,8,3,2,27012,5
+LILA-LF-S12,1,0,0,Female,unknown,1,unknown,nov.,2011,8,5,2,17706,3
+LILA-LF-S12,1,0,6,Female,unknown,1,unknown,aug.,2011,4,3,4,26689,1
+LILA-LF-S12,1,0,5,Female,unknown,K,unknown,dec.,2012,9,6,5,51330,3
+LILA-LF-S12,1,0,11,Male,unknown,K,unknown,aug.,2012,8,6,1,30724,2
+LILA-LF-S12,1,0,8,Male,unknown,K,unknown,sep.,2012,7,5,2,73920,2
+LILA-LF-S12,1,0,4,Female,unknown,1,unknown,dec.,2011,8,6,3,16607,2
+LILA-LF-S13,0,0,8,Female,Art / Music,1,1,sep.,2011,10,4,3,32284,6
+LILA-LF-S13,0,0,0,Female,Art / Music,1,2 or more,aug.,2011,4,3,6,55424,1
+LILA-LF-S13,0,0,2,Male,Math / Science,1,1,mar.,2011,7,4,5,36891,3
+LILA-LF-S13,0,0,4,Female,English,1,1,nov.,2011,9,6,1,54221,3
+LILA-LF-S13,0,0,6,Female,Math / Science,1,2 or more,aug.,2011,8,2,3,52846,6
+LILA-LF-S13,0,0,7,Male,English,1,1,oct.,2011,5,3,5,35110,2
+LILA-LF-S13,0,0,11,Male,English,1,1,jul.,2011,8,6,2,49439,2
+LILA-LF-S13,0,0,5,Male,English,1,0,nov.,2011,7,3,6,29083,4
+LILA-LF-S13,0,0,3,Female,French,1,1,oct.,2011,11,6,2,43599,5
+LILA-LF-S13,0,0,10,Female,English,1,1,nov.,2011,11,6,6,46872,5
+LILA-LF-S13,0,0,9,Female,French,1,1,oct.,2011,5,4,4,35018,1
+LILA-LF-S13,0,0,1,Male,Art / Music,1,1,may.,2011,10,4,1,72195,6
+LILA-LF-S13,1,0,7,Male,English,1,1,oct.,2011,7,3,5,32130,4
+LILA-LF-S13,1,0,11,Male,English,1,1,jul.,2011,7,4,4,22704,3
+LILA-LF-S13,1,0,2,Male,Math / Science,1,1,mar.,2011,10,5,5,15588,5
+LILA-LF-S13,1,0,4,Female,English,1,1,nov.,2011,9,3,3,66878,6
+LILA-LF-S13,1,0,3,Female,French,1,1,oct.,2011,9,5,5,20799,4
+LILA-LF-S13,1,0,9,Female,French,1,1,oct.,2011,9,4,6,33908,5
+LILA-LF-S13,1,0,8,Female,Art / Music,1,1,sep.,2011,7,4,4,20876,3
+LILA-LF-S13,1,0,5,Male,English,1,0,nov.,2011,8,4,4,26893,4
+LILA-LF-S13,1,0,1,Male,Art / Music,1,1,may.,2011,10,6,3,32126,4
+LILA-LF-S13,1,0,6,Female,Math / Science,1,2 or more,aug.,2011,6,2,4,33542,4
+LILA-LF-S13,1,0,10,Female,English,1,1,nov.,2011,11,6,4,39199,5
+LILA-LF-S13,1,0,0,Female,Art / Music,1,2 or more,aug.,2011,8,4,4,22876,4
+LILA-LF-S14,0,0,11,Female,French,K,1,aug.,2012,8,5,3,147351,3
+LILA-LF-S14,0,0,9,Female,Math / Science,K,0,oct.,2012,10,5,3,17683,5
+LILA-LF-S14,0,0,6,Female,Art / Music,K,1,jan.,2012,9,3,5,14625,6
+LILA-LF-S14,0,0,2,Male,Art / Music,K,0,sep.,2012,4,1,6,89025,3
+LILA-LF-S14,0,0,7,Male,Math / Science,K,0,nov.,2012,6,3,5,42705,3
+LILA-LF-S14,0,0,1,Female,Art / Music,K,1,jan.,2013,9,3,1,84925,6
+LILA-LF-S14,0,0,10,Female,English,K,1,jan.,2012,11,6,6,56596,5
+LILA-LF-S14,0,0,0,Male,Math / Science,K,1,sep.,2012,8,5,1,26388,3
+LILA-LF-S14,0,0,5,Female,Art / Music,K,0,feb.,2012,9,3,4,67018,6
+LILA-LF-S14,0,0,3,Female,Art / Music,K,1,jan.,2012,6,5,6,39019,1
+LILA-LF-S14,0,0,4,Male,French,K,1,jan.,2012,3,2,3,36332,1
+LILA-LF-S14,0,0,8,Female,Art / Music,K,1,jun.,2012,10,6,3,53651,4
+LILA-LF-S14,1,0,4,Male,French,K,1,jan.,2012,8,6,4,37223,2
+LILA-LF-S14,1,0,0,Male,Math / Science,K,1,sep.,2012,8,4,1,21501,4
+LILA-LF-S14,1,0,9,Female,Math / Science,K,0,oct.,2012,10,6,4,23936,4
+LILA-LF-S14,1,0,7,Male,Math / Science,K,0,nov.,2012,8,4,2,25922,4
+LILA-LF-S14,1,0,5,Female,Art / Music,K,0,feb.,2012,10,5,1,31283,5
+LILA-LF-S14,1,0,3,Female,Art / Music,K,1,jan.,2012,3,2,6,37134,1
+LILA-LF-S14,1,0,11,Female,French,K,1,aug.,2012,9,4,3,40324,5
+LILA-LF-S14,1,0,6,Female,Art / Music,K,1,jan.,2012,12,6,4,28391,6
+LILA-LF-S14,1,0,10,Female,English,K,1,jan.,2012,7,5,6,46502,2
+LILA-LF-S14,1,0,1,Female,Art / Music,K,1,jan.,2013,9,3,2,23235,6
+LILA-LF-S14,1,0,8,Female,Art / Music,K,1,jun.,2012,7,6,5,33311,1
+LILA-LF-S14,1,0,2,Male,Art / Music,K,0,sep.,2012,6,3,5,62108,3
+LILA-LF-S15,0,0,0,Male,Art / Music,K,1,feb.,2012,8,5,3,55534,3
+LILA-LF-S15,0,0,6,Female,Art / Music,K,1,apr.,2012,12,6,4,47853,6
+LILA-LF-S15,0,0,5,Female,French,K,0,jun.,2012,8,4,6,77656,4
+LILA-LF-S15,0,0,8,Male,Math / Science,K,0,jun.,2012,6,5,5,108879,1
+LILA-LF-S15,0,0,2,Male,French,K,0,mar.,2012,4,3,5,66679,1
+LILA-LF-S15,0,0,1,Male,French,K,1,jul.,2012,11,6,3,32319,5
+LILA-LF-S15,0,0,3,Female,French,K,0,jun.,2012,7,1,1,89273,6
+LILA-LF-S15,0,0,7,Male,English,K,1,nov.,2012,8,3,6,102848,5
+LILA-LF-S15,0,0,4,Female,Math / Science,K,0,jul.,2012,11,5,6,75492,6
+LILA-LF-S15,1,0,1,Male,French,K,1,jul.,2012,7,4,5,25221,3
+LILA-LF-S15,1,0,2,Male,French,K,0,mar.,2012,12,6,5,25695,6
+LILA-LF-S15,1,0,4,Female,Math / Science,K,0,jul.,2012,8,6,6,26209,2
+LILA-LF-S15,1,0,6,Female,Art / Music,K,1,apr.,2012,9,6,2,29592,3
+LILA-LF-S15,1,0,7,Male,English,K,1,nov.,2012,12,6,6,16845,6
+LILA-LF-S15,1,0,3,Female,French,K,0,jun.,2012,9,6,3,47549,3
+LILA-LF-S15,1,0,5,Female,French,K,0,jun.,2012,7,1,3,21564,6
+LILA-LF-S15,1,0,0,Male,Art / Music,K,1,feb.,2012,11,6,3,69847,5
+LILA-LF-S15,1,0,8,Male,Math / Science,K,0,jun.,2012,6,3,3,36126,3
+LILA-LF-S16,0,0,10,Male,Art / Music,2,2 or more,jul.,2010,9,6,6,47751,3
+LILA-LF-S16,0,0,7,Female,Art / Music,2,0,jun.,2010,11,6,2,60865,5
+LILA-LF-S16,0,0,4,Female,French,2,0,sep.,2010,4,2,3,71216,2
+LILA-LF-S16,0,0,1,Male,Math / Science,2,1,jun.,2010,4,1,6,36767,3
+LILA-LF-S16,0,0,0,Male,Art / Music,2,0,jun.,2010,8,4,3,23893,4
+LILA-LF-S16,0,0,5,Female,Art / Music,2,1,nov.,2010,6,3,2,127896,3
+LILA-LF-S16,0,0,11,Male,English,1,0,jul.,2011,11,5,4,43001,6
+LILA-LF-S16,0,0,6,Male,Math / Science,1,2 or more,sep.,2011,8,6,5,27157,2
+LILA-LF-S16,0,0,3,Male,French,1,2 or more,feb.,2011,9,5,2,61211,4
+LILA-LF-S16,0,0,2,Female,Math / Science,1,0,nov.,2011,8,2,4,77490,6
+LILA-LF-S16,0,0,9,Female,French,1,2 or more,feb.,2011,10,5,3,48936,5
+LILA-LF-S16,0,0,8,Male,Art / Music,1,1,jun.,2011,8,6,5,90603,2
+LILA-LF-S16,1,0,0,Male,Art / Music,2,0,jun.,2010,8,6,6,21446,2
+LILA-LF-S16,1,0,1,Male,Math / Science,2,1,jun.,2010,8,4,5,18547,4
+LILA-LF-S16,1,0,5,Female,Art / Music,2,1,nov.,2010,7,6,4,102535,1
+LILA-LF-S16,1,0,9,Female,French,1,2 or more,feb.,2011,9,4,1,45744,5
+LILA-LF-S16,1,0,8,Male,Art / Music,1,1,jun.,2011,9,3,1,31238,6
+LILA-LF-S16,1,0,11,Male,English,1,0,jul.,2011,10,6,3,36580,4
+LILA-LF-S16,1,0,6,Male,Math / Science,1,2 or more,sep.,2011,10,4,4,18144,6
+LILA-LF-S16,1,0,3,Male,French,1,2 or more,feb.,2011,10,4,4,20970,6
+LILA-LF-S16,1,0,7,Female,Art / Music,2,0,jun.,2010,9,6,6,104932,3
+LILA-LF-S16,1,0,10,Male,Art / Music,2,2 or more,jul.,2010,12,6,6,39348,6
+LILA-LF-S16,1,0,4,Female,French,2,0,sep.,2010,3,2,2,30417,1
+LILA-LF-S16,1,0,2,Female,Math / Science,1,0,nov.,2011,10,6,6,26105,4

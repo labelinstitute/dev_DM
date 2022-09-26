@@ -1,0 +1,1664 @@
+
+
+# Dice: 2 then 2; conversion 30c per point
+# LevelKids: 9+9; conversion 40c winning and 20c losing
+#
+# 1 point = 1c
+#
+ 
+
+###########################
+#
+# MATCHES 0-1:	: Dice Me+You [total of 2]
+# MATCH 2 	: quiz levelkids
+# MATCHES 3-20	: LevelKids (groups of 3) [total of 18]
+# MATCH 21	: questionnaire
+###########################
+
+
+###########################################
+###     LILA5 - twodice & levelkids 	###
+###     Experiment Scope Parameters 	###
+###########################################
+
+
+exp.id=50
+numOfMatches=22
+
+
+##############################################################
+##############################################################
+#### TwoDice Generic Match Scope Parameters ##################
+#### TwoDice Generic Match Scope Parameters ##################
+#### TwoDice Generic Match Scope Parameters ##################
+##############################################################
+##############################################################
+
+
+match.0.type=TwoDice
+match.0.groupSize=1
+match.0.maxRounds=1
+match.0.exchangeRate=0.01
+
+
+# show total payoff on the history panel[true|false]
+match.0.showTotalPayoff=false
+
+
+#[totalrandom|random|zipper|rr|continue|fixed|RiskAversion]
+match.0.matching=totalrandom
+
+
+# show the match ending display dialog [true|false]
+match.0.displayFinishedInfo=false
+
+
+# History panel display mode [full|tabbed]
+match.0.defaultView=full
+
+
+# Whether to allow user switch history panel display modes [true|false]
+match.0.viewSwitchable=false
+
+
+# Whether to show the round number in the history panel (generally turn off if running single round matches)
+match.0.showRoundNumber=false
+
+
+# Whether or not the 0th match is a practice match or not.  Payoffs for 
+# practice matches are not included in a participant's total
+match.0.practice=false
+
+
+##############################################################
+######### TwoDice Specific Match Scope Parameters ############
+##############################################################
+match.0.dicePayoff.1=30
+match.0.dicePayoff.2=60
+match.0.dicePayoff.3=90
+match.0.dicePayoff.4=120
+match.0.dicePayoff.5=150
+match.0.dicePayoff.6=180
+
+
+match.0.small.red1 = ..\\plugins\\twoDice\\images\\small\\red1.png
+match.0.small.red2 = ..\\plugins\\twoDice\\images\\small\\red2.png
+match.0.small.red3 = ..\\plugins\\twoDice\\images\\small\\red3.png
+match.0.small.red4 = ..\\plugins\\twoDice\\images\\small\\red4.png
+match.0.small.red5 = ..\\plugins\\twoDice\\images\\small\\red5.png
+match.0.small.red6 = ..\\plugins\\twoDice\\images\\small\\red6.png
+match.0.small.green1 = ..\\plugins\\twoDice\\images\\small\\green1.png
+match.0.small.green2 = ..\\plugins\\twoDice\\images\\small\\green2.png
+match.0.small.green3 = ..\\plugins\\twoDice\\images\\small\\green3.png
+match.0.small.green4 = ..\\plugins\\twoDice\\images\\small\\green4.png
+match.0.small.green5 = ..\\plugins\\twoDice\\images\\small\\green5.png
+match.0.small.green6 = ..\\plugins\\twoDice\\images\\small\\green6.png
+match.0.small.youGreen = ..\\plugins\\twoDice\\images\\small\\yougreen.jpg
+match.0.small.youRed = ..\\plugins\\twoDice\\images\\small\\youred.jpg
+match.0.small.otherGreen = ..\\plugins\\twoDice\\images\\small\\othergreen.jpg
+match.0.small.otherRed = ..\\plugins\\twoDice\\images\\small\\otherred.jpg
+
+
+match.0.large.red1 = ..\\plugins\\twoDice\\images\\large\\red1.png
+match.0.large.red2 = ..\\plugins\\twoDice\\images\\large\\red2.png
+match.0.large.red3 = ..\\plugins\\twoDice\\images\\large\\red3.png
+match.0.large.red4 = ..\\plugins\\twoDice\\images\\large\\red4.png
+match.0.large.red5 = ..\\plugins\\twoDice\\images\\large\\red5.png
+match.0.large.red6 = ..\\plugins\\twoDice\\images\\large\\red6.png
+match.0.large.green1 = ..\\plugins\\twoDice\\images\\large\\green1.png
+match.0.large.green2 = ..\\plugins\\twoDice\\images\\large\\green2.png
+match.0.large.green3 = ..\\plugins\\twoDice\\images\\large\\green3.png
+match.0.large.green4 = ..\\plugins\\twoDice\\images\\large\\green4.png
+match.0.large.green5 = ..\\plugins\\twoDice\\images\\large\\green5.png
+match.0.large.green6 = ..\\plugins\\twoDice\\images\\large\\green6.png
+match.0.large.youGreen = ..\\plugins\\twoDice\\images\\large\\yougreen.jpg
+match.0.large.youRed = ..\\plugins\\twoDice\\images\\large\\youred.jpg
+match.0.large.otherGreen = ..\\plugins\\twoDice\\images\\large\\othergreen.jpg
+match.0.large.otherRed = ..\\plugins\\twoDice\\images\\large\\otherred.jpg
+
+
+
+# whether the player is themselves red or green
+#    RED - the player's own color is red (and the other player is green)
+#    GREEN - the player's own color is green (and the other player is red)
+#    RANDOM - the player's own color is randomly assigned
+
+
+match.0.ownColor=RED
+
+
+# whether the player is themselves on the left side of the screen or the right
+#    LEFT - the player's own side is the left side (and the other player is on the right)
+#    RIGHT - the player's own side is the right side (and the other player is on the left)
+#    RANDOM - the player's own side is randomly assigned
+
+
+match.0.ownSide=RANDOM
+
+
+# whether or not the player is choosing an amount for themselves, the other player, or both
+#    SELF - player chooses an amount for themself
+#    OTHER - player chooses an amount for the "other" player
+#    BOTH - player chooses an amount for themselves and the other player
+
+
+match.0.giveTo=BOTH
+
+ 
+
+######### GUI Parameters ##########
+
+# whether or not to remove the border around the player's selection after they click OK to submit
+match.0.gui.removeSelectionAfterOK=true
+
+
+match.0.gui.greenColor = 34,177,76
+match.0.gui.redColor = 237,28,36
+
+match.0.gui.pleaseWaitText=<html>Please Wait</html>
+
+match.0.gui.youText = YOU
+
+match.0.gui.otherText = OTHER
+
+match.0.gui.okButtonLabel = OK
+ 
+
+
+
+################
+###   QUIZ   ###
+###   QUIZ   ###
+###   QUIZ   ###
+################
+
+
+
+#### Generic Match Scope Parameters ####
+
+match.2.type=Survey
+match.2.groupSize=1
+match.2.maxRounds=1
+match.2.exchangeRate=1
+match.2.practice=false
+match.2.matching=totalrandom
+
+### Survey specific match scope parameters ###
+
+match.2.roundsOfQuestions=1
+match.2.round.0.numOfQuestions=4
+
+
+match.2.round.0.question.0=Which player are you?
+match.2.round.0.question.0.ans.0=Player 1
+match.2.round.0.question.0.ans.1=Player 2
+match.2.round.0.question.0.ans.2=Player 3
+match.2.round.0.question.0.correct=0
+
+
+match.2.round.0.question.1=What do you have to match?
+match.2.round.0.question.1.ans.0=The color of player 3's object
+match.2.round.0.question.1.ans.1=The color of player 2's object
+match.2.round.0.question.1.ans.2=The letter of player 2's object
+match.2.round.0.question.1.correct=1
+
+
+match.2.round.0.question.2=What does Player 3 have to match?
+match.2.round.0.question.2.ans.0=The color of your object
+match.2.round.0.question.2.ans.1=The shape of the outside object
+match.2.round.0.question.2.ans.2=The letter of the outside object
+match.2.round.0.question.2.ans.3=The letter of player 2's object
+match.2.round.0.question.2.correct=1
+
+match.2.round.0.question.3=If player 2 chooses the blue square B, which object does player 1 have to choose to win?
+match.2.round.0.question.3.ans.0=Red circle B
+match.2.round.0.question.3.ans.1=Blue triangle A
+match.2.round.0.question.3.ans.2=Yellow square C
+match.2.round.0.question.3.correct=1
+
+
+
+#################################################### 
+#################################################### 
+####						####
+#### LevelKids - Generic Match Scope Parameters ####
+#### 						####
+#### LevelKids - Generic Match Scope Parameters ####
+####						####
+#################################################### 
+#################################################### 
+
+
+
+match.3.type=LevelKids
+match.3.groupSize=3
+match.3.maxRounds=1
+match.3.exchangeRate=0.01
+
+
+# show total payoff on the history panel[true|false]
+match.3.showTotalPayoff=false
+
+
+#[totalrandom|random|zipper|rr|continue|fixed|RiskAversion]
+match.3.matching=random
+
+
+# show the match ending display dialog [true|false]
+match.3.displayFinishedInfo=false
+
+
+# History panel display mode [full|tabbed]
+match.3.defaultView=full
+
+
+# Whether to allow user switch history panel display modes [true|false]
+match.3.viewSwitchable=true
+
+
+# Whether to show the round number in the history panel (generally turn off if running single round matches)
+match.3.showRoundNumber=false
+
+
+# Whether or not the 0th match is a practice match or not.  Payoffs for 
+# practice matches are not included in a participant's total
+match.3.practice=false
+
+
+
+################################################################
+#########					      ##########	
+######### LevelKids - Specific Match Scope Parameters ##########
+#########					      ##########
+################################################################
+
+
+
+### summary of match parameters ###
+#
+# choices (3 for each of 3 players, so 9 total) are defined by their shape, color and letter
+#    shape can be any of "circle", "square", or "triangle"
+#    color can be "red", "blue" or "yellow" (and these colors are defined by RGB below)
+#    letter can be any single letter 
+#
+#
+# the non-player "choice" is the one on the right-hand side of the GUI.
+#
+#
+# the equilibrium choice for each player
+#
+#
+# The definitions on what each player needs to agree upon with the next player
+#     COLOR - player needs to match the color of the next player's choice
+#     SHAPE - player needs to match the shape of the next player's choice
+#     LETTER - player needs to match the letter of the next player's choice
+#
+
+
+# the pay they get if they win vs if they lose
+
+match.3.winningPayoff=40
+
+match.3.losingPayoff=20
+
+
+
+# MATCH 3
+
+
+# choices of all three players
+
+
+match.3.player.0.choice.0.shape=triangle
+match.3.player.0.choice.0.color=red
+match.3.player.0.choice.0.letter=C
+
+match.3.player.0.choice.1.shape=circle
+match.3.player.0.choice.1.color=blue
+match.3.player.0.choice.1.letter=B
+
+match.3.player.0.choice.2.shape=square
+match.3.player.0.choice.2.color=yellow
+match.3.player.0.choice.2.letter=A
+
+match.3.player.1.choice.0.shape=triangle
+match.3.player.1.choice.0.color=red
+match.3.player.1.choice.0.letter=C
+
+match.3.player.1.choice.1.shape=circle
+match.3.player.1.choice.1.color=yellow
+match.3.player.1.choice.1.letter=B
+
+match.3.player.1.choice.2.shape=square
+match.3.player.1.choice.2.color=blue
+match.3.player.1.choice.2.letter=A
+
+match.3.player.2.choice.0.shape=triangle
+match.3.player.2.choice.0.color=red
+match.3.player.2.choice.0.letter=B
+
+match.3.player.2.choice.1.shape=square
+match.3.player.2.choice.1.color=yellow
+match.3.player.2.choice.1.letter=A
+
+match.3.player.2.choice.2.shape=circle
+match.3.player.2.choice.2.color=blue
+match.3.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.3.rightHandChoice.shape=triangle
+match.3.rightHandChoice.color=red
+match.3.rightHandChoice.letter=C
+
+
+# the equilibrium choice for each player
+
+
+match.3.player.0.equilibrium=2
+match.3.player.1.equilibrium=1
+match.3.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.3.agreeUpon.0=color
+match.3.agreeUpon.1=shape
+match.3.agreeUpon.2=letter
+
+
+# MATCH 4
+
+
+# choices of all three players
+
+
+match.4.player.0.choice.0.shape=circle
+match.4.player.0.choice.0.color=red
+match.4.player.0.choice.0.letter=B
+
+match.4.player.0.choice.1.shape=square
+match.4.player.0.choice.1.color=blue
+match.4.player.0.choice.1.letter=A
+
+match.4.player.0.choice.2.shape=triangle
+match.4.player.0.choice.2.color=yellow
+match.4.player.0.choice.2.letter=C
+
+match.4.player.1.choice.0.shape=circle
+match.4.player.1.choice.0.color=blue
+match.4.player.1.choice.0.letter=A
+
+match.4.player.1.choice.1.shape=square
+match.4.player.1.choice.1.color=red
+match.4.player.1.choice.1.letter=B
+
+match.4.player.1.choice.2.shape=triangle
+match.4.player.1.choice.2.color=yellow
+match.4.player.1.choice.2.letter=C
+
+match.4.player.2.choice.0.shape=square
+match.4.player.2.choice.0.color=blue
+match.4.player.2.choice.0.letter=B
+
+match.4.player.2.choice.1.shape=circle
+match.4.player.2.choice.1.color=red
+match.4.player.2.choice.1.letter=A
+
+match.4.player.2.choice.2.shape=triangle
+match.4.player.2.choice.2.color=yellow
+match.4.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.4.rightHandChoice.shape=triangle
+match.4.rightHandChoice.color=yellow
+match.4.rightHandChoice.letter=A
+
+
+# the equilibrium choice for each player
+
+
+match.4.player.0.equilibrium=1
+match.4.player.1.equilibrium=1
+match.4.player.2.equilibrium=1
+
+
+# What each player needs to agree upon 
+
+
+match.4.agreeUpon.0=shape
+match.4.agreeUpon.1=color
+match.4.agreeUpon.2=letter
+
+
+# MATCH 5
+
+
+# choices of all three players
+
+
+match.5.player.0.choice.0.shape=triangle
+match.5.player.0.choice.0.color=red
+match.5.player.0.choice.0.letter=C
+
+match.5.player.0.choice.1.shape=circle
+match.5.player.0.choice.1.color=yellow
+match.5.player.0.choice.1.letter=B
+
+match.5.player.0.choice.2.shape=square
+match.5.player.0.choice.2.color=blue
+match.5.player.0.choice.2.letter=A
+
+match.5.player.1.choice.0.shape=square
+match.5.player.1.choice.0.color=yellow
+match.5.player.1.choice.0.letter=B
+
+match.5.player.1.choice.1.shape=circle
+match.5.player.1.choice.1.color=blue
+match.5.player.1.choice.1.letter=C
+
+match.5.player.1.choice.2.shape=triangle
+match.5.player.1.choice.2.color=red
+match.5.player.1.choice.2.letter=A
+
+match.5.player.2.choice.0.shape=triangle
+match.5.player.2.choice.0.color=yellow
+match.5.player.2.choice.0.letter=C
+
+match.5.player.2.choice.1.shape=square
+match.5.player.2.choice.1.color=red
+match.5.player.2.choice.1.letter=A
+
+match.5.player.2.choice.2.shape=circle
+match.5.player.2.choice.2.color=blue
+match.5.player.2.choice.2.letter=B
+
+
+# the non-player "choice" 
+
+
+match.5.rightHandChoice.shape=circle
+match.5.rightHandChoice.color=yellow
+match.5.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.5.player.0.equilibrium=2
+match.5.player.1.equilibrium=2
+match.5.player.2.equilibrium=0
+
+
+# What each player needs to agree upon 
+
+
+match.5.agreeUpon.0=letter
+match.5.agreeUpon.1=shape
+match.5.agreeUpon.2=color
+
+
+# MATCH 6
+
+
+# choices of all three players
+
+
+match.6.player.0.choice.0.shape=circle
+match.6.player.0.choice.0.color=yellow
+match.6.player.0.choice.0.letter=B
+
+match.6.player.0.choice.1.shape=triangle
+match.6.player.0.choice.1.color=red
+match.6.player.0.choice.1.letter=C
+
+match.6.player.0.choice.2.shape=square
+match.6.player.0.choice.2.color=blue
+match.6.player.0.choice.2.letter=A
+
+match.6.player.1.choice.0.shape=triangle
+match.6.player.1.choice.0.color=red
+match.6.player.1.choice.0.letter=B
+
+match.6.player.1.choice.1.shape=square
+match.6.player.1.choice.1.color=blue
+match.6.player.1.choice.1.letter=A
+
+match.6.player.1.choice.2.shape=circle
+match.6.player.1.choice.2.color=yellow
+match.6.player.1.choice.2.letter=C
+
+match.6.player.2.choice.0.shape=triangle
+match.6.player.2.choice.0.color=yellow
+match.6.player.2.choice.0.letter=A
+
+match.6.player.2.choice.1.shape=circle
+match.6.player.2.choice.1.color=blue
+match.6.player.2.choice.1.letter=B
+
+match.6.player.2.choice.2.shape=square
+match.6.player.2.choice.2.color=red
+match.6.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.6.rightHandChoice.shape=square
+match.6.rightHandChoice.color=blue
+match.6.rightHandChoice.letter=A
+
+
+# the equilibrium choice for each player
+
+
+match.6.player.0.equilibrium=0
+match.6.player.1.equilibrium=0
+match.6.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.6.agreeUpon.0=letter
+match.6.agreeUpon.1=color
+match.6.agreeUpon.2=shape
+
+
+# MATCH 7
+
+# choices of all three players
+
+
+match.7.player.0.choice.0.shape=square
+match.7.player.0.choice.0.color=blue
+match.7.player.0.choice.0.letter=A
+
+match.7.player.0.choice.1.shape=triangle
+match.7.player.0.choice.1.color=yellow
+match.7.player.0.choice.1.letter=C
+
+match.7.player.0.choice.2.shape=circle
+match.7.player.0.choice.2.color=red
+match.7.player.0.choice.2.letter=B
+
+match.7.player.1.choice.0.shape=triangle
+match.7.player.1.choice.0.color=red
+match.7.player.1.choice.0.letter=A
+
+match.7.player.1.choice.1.shape=square
+match.7.player.1.choice.1.color=yellow
+match.7.player.1.choice.1.letter=B
+
+match.7.player.1.choice.2.shape=circle
+match.7.player.1.choice.2.color=blue
+match.7.player.1.choice.2.letter=C
+
+match.7.player.2.choice.0.shape=triangle
+match.7.player.2.choice.0.color=yellow
+match.7.player.2.choice.0.letter=C
+
+match.7.player.2.choice.1.shape=circle
+match.7.player.2.choice.1.color=blue
+match.7.player.2.choice.1.letter=B
+
+match.7.player.2.choice.2.shape=square
+match.7.player.2.choice.2.color=red
+match.7.player.2.choice.2.letter=A
+
+
+# the non-player "choice" 
+
+
+match.7.rightHandChoice.shape=square
+match.7.rightHandChoice.color=yellow
+match.7.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.7.player.0.equilibrium=0
+match.7.player.1.equilibrium=0
+match.7.player.2.equilibrium=0
+
+
+# What each player needs to agree upon 
+
+
+match.7.agreeUpon.0=letter
+match.7.agreeUpon.1=shape
+match.7.agreeUpon.2=color
+
+
+# MATCH 8
+
+
+# choices of all three players
+
+
+match.8.player.0.choice.0.shape=circle
+match.8.player.0.choice.0.color=red
+match.8.player.0.choice.0.letter=B
+
+match.8.player.0.choice.1.shape=square
+match.8.player.0.choice.1.color=yellow
+match.8.player.0.choice.1.letter=C
+
+match.8.player.0.choice.2.shape=triangle
+match.8.player.0.choice.2.color=blue
+match.8.player.0.choice.2.letter=A
+
+match.8.player.1.choice.0.shape=square
+match.8.player.1.choice.0.color=blue
+match.8.player.1.choice.0.letter=C
+
+match.8.player.1.choice.1.shape=triangle
+match.8.player.1.choice.1.color=yellow
+match.8.player.1.choice.1.letter=B
+
+match.8.player.1.choice.2.shape=circle
+match.8.player.1.choice.2.color=red
+match.8.player.1.choice.2.letter=A
+
+match.8.player.2.choice.0.shape=square
+match.8.player.2.choice.0.color=yellow
+match.8.player.2.choice.0.letter=A
+
+match.8.player.2.choice.1.shape=triangle
+match.8.player.2.choice.1.color=red
+match.8.player.2.choice.1.letter=B
+
+match.8.player.2.choice.2.shape=circle
+match.8.player.2.choice.2.color=blue
+match.8.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.8.rightHandChoice.shape=circle
+match.8.rightHandChoice.color=red
+match.8.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.8.player.0.equilibrium=2
+match.8.player.1.equilibrium=0
+match.8.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.8.agreeUpon.0=color
+match.8.agreeUpon.1=letter
+match.8.agreeUpon.2=shape
+
+
+# MATCH 9
+
+
+# choices of all three players
+
+
+match.9.player.0.choice.0.shape=triangle
+match.9.player.0.choice.0.color=yellow
+match.9.player.0.choice.0.letter=A
+
+match.9.player.0.choice.1.shape=circle
+match.9.player.0.choice.1.color=blue
+match.9.player.0.choice.1.letter=C
+
+match.9.player.0.choice.2.shape=square
+match.9.player.0.choice.2.color=red
+match.9.player.0.choice.2.letter=B
+
+match.9.player.1.choice.0.shape=circle
+match.9.player.1.choice.0.color= yellow
+match.9.player.1.choice.0.letter=A
+
+match.9.player.1.choice.1.shape=triangle
+match.9.player.1.choice.1.color=blue
+match.9.player.1.choice.1.letter=C
+
+match.9.player.1.choice.2.shape=square
+match.9.player.1.choice.2.color=red
+match.9.player.1.choice.2.letter=B
+
+match.9.player.2.choice.0.shape=triangle
+match.9.player.2.choice.0.color=yellow
+match.9.player.2.choice.0.letter=B
+
+match.9.player.2.choice.1.shape=circle
+match.9.player.2.choice.1.color=blue
+match.9.player.2.choice.1.letter=C
+
+match.9.player.2.choice.2.shape=square
+match.9.player.2.choice.2.color=red
+match.9.player.2.choice.2.letter=A
+
+
+# the non-player "choice" 
+
+
+match.9.rightHandChoice.shape=square
+match.9.rightHandChoice.color=red
+match.9.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.9.player.0.equilibrium=1
+match.9.player.1.equilibrium=0
+match.9.player.2.equilibrium=0
+
+
+# What each player needs to agree upon 
+
+
+match.9.agreeUpon.0=shape
+match.9.agreeUpon.1=color
+match.9.agreeUpon.2=letter
+
+
+# MATCH 10
+
+
+# choices of all three players
+
+
+match.10.player.0.choice.0.shape=circle
+match.10.player.0.choice.0.color=blue
+match.10.player.0.choice.0.letter=A
+
+match.10.player.0.choice.1.shape=square
+match.10.player.0.choice.1.color=red
+match.10.player.0.choice.1.letter=C
+
+match.10.player.0.choice.2.shape=triangle
+match.10.player.0.choice.2.color=yellow
+match.10.player.0.choice.2.letter=B
+
+match.10.player.1.choice.0.shape=circle
+match.10.player.1.choice.0.color=blue
+match.10.player.1.choice.0.letter=A
+
+match.10.player.1.choice.1.shape=square
+match.10.player.1.choice.1.color=yellow
+match.10.player.1.choice.1.letter=B
+
+match.10.player.1.choice.2.shape=triangle
+match.10.player.1.choice.2.color=red
+match.10.player.1.choice.2.letter=C
+
+match.10.player.2.choice.0.shape=circle
+match.10.player.2.choice.0.color=blue
+match.10.player.2.choice.0.letter=A
+
+match.10.player.2.choice.1.shape=square
+match.10.player.2.choice.1.color=red
+match.10.player.2.choice.1.letter=B
+
+match.10.player.2.choice.2.shape=triangle
+match.10.player.2.choice.2.color=yellow
+match.10.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.10.rightHandChoice.shape=square
+match.10.rightHandChoice.color=yellow
+match.10.rightHandChoice.letter=A
+
+
+# the equilibrium choice for each player
+
+
+match.10.player.0.equilibrium=1
+match.10.player.1.equilibrium=2
+match.10.player.2.equilibrium=1
+
+
+# What each player needs to agree upon 
+
+
+match.10.agreeUpon.0=letter
+match.10.agreeUpon.1=color
+match.10.agreeUpon.2=shape
+
+
+# MATCH 11
+
+
+# choices of all three players
+
+
+match.11.player.0.choice.0.shape=square
+match.11.player.0.choice.0.color=blue
+match.11.player.0.choice.0.letter=B
+
+match.11.player.0.choice.1.shape=triangle
+match.11.player.0.choice.1.color=red
+match.11.player.0.choice.1.letter=A
+
+match.11.player.0.choice.2.shape=circle
+match.11.player.0.choice.2.color=yellow
+match.11.player.0.choice.2.letter=C
+
+match.11.player.1.choice.0.shape=triangle
+match.11.player.1.choice.0.color=yellow
+match.11.player.1.choice.0.letter=C
+
+match.11.player.1.choice.1.shape=square
+match.11.player.1.choice.1.color=red
+match.11.player.1.choice.1.letter=A
+
+match.11.player.1.choice.2.shape=circle
+match.11.player.1.choice.2.color=blue
+match.11.player.1.choice.2.letter=B
+
+match.11.player.2.choice.0.shape=circle
+match.11.player.2.choice.0.color=red
+match.11.player.2.choice.0.letter=B
+
+match.11.player.2.choice.1.shape=square
+match.11.player.2.choice.1.color=yellow
+match.11.player.2.choice.1.letter=A
+
+match.11.player.2.choice.2.shape=triangle
+match.11.player.2.choice.2.color=blue
+match.11.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.11.rightHandChoice.shape=circle
+match.11.rightHandChoice.color=blue
+match.11.rightHandChoice.letter=B
+
+# the equilibrium choice for each player
+
+
+match.11.player.0.equilibrium=1
+match.11.player.1.equilibrium=0
+match.11.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.11.agreeUpon.0=shape
+match.11.agreeUpon.1=letter
+match.11.agreeUpon.2=color
+
+
+# MATCH 12
+
+
+# choices of all three players
+
+
+match.12.player.0.choice.0.shape=triangle
+match.12.player.0.choice.0.color=red
+match.12.player.0.choice.0.letter=C
+
+match.12.player.0.choice.1.shape=circle
+match.12.player.0.choice.1.color=blue
+match.12.player.0.choice.1.letter=B
+
+match.12.player.0.choice.2.shape=square
+match.12.player.0.choice.2.color=yellow
+match.12.player.0.choice.2.letter=A
+
+match.12.player.1.choice.0.shape=triangle
+match.12.player.1.choice.0.color=red
+match.12.player.1.choice.0.letter=C
+
+match.12.player.1.choice.1.shape=circle
+match.12.player.1.choice.1.color=yellow
+match.12.player.1.choice.1.letter=B
+
+match.12.player.1.choice.2.shape=square
+match.12.player.1.choice.2.color=blue
+match.12.player.1.choice.2.letter=A
+
+match.12.player.2.choice.0.shape=triangle
+match.12.player.2.choice.0.color=red
+match.12.player.2.choice.0.letter=B
+
+match.12.player.2.choice.1.shape=square
+match.12.player.2.choice.1.color=yellow
+match.12.player.2.choice.1.letter=A
+
+match.12.player.2.choice.2.shape=circle
+match.12.player.2.choice.2.color=blue
+match.12.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.12.rightHandChoice.shape=triangle
+match.12.rightHandChoice.color=red
+match.12.rightHandChoice.letter=C
+
+
+# the equilibrium choice for each player
+
+
+match.12.player.0.equilibrium=2
+match.12.player.1.equilibrium=1
+match.12.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.12.agreeUpon.0=color
+match.12.agreeUpon.1=shape
+match.12.agreeUpon.2=letter
+
+
+# MATCH 13
+
+
+# choices of all three players
+
+
+match.13.player.0.choice.0.shape=circle
+match.13.player.0.choice.0.color=red
+match.13.player.0.choice.0.letter=B
+
+match.13.player.0.choice.1.shape=square
+match.13.player.0.choice.1.color=blue
+match.13.player.0.choice.1.letter=A
+
+match.13.player.0.choice.2.shape=triangle
+match.13.player.0.choice.2.color=yellow
+match.13.player.0.choice.2.letter=C
+
+match.13.player.1.choice.0.shape=circle
+match.13.player.1.choice.0.color=blue
+match.13.player.1.choice.0.letter=A
+
+match.13.player.1.choice.1.shape=square
+match.13.player.1.choice.1.color=red
+match.13.player.1.choice.1.letter=B
+
+match.13.player.1.choice.2.shape=triangle
+match.13.player.1.choice.2.color=yellow
+match.13.player.1.choice.2.letter=C
+
+match.13.player.2.choice.0.shape=square
+match.13.player.2.choice.0.color=blue
+match.13.player.2.choice.0.letter=B
+
+match.13.player.2.choice.1.shape=circle
+match.13.player.2.choice.1.color=red
+match.13.player.2.choice.1.letter=A
+
+match.13.player.2.choice.2.shape=triangle
+match.13.player.2.choice.2.color=yellow
+match.13.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.13.rightHandChoice.shape=triangle
+match.13.rightHandChoice.color=yellow
+match.13.rightHandChoice.letter=A
+
+
+# the equilibrium choice for each player
+
+
+match.13.player.0.equilibrium=1
+match.13.player.1.equilibrium=1
+match.13.player.2.equilibrium=1
+
+
+# What each player needs to agree upon 
+
+
+match.13.agreeUpon.0=shape
+match.13.agreeUpon.1=color
+match.13.agreeUpon.2=letter
+
+
+
+# MATCH 14
+
+
+# choices of all three players
+
+
+match.14.player.0.choice.0.shape=triangle
+match.14.player.0.choice.0.color=red
+match.14.player.0.choice.0.letter=C
+
+match.14.player.0.choice.1.shape=circle
+match.14.player.0.choice.1.color=yellow
+match.14.player.0.choice.1.letter=B
+
+match.14.player.0.choice.2.shape=square
+match.14.player.0.choice.2.color=blue
+match.14.player.0.choice.2.letter=A
+
+match.14.player.1.choice.0.shape=square
+match.14.player.1.choice.0.color=yellow
+match.14.player.1.choice.0.letter=B
+
+match.14.player.1.choice.1.shape=circle
+match.14.player.1.choice.1.color=blue
+match.14.player.1.choice.1.letter=C
+
+match.14.player.1.choice.2.shape=triangle
+match.14.player.1.choice.2.color=red
+match.14.player.1.choice.2.letter=A
+
+match.14.player.2.choice.0.shape=triangle
+match.14.player.2.choice.0.color=yellow
+match.14.player.2.choice.0.letter=C
+
+match.14.player.2.choice.1.shape=square
+match.14.player.2.choice.1.color=red
+match.14.player.2.choice.1.letter=A
+
+match.14.player.2.choice.2.shape=circle
+match.14.player.2.choice.2.color=blue
+match.14.player.2.choice.2.letter=B
+
+
+# the non-player "choice" 
+
+
+match.14.rightHandChoice.shape=circle
+match.14.rightHandChoice.color=yellow
+match.14.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.14.player.0.equilibrium=2
+match.14.player.1.equilibrium=2
+match.14.player.2.equilibrium=0
+
+
+# What each player needs to agree upon 
+
+
+match.14.agreeUpon.0=letter
+match.14.agreeUpon.1=shape
+match.14.agreeUpon.2=color
+
+
+
+# MATCH 15
+
+
+# choices of all three players
+
+
+match.15.player.0.choice.0.shape=circle
+match.15.player.0.choice.0.color=yellow
+match.15.player.0.choice.0.letter=B
+
+match.15.player.0.choice.1.shape=triangle
+match.15.player.0.choice.1.color=red
+match.15.player.0.choice.1.letter=C
+
+match.15.player.0.choice.2.shape=square
+match.15.player.0.choice.2.color=blue
+match.15.player.0.choice.2.letter=A
+
+match.15.player.1.choice.0.shape=triangle
+match.15.player.1.choice.0.color=red
+match.15.player.1.choice.0.letter=B
+
+match.15.player.1.choice.1.shape=square
+match.15.player.1.choice.1.color=blue
+match.15.player.1.choice.1.letter=A
+
+match.15.player.1.choice.2.shape=circle
+match.15.player.1.choice.2.color=yellow
+match.15.player.1.choice.2.letter=C
+
+match.15.player.2.choice.0.shape=triangle
+match.15.player.2.choice.0.color=yellow
+match.15.player.2.choice.0.letter=A
+
+match.15.player.2.choice.1.shape=circle
+match.15.player.2.choice.1.color=blue
+match.15.player.2.choice.1.letter=B
+
+match.15.player.2.choice.2.shape=square
+match.15.player.2.choice.2.color=red
+match.15.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.15.rightHandChoice.shape=square
+match.15.rightHandChoice.color=blue
+match.15.rightHandChoice.letter=A
+
+
+# the equilibrium choice for each player
+
+
+match.15.player.0.equilibrium=0
+match.15.player.1.equilibrium=0
+match.15.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.15.agreeUpon.0=letter
+match.15.agreeUpon.1=color
+match.15.agreeUpon.2=shape
+
+
+
+# MATCH 16
+
+
+# choices of all three players
+
+
+match.16.player.0.choice.0.shape=square
+match.16.player.0.choice.0.color=blue
+match.16.player.0.choice.0.letter=A
+
+match.16.player.0.choice.1.shape=triangle
+match.16.player.0.choice.1.color=yellow
+match.16.player.0.choice.1.letter=C
+
+match.16.player.0.choice.2.shape=circle
+match.16.player.0.choice.2.color=red
+match.16.player.0.choice.2.letter=B
+
+match.16.player.1.choice.0.shape=triangle
+match.16.player.1.choice.0.color=red
+match.16.player.1.choice.0.letter=A
+
+match.16.player.1.choice.1.shape=square
+match.16.player.1.choice.1.color=yellow
+match.16.player.1.choice.1.letter=B
+
+match.16.player.1.choice.2.shape=circle
+match.16.player.1.choice.2.color=blue
+match.16.player.1.choice.2.letter=C
+
+match.16.player.2.choice.0.shape=triangle
+match.16.player.2.choice.0.color=yellow
+match.16.player.2.choice.0.letter=C
+
+match.16.player.2.choice.1.shape=circle
+match.16.player.2.choice.1.color=blue
+match.16.player.2.choice.1.letter=B
+
+match.16.player.2.choice.2.shape=square
+match.16.player.2.choice.2.color=red
+match.16.player.2.choice.2.letter=A
+
+
+# the non-player "choice" 
+
+
+match.16.rightHandChoice.shape=square
+match.16.rightHandChoice.color=yellow
+match.16.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.16.player.0.equilibrium=0
+match.16.player.1.equilibrium=0
+match.16.player.2.equilibrium=0
+
+
+# What each player needs to agree upon 
+
+
+match.16.agreeUpon.0=letter
+match.16.agreeUpon.1=shape
+match.16.agreeUpon.2=color
+
+
+
+# MATCH 17
+
+
+# choices of all three players
+
+
+match.17.player.0.choice.0.shape=circle
+match.17.player.0.choice.0.color=red
+match.17.player.0.choice.0.letter=B
+
+match.17.player.0.choice.1.shape=square
+match.17.player.0.choice.1.color=yellow
+match.17.player.0.choice.1.letter=C
+
+match.17.player.0.choice.2.shape=triangle
+match.17.player.0.choice.2.color=blue
+match.17.player.0.choice.2.letter=A
+
+match.17.player.1.choice.0.shape=square
+match.17.player.1.choice.0.color=blue
+match.17.player.1.choice.0.letter=C
+
+match.17.player.1.choice.1.shape=triangle
+match.17.player.1.choice.1.color=yellow
+match.17.player.1.choice.1.letter=B
+
+match.17.player.1.choice.2.shape=circle
+match.17.player.1.choice.2.color=red
+match.17.player.1.choice.2.letter=A
+
+match.17.player.2.choice.0.shape=square
+match.17.player.2.choice.0.color=yellow
+match.17.player.2.choice.0.letter=A
+
+match.17.player.2.choice.1.shape=triangle
+match.17.player.2.choice.1.color=red
+match.17.player.2.choice.1.letter=B
+
+match.17.player.2.choice.2.shape=circle
+match.17.player.2.choice.2.color=blue
+match.17.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.17.rightHandChoice.shape=circle
+match.17.rightHandChoice.color=red
+match.17.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.17.player.0.equilibrium=2
+match.17.player.1.equilibrium=0
+match.17.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.17.agreeUpon.0=color
+match.17.agreeUpon.1=letter
+match.17.agreeUpon.2=shape
+
+
+# MATCH 18
+
+
+# choices of all three players
+
+
+match.18.player.0.choice.0.shape=triangle
+match.18.player.0.choice.0.color=yellow
+match.18.player.0.choice.0.letter=A
+
+match.18.player.0.choice.1.shape=circle
+match.18.player.0.choice.1.color=blue
+match.18.player.0.choice.1.letter=C
+
+match.18.player.0.choice.2.shape=square
+match.18.player.0.choice.2.color=red
+match.18.player.0.choice.2.letter=B
+
+match.18.player.1.choice.0.shape=circle
+match.18.player.1.choice.0.color= yellow
+match.18.player.1.choice.0.letter=A
+
+match.18.player.1.choice.1.shape=triangle
+match.18.player.1.choice.1.color=blue
+match.18.player.1.choice.1.letter=C
+
+match.18.player.1.choice.2.shape=square
+match.18.player.1.choice.2.color=red
+match.18.player.1.choice.2.letter=B
+
+match.18.player.2.choice.0.shape=triangle
+match.18.player.2.choice.0.color=yellow
+match.18.player.2.choice.0.letter=B
+
+match.18.player.2.choice.1.shape=circle
+match.18.player.2.choice.1.color=blue
+match.18.player.2.choice.1.letter=C
+
+match.18.player.2.choice.2.shape=square
+match.18.player.2.choice.2.color=red
+match.18.player.2.choice.2.letter=A
+
+
+# the non-player "choice" 
+
+
+match.18.rightHandChoice.shape=square
+match.18.rightHandChoice.color=red
+match.18.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.18.player.0.equilibrium=1
+match.18.player.1.equilibrium=0
+match.18.player.2.equilibrium=0
+
+
+# What each player needs to agree upon 
+
+
+match.18.agreeUpon.0=shape
+match.18.agreeUpon.1=color
+match.18.agreeUpon.2=letter
+
+
+
+# MATCH 19
+
+
+# choices of all three players
+
+
+match.19.player.0.choice.0.shape=circle
+match.19.player.0.choice.0.color=blue
+match.19.player.0.choice.0.letter=A
+
+match.19.player.0.choice.1.shape=square
+match.19.player.0.choice.1.color=red
+match.19.player.0.choice.1.letter=C
+
+match.19.player.0.choice.2.shape=triangle
+match.19.player.0.choice.2.color=yellow
+match.19.player.0.choice.2.letter=B
+
+match.19.player.1.choice.0.shape=circle
+match.19.player.1.choice.0.color=blue
+match.19.player.1.choice.0.letter=A
+
+match.19.player.1.choice.1.shape=square
+match.19.player.1.choice.1.color=yellow
+match.19.player.1.choice.1.letter=B
+
+match.19.player.1.choice.2.shape=triangle
+match.19.player.1.choice.2.color=red
+match.19.player.1.choice.2.letter=C
+
+match.19.player.2.choice.0.shape=circle
+match.19.player.2.choice.0.color=blue
+match.19.player.2.choice.0.letter=A
+
+match.19.player.2.choice.1.shape=square
+match.19.player.2.choice.1.color=red
+match.19.player.2.choice.1.letter=B
+
+match.19.player.2.choice.2.shape=triangle
+match.19.player.2.choice.2.color=yellow
+match.19.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.19.rightHandChoice.shape=square
+match.19.rightHandChoice.color=yellow
+match.19.rightHandChoice.letter=A
+
+
+# the equilibrium choice for each player
+
+
+match.19.player.0.equilibrium=1
+match.19.player.1.equilibrium=2
+match.19.player.2.equilibrium=1
+
+
+# What each player needs to agree upon 
+
+
+match.19.agreeUpon.0=letter
+match.19.agreeUpon.1=color
+match.19.agreeUpon.2=shape
+
+
+
+# MATCH 20
+
+
+# choices of all three players
+
+
+match.20.player.0.choice.0.shape=square
+match.20.player.0.choice.0.color=blue
+match.20.player.0.choice.0.letter=B
+
+match.20.player.0.choice.1.shape=triangle
+match.20.player.0.choice.1.color=red
+match.20.player.0.choice.1.letter=A
+
+match.20.player.0.choice.2.shape=circle
+match.20.player.0.choice.2.color=yellow
+match.20.player.0.choice.2.letter=C
+
+match.20.player.1.choice.0.shape=triangle
+match.20.player.1.choice.0.color=yellow
+match.20.player.1.choice.0.letter=C
+
+match.20.player.1.choice.1.shape=square
+match.20.player.1.choice.1.color=red
+match.20.player.1.choice.1.letter=A
+
+match.20.player.1.choice.2.shape=circle
+match.20.player.1.choice.2.color=blue
+match.20.player.1.choice.2.letter=B
+
+match.20.player.2.choice.0.shape=circle
+match.20.player.2.choice.0.color=red
+match.20.player.2.choice.0.letter=B
+
+match.20.player.2.choice.1.shape=square
+match.20.player.2.choice.1.color=yellow
+match.20.player.2.choice.1.letter=A
+
+match.20.player.2.choice.2.shape=triangle
+match.20.player.2.choice.2.color=blue
+match.20.player.2.choice.2.letter=C
+
+
+# the non-player "choice" 
+
+
+match.20.rightHandChoice.shape=circle
+match.20.rightHandChoice.color=blue
+match.20.rightHandChoice.letter=B
+
+
+# the equilibrium choice for each player
+
+
+match.20.player.0.equilibrium=1
+match.20.player.1.equilibrium=0
+match.20.player.2.equilibrium=2
+
+
+# What each player needs to agree upon 
+
+
+match.20.agreeUpon.0=shape
+match.20.agreeUpon.1=letter
+match.20.agreeUpon.2=color
+
+
+
+# a number of pixels by which to raise the right-hand-side box so that it aligns with the boxes of the choices for other players
+# this may need to be changed for different resolutions
+
+
+match.3.rightHandOffset=100
+
+
+######### GUI Parameters ##########
+
+
+# colors are described in RGB - that is, comma-delimited triples of integers describing the red, green, and blue color components
+
+
+match.3.gui.redColor = 255,0,0
+match.3.gui.blueColor = 0,176,240
+match.3.gui.yellowColor = 255,255,0
+
+
+match.3.gui.ownChoiceBgColor = 165,165,165
+match.3.gui.otherChoiceBgColor = 242,242,242
+
+
+match.3.gui.playerText=<html>You are Player %indexPlusOne%</html>
+
+
+match.3.gui.prompt0Text=<html><p style="text-align: center;">match the<br>%agreeUpon0%</p></html>
+match.3.gui.prompt1Text=<html><p style="text-align: center;">match the<br>%agreeUpon1%</p></html>
+match.3.gui.prompt2Text=<html><p style="text-align: center;">match the<br>%agreeUpon2%</p></html>
+
+
+match.3.gui.yourChoiceText=<html>YOUR CHOICE</html>
+match.3.gui.youAreText=<html>YOU ARE</html>
+match.3.gui.playerChoiceText=<html>Player %num%</html>
+
+
+match.3.gui.okButtonLabel=OK
+
+
+match.3.gui.pleaseWaitText=<html>Please WAIT</html>
+
+
+#####################################
+########                    #########
+######## END QUESTIONNAIRE  #########
+######## END QUESTIONNAIRE  #########
+######## END QUESTIONNAIRE  #########
+########                    #########
+#####################################
+
+
+
+#### Generic Match Scope Parameters ####
+
+match.21.type=Survey
+match.21.groupSize=1
+match.21.maxRounds=1
+match.21.exchangeRate=1
+match.21.practice=false
+match.21.matching=totalrandom
+
+### Survey specific match scope parameters ###
+
+
+match.21.roundsOfQuestions=2
+
+match.21.round.0.numOfQuestions=7
+
+match.21.round.0.question.0=
+match.21.round.0.question.0.type=instruction
+
+match.21.round.0.question.1=
+match.21.round.0.question.1.type=instruction
+
+match.21.round.0.question.2=
+match.21.round.0.question.2.type=instruction
+
+match.21.round.0.question.3=
+match.21.round.0.question.3.type=instruction
+
+match.21.round.0.question.4=What is your gender?
+match.21.round.0.question.4.type=choice
+match.21.round.0.question.4.ans.0=Male
+match.21.round.0.question.4.ans.1=Female
+
+match.21.round.0.question.5=How many siblings do you have?
+match.21.round.0.question.5.type=choice
+match.21.round.0.question.5.ans.0=0
+match.21.round.0.question.5.ans.1=1
+match.21.round.0.question.5.ans.2=2 or more
+
+match.21.round.0.question.6=What is your favorite subject at school?
+match.21.round.0.question.6.type=choice
+match.21.round.0.question.6.ans.0=English
+match.21.round.0.question.6.ans.1=French
+match.21.round.0.question.6.ans.2=Math
+match.21.round.0.question.6.ans.3=Science / Technology
+match.21.round.0.question.6.ans.4=History / Geography
+match.21.round.0.question.6.ans.5=Art / Music
+
+match.21.round.1.numOfQuestions=7
+
+match.21.round.1.question.0=
+match.21.round.1.question.0.type=instruction
+
+match.21.round.1.question.1=
+match.21.round.1.question.1.type=instruction
+
+match.21.round.1.question.2=
+match.21.round.1.question.2.type=instruction
+
+match.21.round.1.question.3=
+match.21.round.1.question.3.type=instruction
+
+match.21.round.1.question.4=
+match.21.round.1.question.4.type=instruction
+
+match.21.round.1.question.5=In which month were you born?
+match.21.round.1.question.5.type=choice
+match.21.round.1.question.5.ans.0=jan.
+match.21.round.1.question.5.ans.1=feb.
+match.21.round.1.question.5.ans.2=mar.
+match.21.round.1.question.5.ans.3=apr.
+match.21.round.1.question.5.ans.4=may.
+match.21.round.1.question.5.ans.5=jun.
+match.21.round.1.question.5.ans.6=jul.
+match.21.round.1.question.5.ans.7=aug.
+match.21.round.1.question.5.ans.8=sep.
+match.21.round.1.question.5.ans.9=oct.
+match.21.round.1.question.5.ans.10=nov.
+match.21.round.1.question.5.ans.11=dec.
+
+match.21.round.1.question.6=In which year were you born?
+match.21.round.1.question.6.type=choice
+match.21.round.1.question.6.ans.0=1999
+match.21.round.1.question.6.ans.1=2000
+match.21.round.1.question.6.ans.2=2001
+match.21.round.1.question.6.ans.3=2002
+match.21.round.1.question.6.ans.4=2003
+match.21.round.1.question.6.ans.5=2004
+match.21.round.1.question.6.ans.6=2005
+match.21.round.1.question.6.ans.7=2006
+match.21.round.1.question.6.ans.8=2007 
+
+
+
+
+
+match.0.repetitions=50
