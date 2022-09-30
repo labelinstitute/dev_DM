@@ -1,0 +1,21 @@
+Location,SessionId,matchId,GroupId,ClientId,Grade,Gender,Number Older Siblings,Number Younger Siblings,Payoff,PlayerName,startingRow,startingColumn,click.0.finalRow,click.0.finalCol,click.1.finalRow,click.1.finalCol,click.2.finalRow,click.2.finalCol,click.3.finalRow,click.3.finalCol
+LF,D2S1,0,0,3,5,Female,0,0,32, TREE leader,5,5,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,0,0,6,5,Male,0,2,20, VOLCANO leader,3,3,5,4,6,4,6,1,N/A,N/A
+LF,D2S1,0,1,4,5,Male,0,0,26, VOLCANO leader,3,3,3,3,5,3,5,1,7,0
+LF,D2S1,0,1,5,5,Male,2,0,26, TREE leader,5,5,6,5,7,0,N/A,N/A,N/A,N/A
+LF,D2S1,0,2,0,5,Male,1,0,20, TREE leader,5,5,5,5,6,3,N/A,N/A,N/A,N/A
+LF,D2S1,0,2,9,5,Male,0,0,32, VOLCANO leader,3,3,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,0,3,1,5,Female,0,1,20, TREE leader,5,5,4,2,6,1,6,1,5,2
+LF,D2S1,0,3,2,5,Male,0,1,32, VOLCANO leader,3,3,4,3,4,2,7,0,N/A,N/A
+LF,D2S1,0,4,7,5,Female,0,2,20, VOLCANO leader,3,3,6,1,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,0,4,8,5,Male,0,2,32, TREE leader,5,5,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,0,1,5,Female,0,1,26, TREE leader,5,5,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,0,2,5,Male,0,1,26, VOLCANO leader,3,3,5,1,7,0,N/A,N/A,N/A,N/A
+LF,D2S1,1,1,8,5,Male,0,2,26, TREE leader,5,5,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,1,9,5,Male,0,0,26, VOLCANO leader,3,3,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,2,4,5,Male,0,0,26, VOLCANO leader,3,3,4,3,7,0,N/A,N/A,N/A,N/A
+LF,D2S1,1,2,5,5,Male,2,0,26, TREE leader,5,5,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,3,3,5,Female,0,0,26, TREE leader,5,5,5,5,5,5,6,4,7,0
+LF,D2S1,1,3,7,5,Female,0,2,26, VOLCANO leader,3,3,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,4,0,5,Male,1,0,26, TREE leader,5,5,7,0,N/A,N/A,N/A,N/A,N/A,N/A
+LF,D2S1,1,4,6,5,Male,0,2,26, VOLCANO leader,3,3,4,3,7,0,N/A,N/A,N/A,N/A
