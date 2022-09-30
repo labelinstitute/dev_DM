@@ -1,0 +1,248 @@
+# SAMPLE ARMY PARAMETER FILE #
+
+### Experiment Scope Parameters ###
+exp.id=60
+numOfMatches=15
+
+
+#####################################################
+###     ARMY Generic Match Scope Parameters      ####
+#####################################################
+
+
+match.0.type=Army
+match.0.groupSize=2
+match.0.maxRounds=1
+match.0.exchangeRate=1.0
+
+# show total payoff on the history panel[true|false]
+match.0.showTotalPayoff=false
+
+#[totalrandom|random|zipper|rr|continue|fixed|RiskAversion]
+match.0.matching=random
+match.1.matching=fixed
+
+# show the match ending display dialog [true|false]
+match.0.displayFinishedInfo=false
+
+# History panel display mode [full|tabbed]
+match.0.defaultView=full
+
+# Whether to allow user switch history panel display modes [true|false]
+match.0.viewSwitchable=true
+
+# Whether to show the round number in the history panel (generally turn off if running single round matches)
+match.0.showRoundNumber=false
+
+# Whether or not the 0th match is a practice match or not.  Payoffs for 
+# practice matches are not included in a participant's total
+match.0.practice=false
+
+
+###  ARMY Specific Match Scope Parameters ############
+
+
+# The players are placed onto a numRows by numCols grid
+match.0.numRows=8
+match.0.numCols=8
+
+match.0.player.0=<html><font color=\"red\"> VOLCANO leader</font></html>
+match.0.player.0.symbol=<html><font color=\"red\">&#x25CF;</font></html>
+match.0.player.0.startingPosition=3,3
+match.0.player.1=<html><font color=\"green\"> TREE leader</font></html>
+match.0.player.1.symbol=<html><font color=\"green\">&#x25CF;</font></html>
+match.0.player.1.startingPosition=5,5
+ 
+
+# Payoffs:  Each player starts with x points.  
+# x = army
+# y = value of tree
+# z = value of volcanoes
+# Starting payoff of green: army = x, tree = y, volcano = 0
+# Starting payoff of red: army = x, tree = 0, volcano = z
+# Final payoff of green: army = x, tree = [y if below or equal to red / 0 if strictly
+#     above red], volcano = [z if strictly left of red / 0 if equal or right of red]
+# Final payoff of red: army = x, tree = [y if strictly below green / 0 if above or
+#     equal green], volcano = [z if equal or left of green / 0 if strictly right of green]
+match.0.x=20
+match.0.y=6
+match.0.z=6
+
+
+# For the payoff calculation above, how many squares (left,right,above,below) to make the comparison by
+#  EXAMPLE:
+#    match.0.payoffComparison=any:    if one player is any number of squares left right up down from the other, the condition triggers
+#    match.0.payoffComparison=2:       if one player is exactly 2 squares (left,right,above,below) the other, the condition triggers
+match.0.payoffComparison=any
+
+# the images shown up the sides of the grid of boxes
+match.0.treesImage=..\\plugins\\army\\images\\trees6.jpg
+match.0.mountainsImage=..\\plugins\\army\\images\\volcano6.jpg
+
+match.0.treesIcon=..\\plugins\\army\\images\\treeIcon.jpg
+match.0.mountainsIcon=..\\plugins\\army\\images\\volcanoIcon.jpg
+
+# whether or not to show the a final payoff update screen at the end of the final round of this match
+match.0.showFinalScreen=false
+
+######### GUI Parameters ##########
+
+# The text at the top of the screen telling them which player they are
+match.0.gui.playerText=<html>%ownName%</html>
+
+# the label of the "OK" button
+match.0.gui.okButtonLabel=OK
+
+# The label shown beneath the army graph telling instructions.
+#  OLD: match.0.gui.chooseText=<html><p>The graph shows the position of your army [%ownName%] 
+#       and that of the other player [%otherName%].  You can change your position to any cell 
+#       on the grid and the other player will do the same.</p><br><p>You start with 5 tokens 
+#       and tokens can be added or subtracted.</p><br><p><ul><li>You take 2 tokens from the 
+#       other player if you set your army exactly 2 cells closer to the mountains than 
+#       him.</li><li>You lose 2 tokens to the other player if you set your army exactly 2 cells 
+#       farther away from the forest than him</li></ul></p></html>
+match.0.gui.chooseText1.1=<html><p><font style="font-size:28px;" color=\"green\"> TREE leader:</font><font style="font-size:28px;" color=\"green\">&#x25CF;</font><font style="font-size:28px;"> = %x%</font></p></html>
+match.0.gui.chooseText2.1=<html><p><font style="font-size:28px;"> = %y%</font></p></html>
+match.0.gui.chooseText3.1=<html><p><font style="font-size:28px;"> = 0</font></p></html>
+
+match.0.gui.chooseText1.0=<html><p><font style="font-size:28px;" color=\"red\"> VOLCANO leader: </font><font style="font-size:28px;" color=\"red\">&#x25CF;</font><font style="font-size:28px;"> = %x%</font></p></html>
+match.0.gui.chooseText2.0=<html><p><font style="font-size:28px;"> = 0</font></p></html>
+match.0.gui.chooseText3.0=<html><p><font style="font-size:28px;"> = %z%</font></p></html>
+
+match.0.gui.chooseTextTotal=<html><p><font style="font-size:28px;">Total:</font><font style="font-size:28px;"> %total%</font></p></html>
+
+# The label shown on the screen after a player clicks the okButton
+match.0.gui.waitText=<html><font style="font-size:32px;">WAIT</font></html>
+
+# The text displayed on the screen which updates the players on the outcome of the game
+match.0.gui.updateText1.1=<html><p><font style="font-size:28px;" color=\"green\"> TREE leader:</font> <font style="font-size:28px;" color=\"green\">&#x25CF;</font><font style="font-size:28px;"> = %x%</font></p></html>
+match.0.gui.updateText2.1=<html><p><font style="font-size:28px;"> = %treesWinnings%</font></p></html>
+match.0.gui.updateText3.1=<html><p><font style="font-size:28px;"> = %mountainsWinnings%</font></p></html>
+
+match.0.gui.updateText1.0=<html><p><font style="font-size:28px;" color=\"red\"> VOLCANO leader: </font> <font style="font-size:28px;" color=\"red\">&#x25CF;</font><font style="font-size:28px;"> = %x%</font></p></html>
+match.0.gui.updateText2.0=<html><p><font style="font-size:28px;"> = %treesWinnings%</font></p></html>
+match.0.gui.updateText3.0=<html><p><font style="font-size:28px;"> = %mountainsWinnings%</font></p></html>
+
+match.0.gui.updateTextTotal=<html><p><font style="font-size:28px;">Total:</font><font style="font-size:28px;"> = %payoff%</font></p></html>
+
+# if showFinalScreen=true, the text shown after the final round of the match
+match.0.gui.finalText=<html>Your total pay for the session so far is %totalPay%</html>
+
+match.0.repetitions=50
+
+#### Generic Match Scope Parameters ####
+match.2.type=Hide
+match.2.groupSize=2
+match.2.maxRounds=1
+match.2.exchangeRate=1.0
+
+# show total payoff on the history panel[true|false]
+match.2.showTotalPayoff=false
+
+#[totalrandom|random|zipper|rr|continue|fixed|RiskAversion]
+match.2.matching=random
+match.3.matching=fixed
+
+# show the match ending display dialog [true|false]
+match.2.displayFinishedInfo=false
+
+# History panel display mode [full|tabbed]
+match.2.defaultView=full
+
+# Whether to allow user switch history panel display modes [true|false]
+match.2.viewSwitchable=true
+
+# Whether to show the round number in the history panel (generally turn off if running single round matches)
+match.2.showRoundNumber=false
+
+# Whether or not the 0th match is a practice match or not.  Payoffs for 
+# practice matches are not included in a participant's total
+match.2.practice=false
+
+
+######### HIDE Specific Match Scope Parameters ############
+
+# describes the positions available for hiding (or finding) and the payoff value associated with that spot
+# should be 9 comma-delimited numbers - every non-zero number is shown as a potential hiding and finding place  
+match.2.positionPayoffs=3,0,0,4,0,0,8,0,0
+match.3.positionPayoffs=0,0,8,0,0,4,0,0,3
+match.4.positionPayoffs=0,4,0,0,3,0,0,8,0
+match.5.positionPayoffs=8,0,0,4,0,0,3,0,0
+match.6.positionPayoffs=0,3,0,0,8,0,0,4,0
+match.7.positionPayoffs=0,0,4,0,0,8,0,0,3
+match.8.positionPayoffs=3,0,0,8,0,0,4,0,0
+match.9.positionPayoffs=0,4,0,0,8,0,0,3,0
+match.10.positionPayoffs=0,8,0,0,4,0,0,3,0
+match.11.positionPayoffs=8,0,0,3,0,0,4,0,0
+match.12.positionPayoffs=0,0,4,0,0,3,0,0,8
+match.13.positionPayoffs=0,8,0,0,3,0,0,4,0
+match.14.positionPayoffs=0,0,3,0,0,4,0,0,8
+match.15.positionPayoffs=4,0,0,8,0,0,3,0,0
+match.16.positionPayoffs=0,0,3,0,0,8,0,0,4
+match.17.positionPayoffs=4,0,0,3,0,0,8,0,0
+match.18.positionPayoffs=0,0,8,0,0,3,0,0,4
+match.19.positionPayoffs=0,3,0,0,4,0,0,8,0
+
+match.2.presentImage=..\\plugins\\hide\\images\\present.jpg
+match.2.farmerImage=..\\plugins\\hide\\images\\farmer.JPG
+match.2.pirateImage=..\\plugins\\hide\\images\\pirate.JPG
+match.2.smileImage=..\\plugins\\hide\\images\\smile.JPG
+match.2.frownImage=..\\plugins\\hide\\images\\frown.JPG
+
+# whether or not to have the hiding player send a message to the seeking player telling them a message about where they 
+# hid the present
+match.2.useHideHint=true
+
+# whether or not to show the final update screen at the end of the last round of the match
+match.2.showFinalScreen=false
+
+# whether to show visible drawings of tokens under the hiding spots
+#   true:  show a representation of tokens
+#   false:  show a number
+match.2.showTokens=true
+
+# whether to show the "summary" feedback after the last round of the match.  This is the feedback screen with the 
+# counts of wins and losses for both roles, summarized as two role images and four total smile/frown images with numbers
+match.2.showSummaryFeedback=false
+# if showSummaryFeedback=true, whether or not to show the images
+match.2.showSummaryImages=false
+
+# whether to show the "accumulating" feedback where the screen shows the specific outcome for each repetition, filling up
+# the screen as they accumulate.
+match.2.showAccumulatingFeedback=true
+
+
+# whether or not to switch hider and seeker in between repetitions
+match.2.switchRoles=false
+
+
+######### GUI Parameters ##########
+
+# hiding screen
+match.2.gui.hideText=<html>Please drag the present to <br>hide it in one of the marked<br>circled locations.</html>
+match.2.gui.okButtonLabel=OK
+# if useHideHint==true, the text prompting the hide player to send a (not necessarily true) message to the seek player
+# about where she hid the present
+match.2.gui.hideHintText=<html>Where did you hide?<br> (the other can see it).  <br>Please click one.</html>
+
+
+# the font size of the numbers inside the circles in the accumulating feedback
+match.2.gui.accumulatingSize=20
+
+# waiting-while-hiding screen
+match.2.gui.hideWaitText=<html>Please wait while your partner decides where to hide the present.</html>
+
+# seeking screen
+match.2.gui.seekText=<html>Please choose a hiding spot by clicking on one of the circles.</html>
+
+# waiting-while-seeking screen
+match.2.gui.seekWaitText=<html>Please wait while your partner decides where to look for the present.</html>
+
+# end summary screen
+match.2.gui.youHideText=<html><u>You Hide</u></html>
+match.2.gui.pointsText=<html><u>Points</u></html>
+match.2.gui.otherHideText=<html><u>Other Hide</u></html>
+match.2.gui.otherPointsText=<html><u>Points</u></html>
+match.2.gui.totalText=<html><p>Total: %totalPay%</p></html>
+
+match.2.repetitions=50
