@@ -10,4 +10,4 @@ In this repository you will find:
 
 
 ## Reference
-Brocas I. and J. Carrillo, “The development of randomization and deceptive behavior in mixed strategy games”, Quantitative Economics, forthcoming. | [PDF](http://isabellebrocas.org/Research/Hide.pdf).
+Brocas I. and J. Carrillo, “The development of randomization and deceptive behavior in mixed strategy games”, Quantitative Economics, forthcoming. [PDF](http://isabellebrocas.org/Research/Hide.pdf).
