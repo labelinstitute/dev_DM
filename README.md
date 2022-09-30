@@ -6,4 +6,6 @@ In this repository you will find the code, data and instructions for the followi
 
 2. [Steps of reasoning in children and adolescents](https://github.com/labelinstitute/dev_DM/tree/main/Levels)
 
-3. [The evolution of choice and learning in the two-person beauty contest game from kindergarten to adulthood](https://github.com/labelinstitute/dev_DM/tree/main/Army)
+3. [The development of randomization and deceptive behavior in mixed strategy games](https://github.com/labelinstitute/dev_DM/tree/main/Hide)
+
+4. [The evolution of choice and learning in the two-person beauty contest game from kindergarten to adulthood](https://github.com/labelinstitute/dev_DM/tree/main/Army)
