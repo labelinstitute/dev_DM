@@ -4,7 +4,7 @@ In this repository you will find:
 
 1. [Instructions](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Market/Instructions_Market.pdf) 
 
-2. [Data](https://github.com/labelinstitute/dev_DM/tree/main/Market/Data) and a [list of variables](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Market/Variables_Market.pdf)
+2. [Data](https://github.com/labelinstitute/dev_DM/tree/main/Market/Data.xslx) and a [list of variables](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Market/Variables_Market.pdf)
 
 
 ## Reference
