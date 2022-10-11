@@ -4,7 +4,7 @@ In this repository you will find:
 
 1. [Instructions](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Strategy_PreK/Instructions_Strategy_PreK.pdf) 
 
-2. [Data](https://github.com/labelinstitute/dev_DM/tree/main/Strategy_PreK/Data) and a [list of variables](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Strategy_PreK/Variables_Strategy_PreK.pdf)
+2. [Data](https://github.com/labelinstitute/dev_DM/tree/main/Strategy_PreK/Data.xslx) and a [list of variables](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Strategy_PreK/Variables_Strategy_PreK.pdf)
 
 
 ## Reference
