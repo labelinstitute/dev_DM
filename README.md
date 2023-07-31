@@ -2,7 +2,7 @@
 
 In this repository you will find the code, data and instructions for the following publications:
 
-* [The Determinants of Strategic Thinking in Preschool Children (2018)](https://github.com/labelinstitute/dev_DM/tree/main/Strategy_PreK)
+* [The determinants of strategic thinking in preschool children (2018)](https://github.com/labelinstitute/dev_DM/tree/main/Strategy_PreK)
 
 * [The development of consistent decision-making across economic domains (2019)](https://github.com/labelinstitute/dev_DM/tree/main/consistency_kids)
 
