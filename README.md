@@ -4,6 +4,8 @@ In this repository you will find the code, data and instructions for the followi
 
 * [The Determinants of Strategic Thinking in Preschool Children (2018)](https://github.com/labelinstitute/dev_DM/tree/main/Strategy_PreK)
 
+* [The development of consistent decision-making across economic domains (2019)](https://github.com/labelinstitute/dev_DM/tree/main/consistency_kids)
+
 * [The evolution of choice and learning in the two-person beauty contest game from kindergarten to adulthood (2020)](https://github.com/labelinstitute/dev_DM/tree/main/Army)
 
 * [Iterative dominance in young children: experimental evidence in simple two-person games (2020)](https://github.com/labelinstitute/dev_DM/tree/main/Iterative)
