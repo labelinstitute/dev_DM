@@ -1,0 +1,270 @@
+participant.id_in_session,participant.code,participant.payoff,player.id_in_group,player.gender,player.num_siblings,player.grade,player.school_subject,player.birth_month,player.birth_year,session.code,session.label
+1,4txh2c97,651,1,Female,Yes,8th,Arts / Music,Oct.,2005,8xa6r37h,D1S1b
+2,ypfig1f3,596,2,Female,Yes,8th,History / Geography,Jul.,2006,8xa6r37h,D1S1b
+3,qb9wv6l6,701,3,Female,Yes,8th,Science / Technology,Oct.,2006,8xa6r37h,D1S1b
+4,67h951jm,698,4,Female,No,8th,Arts / Music,Nov.,2006,8xa6r37h,D1S1b
+5,nhermg8t,477,5,Male,No,8th,History / Geography,Nov.,2005,8xa6r37h,D1S1b
+6,6kaajdsd,738,6,Male,Yes,8th,Math,May,2006,8xa6r37h,D1S1b
+7,eakesbfr,620,7,Male,Yes,8th,Math,Jun.,2006,8xa6r37h,D1S1b
+8,gcp0hgt9,397,8,Female,Yes,8th,Languages,Jul.,2006,8xa6r37h,D1S1b
+9,1lvn7rjl,638,9,Female,Yes,8th,Arts / Music,Feb.,2006,8xa6r37h,D1S1b
+1,23ayha3q,658,1,Female,Yes,8th,Math,Oct.,2005,wo8qyx0k,D1S1a
+2,5ysg83br,615,2,Female,Yes,8th,Arts / Music,Oct.,2006,wo8qyx0k,D1S1a
+3,iqfdtfap,678,3,Male,Yes,8th,Arts / Music,Dec.,2006,wo8qyx0k,D1S1a
+4,y9n9eqel,665,4,Female,Yes,8th,Math,Sep.,2006,wo8qyx0k,D1S1a
+5,55vtt2g8,636,5,Female,Yes,8th,Arts / Music,Jan.,2006,wo8qyx0k,D1S1a
+6,5njrdc92,696,6,Male,Yes,None,Math,Apr.,Before 2001,wo8qyx0k,D1S1a
+7,uwbwn9no,633,7,Male,Yes,8th,History / Geography,May,2006,wo8qyx0k,D1S1a
+8,do4mopds,613,8,Female,Yes,8th,Arts / Music,Mar.,2006,wo8qyx0k,D1S1a
+9,akw7mjn7,556,9,Female,Yes,8th,Arts / Music,Nov.,2005,wo8qyx0k,D1S1a
+1,g4yavcvk,738,1,Male,No,11th,Science / Technology,Jul.,2003,g361oxu5,D1S2a
+2,z6fsvvag,671,2,Female,Yes,11th,Arts / Music,Sep.,2002,g361oxu5,D1S2a
+3,5c4k7qja,540,3,Male,Yes,11th,Languages,Jul.,2003,g361oxu5,D1S2a
+4,33pqumcg,712,4,Male,Yes,11th,Math,Sep.,2003,g361oxu5,D1S2a
+5,hgn7vhxs,618,5,Male,Yes,11th,Languages,Aug.,2003,g361oxu5,D1S2a
+6,t0u42n6p,636,6,Female,Yes,11th,Languages,Nov.,2003,g361oxu5,D1S2a
+1,5kzghcf9,677,1,Male,Yes,11th,Arts / Music,May,2002,5bh1nlpb,D1S2b
+2,bpg2g3w9,698,2,Male,Yes,11th,Science / Technology,Dec.,2003,5bh1nlpb,D1S2b
+3,c0m6m3x7,425,3,Female,Yes,11th,Arts / Music,May,2003,5bh1nlpb,D1S2b
+4,gctp94vo,565,4,Female,No,11th,Science / Technology,Feb.,2003,5bh1nlpb,D1S2b
+5,6we36zqx,645,5,Female,Yes,11th,Languages,Jul.,2003,5bh1nlpb,D1S2b
+6,uynu922s,744,6,Male,Yes,None,Math,Nov.,Before 2001,5bh1nlpb,D1S2b
+1,hhbpgbkl,683,1,Female,Yes,8th,Arts / Music,Sep.,2006,mysixbfh,D1S3a
+2,1topemat,698,2,Female,Yes,8th,Arts / Music,Mar.,2006,mysixbfh,D1S3a
+3,gzqbfb7q,663,3,Female,Yes,8th,Math,Jan.,2007,mysixbfh,D1S3a
+4,8h2ylwdd,673,4,Male,Yes,8th,Math,Nov.,2006,mysixbfh,D1S3a
+5,4jomuqjt,663,5,Male,Yes,8th,Math,Nov.,2006,mysixbfh,D1S3a
+6,uvluol79,520,6,Female,Yes,8th,Arts / Music,Mar.,2006,mysixbfh,D1S3a
+7,0nrgp9i7,540,7,Male,Yes,8th,Arts / Music,Sep.,2006,mysixbfh,D1S3a
+8,gc9mqw6e,653,8,Male,No,8th,Arts / Music,Nov.,2005,mysixbfh,D1S3a
+1,4ga57lk5,612,1,Female,No,8th,Math,Jul.,2006,0qmeje7b,D1S3b
+2,b7mfttcf,595,2,Male,Yes,8th,Arts / Music,Sep.,2006,0qmeje7b,D1S3b
+3,olykukik,573,3,Male,Yes,8th,Languages,Dec.,2006,0qmeje7b,D1S3b
+4,pbov8ang,698,4,Male,Yes,8th,Arts / Music,Aug.,2006,0qmeje7b,D1S3b
+5,9ks8e2k4,698,5,Male,No,8th,History / Geography,Nov.,2006,0qmeje7b,D1S3b
+6,kc4oti8n,556,6,Female,Yes,8th,Arts / Music,Nov.,2006,0qmeje7b,D1S3b
+7,allpi322,693,7,Male,Yes,8th,Arts / Music,Aug.,2006,0qmeje7b,D1S3b
+8,dgx478ia,636,8,Female,No,8th,Science / Technology,Dec.,2005,0qmeje7b,D1S3b
+1,a9hckzxq,668,1,Female,Yes,6th,Arts / Music,Dec.,2008,xo1wno8e,D1S4a
+2,kxd1odzn,598,2,Male,Yes,6th,Arts / Music,Nov.,2008,xo1wno8e,D1S4a
+3,wkepssts,623,3,Female,Yes,6th,Math,Sep.,2008,xo1wno8e,D1S4a
+4,zei62tus,516,4,Female,No,6th,Arts / Music,Dec.,2008,xo1wno8e,D1S4a
+5,kx2twnpi,653,5,Female,Yes,6th,Languages,Oct.,2008,xo1wno8e,D1S4a
+6,ohejl30c,636,6,Female,No,6th,Arts / Music,Jun.,2008,xo1wno8e,D1S4a
+7,coo1xr8c,591,7,Female,Yes,6th,Arts / Music,Aug.,2008,xo1wno8e,D1S4a
+8,th3myxcy,581,8,Female,No,6th,Arts / Music,Dec.,2008,xo1wno8e,D1S4a
+9,lxkz0itq,666,9,Female,No,6th,Arts / Music,Jan.,2008,xo1wno8e,D1S4a
+10,8dcqh23v,528,10,Female,No,6th,Arts / Music,Jul.,2008,xo1wno8e,D1S4a
+11,thxqxl5c,506,11,Male,Yes,6th,Arts / Music,Jan.,2008,xo1wno8e,D1S4a
+1,s4cltyim,661,1,Male,No,6th,History / Geography,Aug.,2008,l67ytlcr,D1S4b
+2,7q69f3gy,696,2,Male,Yes,6th,Arts / Music,Mar.,2008,l67ytlcr,D1S4b
+3,l168ak2v,556,3,Female,Yes,6th,Languages,Nov.,2008,l67ytlcr,D1S4b
+4,noecfkfu,616,4,Female,No,6th,Languages,Mar.,2009,l67ytlcr,D1S4b
+5,kpcw248p,413,5,Male,No,6th,Arts / Music,Aug.,2008,l67ytlcr,D1S4b
+6,l6gx2cj6,663,6,Female,No,6th,Arts / Music,Nov.,2008,l67ytlcr,D1S4b
+7,ggvjkbss,570,7,Male,No,6th,Math,Aug.,2008,l67ytlcr,D1S4b
+8,9y2ap0q3,551,8,Male,No,6th,Arts / Music,Feb.,2008,l67ytlcr,D1S4b
+9,nktwu64q,623,9,Male,No,6th,Science / Technology,Aug.,2008,l67ytlcr,D1S4b
+10,e4oia824,676,10,Female,Yes,None,Languages,Jul.,Before 2001,l67ytlcr,D1S4b
+11,9930057s,546,11,Female,Yes,6th,Math,Jun.,2008,l67ytlcr,D1S4b
+1,dq05rfes,680,1,Female,No,7th,Arts / Music,Nov.,2007,hac9k6i0,D1S5a
+2,nnjvd8lb,602,2,Female,Yes,7th,Arts / Music,Sep.,2007,hac9k6i0,D1S5a
+3,2p5dvpt2,542,3,Female,No,7th,Math,Nov.,2007,hac9k6i0,D1S5a
+4,m2kbqgzb,728,4,Female,Yes,7th,Math,Jan.,2007,hac9k6i0,D1S5a
+5,earybv5e,598,5,Female,Yes,7th,Arts / Music,May,2007,hac9k6i0,D1S5a
+6,fhunvdyc,583,6,Female,Yes,7th,Languages,Nov.,2007,hac9k6i0,D1S5a
+7,pqa2ney7,716,7,Female,Yes,7th,Science / Technology,Mar.,2007,hac9k6i0,D1S5a
+8,odgjdvy4,617,8,Female,Yes,7th,Languages,Dec.,2007,hac9k6i0,D1S5a
+1,pwngyw45,698,1,Female,Yes,7th,Math,Jul.,2007,4qmep0zl,D1S5b
+2,dy4kl3w8,608,2,Female,Yes,7th,Science / Technology,Jun.,2007,4qmep0zl,D1S5b
+3,ecc7x9lt,648,3,Female,Yes,7th,Languages,Jul.,2007,4qmep0zl,D1S5b
+4,x3v4qjb6,693,4,Female,Yes,7th,Languages,Dec.,2006,4qmep0zl,D1S5b
+5,isvd5n4b,596,5,Female,Yes,7th,Arts / Music,Jan.,2007,4qmep0zl,D1S5b
+6,s06622yn,510,6,Female,Yes,7th,Arts / Music,Mar.,2007,4qmep0zl,D1S5b
+7,3cv35vud,618,7,Female,Yes,7th,History / Geography,Nov.,2007,4qmep0zl,D1S5b
+8,mx02xx2u,569,8,Female,Yes,7th,Arts / Music,Apr.,2007,4qmep0zl,D1S5b
+1,q69e96s5,556,1,Female,Yes,8th,Arts / Music,May,2006,jwfd9m9u,D1S6a
+2,kv6ufapx,616,2,Male,No,8th,History / Geography,Dec.,2005,jwfd9m9u,D1S6a
+3,sh8d8xtl,671,3,Female,Yes,8th,Math,Dec.,2005,jwfd9m9u,D1S6a
+4,6xxajz89,666,4,Female,Yes,8th,Languages,Jul.,2006,jwfd9m9u,D1S6a
+5,64gmzn0k,656,5,Female,Yes,8th,Arts / Music,Jun.,2006,jwfd9m9u,D1S6a
+6,n253ly04,486,6,Female,Yes,8th,Math,Sep.,2006,jwfd9m9u,D1S6a
+7,v1yzgqnq,453,7,Male,Yes,8th,Arts / Music,Mar.,2005,jwfd9m9u,D1S6a
+1,k1g43qne,653,1,Male,Yes,8th,Math,Nov.,2006,jsi91plt,D1S6b
+2,yv6bliu8,588,2,Male,Yes,8th,History / Geography,Sep.,2006,jsi91plt,D1S6b
+3,8630s6w5,616,3,Female,Yes,8th,Arts / Music,Sep.,2006,jsi91plt,D1S6b
+4,n2jvyrec,641,4,Female,Yes,8th,Arts / Music,Jun.,2006,jsi91plt,D1S6b
+5,8txkmqtt,636,5,Female,No,8th,Languages,Jan.,2006,jsi91plt,D1S6b
+6,kkrkzfcy,638,6,Male,Yes,8th,Math,Aug.,2007,jsi91plt,D1S6b
+1,xm5bqh0s,643,1,Male,Yes,6th,Arts / Music,Jul.,2008,ga4gn8b2,D2S1a
+2,dk40b14x,638,2,Male,Yes,6th,Math,Jan.,2008,ga4gn8b2,D2S1a
+3,6l5ucuox,661,3,Male,Yes,6th,Math,Nov.,2008,ga4gn8b2,D2S1a
+4,6011qymk,648,4,Male,Yes,6th,Arts / Music,May,2008,ga4gn8b2,D2S1a
+5,tl46n06l,616,5,Male,Yes,7th,Math,Jul.,2008,ga4gn8b2,D2S1a
+6,tfuo7enr,451,6,Male,Yes,6th,Arts / Music,May,2008,ga4gn8b2,D2S1a
+7,bu1qnevk,576,7,Male,Yes,6th,History / Geography,Feb.,2008,ga4gn8b2,D2S1a
+8,5m66aqwf,527,8,Female,Yes,6th,Science / Technology,Oct.,2008,ga4gn8b2,D2S1a
+9,jli1fk21,436,9,Male,Yes,6th,Arts / Music,Jun.,2008,ga4gn8b2,D2S1a
+1,tknxv0hv,636,1,Male,Yes,6th,Languages,Sep.,2008,bp1zh6dh,D2S1b
+2,lxtj0wnw,645,2,Female,Yes,6th,Math,Sep.,2008,bp1zh6dh,D2S1b
+3,wvmwwpqw,676,3,Female,Yes,6th,Math,Mar.,2008,bp1zh6dh,D2S1b
+4,dc1pu953,596,4,Female,Yes,6th,Arts / Music,Sep.,2008,bp1zh6dh,D2S1b
+5,1ut7svzw,596,5,Female,Yes,6th,Math,Sep.,2008,bp1zh6dh,D2S1b
+6,5b8d9fwf,658,6,Male,Yes,6th,Arts / Music,Dec.,2007,bp1zh6dh,D2S1b
+7,ag1gkvma,616,7,Male,Yes,6th,Science / Technology,Feb.,2008,bp1zh6dh,D2S1b
+8,4y463523,683,8,Female,Yes,6th,Arts / Music,Mar.,2008,bp1zh6dh,D2S1b
+9,mzlp2dp5,553,9,Female,Yes,6th,Arts / Music,Dec.,2008,bp1zh6dh,D2S1b
+1,gimaqipa,718,1,Male,No,10th,Arts / Music,Nov.,2004,4smpdl5j,D2S2a
+2,6fuqpyn0,676,2,Male,Yes,10th,Science / Technology,Jul.,2004,4smpdl5j,D2S2a
+3,vw3q4vds,748,3,Male,Yes,None,Math,Oct.,Before 2001,4smpdl5j,D2S2a
+4,noif77xp,643,4,Female,Yes,10th,Arts / Music,Oct.,2003,4smpdl5j,D2S2a
+5,rn39l4is,666,5,Female,No,10th,Arts / Music,Dec.,2004,4smpdl5j,D2S2a
+6,5do9lspy,698,6,Female,Yes,10th,Arts / Music,Nov.,2004,4smpdl5j,D2S2a
+7,j9bchpv5,578,7,Female,Yes,10th,Science / Technology,Oct.,2004,4smpdl5j,D2S2a
+8,19n9q2ei,596,8,Female,Yes,10th,Languages,Oct.,2004,4smpdl5j,D2S2a
+9,3frs3wxz,618,9,Male,Yes,10th,Math,Aug.,2004,4smpdl5j,D2S2a
+1,miw7moqh,636,1,Female,Yes,10th,Languages,Jul.,2004,ox960rm4,D2S2b
+2,kq2ka3ln,636,2,Female,No,10th,Languages,Aug.,2004,ox960rm4,D2S2b
+3,1ouo0i2u,676,3,Male,Yes,10th,Arts / Music,Aug.,2004,ox960rm4,D2S2b
+4,iul4vpdz,676,4,Female,No,10th,Languages,May,2004,ox960rm4,D2S2b
+5,ignj8w14,646,5,Female,No,10th,Math,Feb.,2004,ox960rm4,D2S2b
+6,qpt0x4qe,738,6,Male,Yes,10th,Math,Feb.,2004,ox960rm4,D2S2b
+7,m2jts4f4,596,7,Female,Yes,10th,Arts / Music,Dec.,2004,ox960rm4,D2S2b
+8,0e3we6vt,371,8,Male,Yes,10th,Languages,Sep.,2004,ox960rm4,D2S2b
+9,zrebyjfh,677,9,Male,No,10th,Math,Jun.,2004,ox960rm4,D2S2b
+10,99jziehz,738,10,Male,Yes,10th,Science / Technology,Oct.,2003,ox960rm4,D2S2b
+1,ohdc9hrt,628,1,Female,Yes,9th,Languages,Apr.,2005,lhgco7bc,D2S3b
+2,1jcs9dpr,673,2,Female,Yes,9th,Arts / Music,Mar.,2006,lhgco7bc,D2S3b
+3,bf87nnsw,636,3,Male,No,9th,History / Geography,Jul.,2005,lhgco7bc,D2S3b
+4,qoainqa5,631,4,Male,Yes,9th,Math,Nov.,2005,lhgco7bc,D2S3b
+5,atxuba9s,668,5,Male,No,9th,History / Geography,Aug.,2005,lhgco7bc,D2S3b
+6,1debjyhj,648,6,Female,Yes,9th,Arts / Music,Jul.,2005,lhgco7bc,D2S3b
+7,sl8ehq2z,718,7,Male,Yes,None,Math,Dec.,Before 2001,lhgco7bc,D2S3b
+8,ng500p60,686,8,Male,Yes,9th,Arts / Music,Aug.,2005,lhgco7bc,D2S3b
+9,jepwczwl,586,9,Female,Yes,9th,Science / Technology,Nov.,2005,lhgco7bc,D2S3b
+10,08a1z4jw,686,10,Male,Yes,9th,Arts / Music,Sep.,2005,lhgco7bc,D2S3b
+1,zxk7wn63,656,1,Male,Yes,9th,Science / Technology,Jan.,2005,a5eb229g,D2S3a
+2,m0b65r2c,698,2,Male,Yes,9th,Math,Oct.,2005,a5eb229g,D2S3a
+3,i6uwxusv,490,3,Female,Yes,9th,Math,Sep.,2005,a5eb229g,D2S3a
+4,fto09q05,758,4,Male,Yes,9th,Math,May,2005,a5eb229g,D2S3a
+5,lcojx99i,720,5,Male,No,9th,Arts / Music,Jun.,2005,a5eb229g,D2S3a
+6,e8x2g98y,638,6,Male,Yes,9th,Science / Technology,Feb.,2005,a5eb229g,D2S3a
+7,a0rnf5jo,616,7,Male,No,9th,Arts / Music,Feb.,2005,a5eb229g,D2S3a
+8,yswsesro,506,8,Female,Yes,9th,Languages,Feb.,2005,a5eb229g,D2S3a
+9,jg8n6o5d,618,9,Male,Yes,9th,Science / Technology,Dec.,2005,a5eb229g,D2S3a
+1,tr3wlw6o,678,1,,,,,,,bt93kxcq,D2S4a
+2,l51fojm0,658,2,,,,,,,bt93kxcq,D2S4a
+3,kr1cymud,618,3,,,,,,,bt93kxcq,D2S4a
+4,2sk6oxme,618,4,,,,,,,bt93kxcq,D2S4a
+5,rgyogtk7,638,5,,,,,,,bt93kxcq,D2S4a
+6,t0j3wvdt,708,6,,,,,,,bt93kxcq,D2S4a
+7,s7s09kqe,648,7,,,,,,,bt93kxcq,D2S4a
+8,qmqjcpry,678,8,,,,,,,bt93kxcq,D2S4a
+1,cm6rrzej,556,1,,,,,,,y847ysjq,D2S4b
+2,u59wlkpc,591,2,,,,,,,y847ysjq,D2S4b
+3,hib9ydwy,728,3,,,,,,,y847ysjq,D2S4b
+4,keb9km3w,563,4,,,,,,,y847ysjq,D2S4b
+5,n8wj10qg,707,5,,,,,,,y847ysjq,D2S4b
+6,f8j4uxj0,698,6,,,,,,,y847ysjq,D2S4b
+7,4rx9pfw0,658,7,,,,,,,y847ysjq,D2S4b
+8,i6qjfwru,490,8,,,,,,,y847ysjq,D2S4b
+1,0utvs6gc,653,1,Female,Yes,6th,Arts / Music,Sep.,2008,x5rdw11g,D2S5a
+2,9oac3y4g,556,2,Male,Yes,6th,Arts / Music,Aug.,2008,x5rdw11g,D2S5a
+3,9eubdeen,733,3,Female,Yes,6th,Science / Technology,Mar.,2008,x5rdw11g,D2S5a
+4,xyl31nii,576,4,Female,Yes,6th,Math,Sep.,2007,x5rdw11g,D2S5a
+5,zl1aj8rx,538,5,Male,Yes,6th,Arts / Music,Sep.,2008,x5rdw11g,D2S5a
+6,9ip0iiqt,496,6,Male,Yes,6th,Arts / Music,Jul.,2008,x5rdw11g,D2S5a
+7,bqa24ehw,436,7,Male,Yes,6th,Math,Dec.,2008,x5rdw11g,D2S5a
+8,4ptf8vfv,576,8,Female,No,6th,Math,Oct.,2007,x5rdw11g,D2S5a
+9,baowggw4,708,9,Female,No,None,Science / Technology,May,2008,x5rdw11g,D2S5a
+1,adfntlrf,611,1,Female,No,6th,Arts / Music,Aug.,2007,ro8m0khb,D2S5b
+2,u5ab3es2,598,2,Male,Yes,6th,Arts / Music,Aug.,2008,ro8m0khb,D2S5b
+3,eyngma6v,556,3,Female,Yes,6th,Science / Technology,Nov.,2008,ro8m0khb,D2S5b
+4,si73c1rj,587,4,Male,No,6th,Arts / Music,Feb.,2008,ro8m0khb,D2S5b
+5,irv5tp1z,596,5,Female,Yes,6th,Languages,Mar.,2008,ro8m0khb,D2S5b
+6,pu7qil17,598,6,Male,Yes,6th,Science / Technology,Dec.,2008,ro8m0khb,D2S5b
+7,fa0hneur,453,7,Male,No,6th,Languages,May,2008,ro8m0khb,D2S5b
+8,4oe3xbdp,618,8,Male,Yes,6th,Math,Jul.,2008,ro8m0khb,D2S5b
+9,4s1g6mry,698,9,Male,No,6th,Math,Aug.,2008,ro8m0khb,D2S5b
+1,6wqperak,758,1,Male,Yes,10th,Math,Mar.,2005,7xooqg1s,D2S6a
+2,mjgt6fl5,673,2,Female,Yes,10th,Arts / Music,Jul.,2004,7xooqg1s,D2S6a
+3,j5b8s6j2,590,3,Female,Yes,10th,Science / Technology,Jul.,2004,7xooqg1s,D2S6a
+4,en31ea25,733,4,Male,Yes,10th,Arts / Music,Mar.,2005,7xooqg1s,D2S6a
+5,sbviw9xh,613,5,Male,Yes,10th,Languages,Mar.,2004,7xooqg1s,D2S6a
+6,ncxydhyh,668,6,Female,Yes,10th,Math,Dec.,2003,7xooqg1s,D2S6a
+7,5r43vn60,638,7,Male,Yes,10th,Science / Technology,Mar.,2004,7xooqg1s,D2S6a
+1,lg0rk9wb,641,1,Female,Yes,10th,Arts / Music,Aug.,2004,rr9yah9y,D2S6b
+2,0w3gtnk5,630,2,Male,Yes,10th,Science / Technology,Apr.,2004,rr9yah9y,D2S6b
+3,4zolqy95,678,3,Female,Yes,None,Math,May,Before 2001,rr9yah9y,D2S6b
+4,p0ap3rqq,593,4,Male,Yes,10th,Arts / Music,May,2004,rr9yah9y,D2S6b
+5,orbujnbu,693,5,Male,Yes,10th,Science / Technology,Jul.,2004,rr9yah9y,D2S6b
+6,512prdu2,717,6,Male,Yes,10th,Arts / Music,Dec.,2004,rr9yah9y,D2S6b
+7,crbx0n6k,681,7,Male,Yes,10th,Science / Technology,Dec.,2004,rr9yah9y,D2S6b
+8,yjxdzlx5,678,8,Male,No,10th,Math,Mar.,2004,rr9yah9y,D2S6b
+1,9yh5h68a,653,1,Female,Yes,11th,Science / Technology,Dec.,2003,ec512gfe,D3S1a
+2,fr9cvkmq,598,2,Male,Yes,11th,Math,Jan.,2003,ec512gfe,D3S1a
+3,lm52wh33,718,3,Female,Yes,11th,Arts / Music,Dec.,2003,ec512gfe,D3S1a
+4,lwzguohg,638,4,Male,Yes,11th,Math,Jan.,2003,ec512gfe,D3S1a
+5,f5gjwe6v,597,5,Female,Yes,11th,Science / Technology,Jul.,2003,ec512gfe,D3S1a
+6,1xjh4kuc,718,6,Female,Yes,11th,Math,Jun.,2003,ec512gfe,D3S1a
+7,4p79jyy4,698,7,Male,Yes,11th,Languages,Mar.,2003,ec512gfe,D3S1a
+8,x719a3by,659,8,Male,Yes,11th,Math,Jul.,2003,ec512gfe,D3S1a
+9,rjvce3az,596,9,Male,Yes,11th,History / Geography,Jul.,2003,ec512gfe,D3S1a
+1,brerdqcz,718,1,Male,Yes,11th,History / Geography,Dec.,2003,o4aw7m0f,D3S1b
+2,ev9blazq,758,2,Male,Yes,11th,Math,Nov.,2004,o4aw7m0f,D3S1b
+3,07rqm0nm,583,3,Male,Yes,11th,Math,Oct.,2003,o4aw7m0f,D3S1b
+4,j4sdwudt,698,4,Male,Yes,11th,Math,Apr.,2003,o4aw7m0f,D3S1b
+5,3z7r6y4w,606,5,Male,Yes,11th,Arts / Music,Sep.,2003,o4aw7m0f,D3S1b
+6,1flipg31,673,6,Female,Yes,11th,Math,Apr.,2004,o4aw7m0f,D3S1b
+7,5m1k418p,718,7,Female,Yes,11th,Math,Nov.,2003,o4aw7m0f,D3S1b
+8,56ho1se3,650,8,Male,Yes,11th,Arts / Music,Jan.,2003,o4aw7m0f,D3S1b
+9,w50nstnk,710,9,Male,Yes,11th,History / Geography,Oct.,2003,o4aw7m0f,D3S1b
+10,efvi54fe,738,10,Female,No,11th,Languages,Jul.,2003,o4aw7m0f,D3S1b
+1,drx3mmrt,633,1,Male,Yes,9th,History / Geography,Feb.,2005,mc9u58mw,D3S2
+2,qpt1uojf,636,2,Female,No,9th,Math,Nov.,2005,mc9u58mw,D3S2
+3,sc15gc6r,718,3,Female,Yes,10th,Languages,Sep.,2004,mc9u58mw,D3S2
+4,dayyqx11,663,4,Male,No,9th,History / Geography,Jul.,2005,mc9u58mw,D3S2
+1,lif4mdum,491,1,Male,Yes,7th,Science / Technology,Nov.,2007,m26akva0,D3S3a
+2,zp5ekrg1,655,2,Female,Yes,7th,Arts / Music,Mar.,2007,m26akva0,D3S3a
+3,l4biv726,598,3,Male,Yes,7th,Math,Jun.,2007,m26akva0,D3S3a
+4,qqemoaip,519,4,Male,Yes,7th,History / Geography,Feb.,2007,m26akva0,D3S3a
+5,w78otykf,696,5,Male,No,7th,Science / Technology,Sep.,2006,m26akva0,D3S3a
+6,juc3qixc,611,6,Female,No,7th,Arts / Music,Mar.,2007,m26akva0,D3S3a
+7,jhkzwz6x,618,7,Female,Yes,7th,Languages,Feb.,2007,m26akva0,D3S3a
+1,fxgg4n0q,658,1,Female,Yes,7th,Arts / Music,Mar.,2007,m7l4vrui,D3S3b
+2,k474aoj0,635,2,Female,Yes,7th,Arts / Music,Feb.,2007,m7l4vrui,D3S3b
+3,lk8mwa7p,611,3,Female,No,7th,Languages,Nov.,2007,m7l4vrui,D3S3b
+4,yjpob5pw,596,4,Female,Yes,7th,Arts / Music,Aug.,2007,m7l4vrui,D3S3b
+5,fc2x6l05,652,5,Female,Yes,7th,Math,Apr.,2007,m7l4vrui,D3S3b
+6,p1f0zqmd,578,6,Male,Yes,7th,History / Geography,Feb.,2007,m7l4vrui,D3S3b
+7,iv6cgjc3,596,7,Male,Yes,7th,Arts / Music,May,2007,m7l4vrui,D3S3b
+1,dof2osa5,563,1,Male,Yes,9th,Languages,Mar.,2005,wml9tw1k,D3S4a
+2,bp48yndg,623,2,Male,Yes,9th,Languages,Oct.,2005,wml9tw1k,D3S4a
+3,pacxpu0h,666,3,Male,Yes,9th,Math,Jun.,2005,wml9tw1k,D3S4a
+4,zg76tzcg,585,4,Male,Yes,9th,History / Geography,Jun.,2005,wml9tw1k,D3S4a
+5,j2p7uazr,683,5,Male,Yes,9th,Science / Technology,Sep.,2005,wml9tw1k,D3S4a
+6,0fqatoj3,590,6,Male,Yes,9th,Languages,Sep.,2005,wml9tw1k,D3S4a
+7,k2tcpgli,717,7,Male,No,9th,Math,Apr.,2005,wml9tw1k,D3S4a
+8,v6xwgczf,587,8,Male,Yes,9th,Science / Technology,Dec.,2005,wml9tw1k,D3S4a
+1,sk00pqo6,616,1,Male,Yes,9th,Arts / Music,Oct.,2005,gk7lv0cb,D3S4b
+2,2hmg90oc,616,2,Female,Yes,9th,Arts / Music,Jul.,2004,gk7lv0cb,D3S4b
+3,7tvyh0ri,636,3,Male,Yes,9th,Math,Apr.,2005,gk7lv0cb,D3S4b
+4,t9vbzhoh,572,4,Female,Yes,9th,Arts / Music,Jan.,2005,gk7lv0cb,D3S4b
+5,mj12d5yw,591,5,Female,Yes,9th,Arts / Music,Mar.,2005,gk7lv0cb,D3S4b
+6,kirs0g4x,648,6,Female,Yes,9th,History / Geography,Nov.,2005,gk7lv0cb,D3S4b
+7,s6o2a2ar,660,7,Female,Yes,None,Math,May,Before 2001,gk7lv0cb,D3S4b
+8,k5ia88qh,430,8,Male,Yes,9th,History / Geography,Jul.,2005,gk7lv0cb,D3S4b
+1,2lfe1whz,695,1,Female,Yes,7th,Arts / Music,Aug.,2007,dyw6sw7k,D3S5a
+2,rwwy7msm,643,2,Female,No,7th,History / Geography,Oct.,2007,dyw6sw7k,D3S5a
+3,nokru1oc,703,3,Female,Yes,7th,Languages,Jun.,2007,dyw6sw7k,D3S5a
+4,c22hdltq,626,4,Female,No,7th,Languages,Sep.,2007,dyw6sw7k,D3S5a
+5,jt25r97k,753,5,Male,Yes,7th,Arts / Music,Jan.,2007,dyw6sw7k,D3S5a
+6,klzhamb2,572,6,Female,Yes,7th,History / Geography,Jul.,2007,dyw6sw7k,D3S5a
+7,pgrfx1eg,376,7,Female,Yes,7th,Arts / Music,Apr.,2007,dyw6sw7k,D3S5a
+1,ieqy5qg4,636,1,Male,Yes,7th,Math,May,2007,k7jh2w79,D3S5b
+2,6lsixgxw,661,2,Female,Yes,7th,Science / Technology,Aug.,2007,k7jh2w79,D3S5b
+3,0wbss885,596,3,Male,No,Undergraduate,Science / Technology,Apr.,Before 2001,k7jh2w79,D3S5b
+4,x75mqu2k,115,4,Male,Yes,7th,Arts / Music,Oct.,2007,k7jh2w79,D3S5b
+5,1tmto8qj,716,5,Male,Yes,7th,Science / Technology,Jun.,2007,k7jh2w79,D3S5b
+6,0xy81exc,556,6,Male,Yes,7th,Math,Mar.,2007,k7jh2w79,D3S5b
+7,0qrpc4ng,596,7,Female,Yes,7th,Arts / Music,Mar.,2007,k7jh2w79,D3S5b
