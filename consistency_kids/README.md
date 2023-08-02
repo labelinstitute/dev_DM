@@ -6,7 +6,7 @@ In this repository you will find:
 
 2. [Instructions](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/consistency_kids/Instructions.pdf). 
 
-3. [Data](https://github.com/labelinstitute/dev_DM/tree/main/consistency_kids/Data).
+3. [Processed Data](https://github.com/labelinstitute/dev_DM/tree/main/consistency_kids/Data). Raw data is available upon request. 
 
 
 ## Reference
