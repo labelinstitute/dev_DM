@@ -9,9 +9,9 @@ In this repository you will find:
 3. [Data](https://github.com/labelinstitute/dev_DM/tree/main/Levels/Data) and a [list of variables](https://raw.githubusercontent.com/labelinstitute/dev_DM/main/Levels/Variables_Levels.pdf)
 
 Note: 
-The LILA experiment was run in June 2017
-King 1 was run in December 2017
-King 2 was run in December 2018
+The LILA experiment was run in June 2017;
+King 1 was run in December 2017;
+King 2 was run in December 2018.
 
 ## Reference
 Brocas I. and J. Carrillo, “Steps of reasoning in children and adolescents”,  Journal of Political Economy, 129 (7), 2067-2111, 2021. [PDF](http://isabellebrocas.org/Research/levelkids.pdf)
