@@ -24,4 +24,11 @@ In this repository you will find the code, data and instructions for the followi
 
 * [The development of randomization and deceptive behavior in mixed strategy games (2022)](https://github.com/labelinstitute/dev_DM/tree/main/Hide)
 
+* [“Why do children pass in the centipede game? Cognitive limitations v. risk calculations” (2025)](https://github.com/labelinstitute/dev_DM/tree/main/CentiKids)
+
+* [“Dynamic coordination in efficient and fair strategies: a developmental perspective” (2025)](https://github.com/labelinstitute/dev_DM/tree/main/Coordination)
+
+* ["Academic achievement helps coordination on mutually advantageous outcomes" (2025)](https://github.com/labelinstitute/dev_DM/tree/main/Coordination&AcademicAchievement)
+  
+
  
