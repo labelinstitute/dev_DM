@@ -4,3 +4,4 @@ LABEL does not provide assistance if the experimental software is not compatible
 the developer ([SSEL at Caltech](http://ssel.caltech.edu/software.html) and make the appropriate adjustments to the code.
 2.	[Instructions](Instructions/Instructions-GitHub.docx).
 3.	[Data](/Data/). The folder conatins the raw data from Multisage compiled in one large file and a codebook.
+Reference:  I. Brocas, & J.D. Carrillo,   Academic achievement helps coordination on mutually advantageous outcomes, Proc. Natl. Acad. Sci. U.S.A. 122 (14) e2420306122, https://doi.org/10.1073/pnas.2420306122 (2025).
