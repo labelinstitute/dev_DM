@@ -1,0 +1,601 @@
+,roleType,Campus,SessionName,Session code,clientId,matchId,groupId,role,choice1,choice2,choice3,choice4,choice5,choice6,choice7,choice8,choice9,choice10,choice11,choice12,centiPayoff,gender,grade,birth_year,birth_month,birth_day,younger_siblings,older_siblings,school_topics
+0,orange,LILA-K2,SS12,dlvp2rig,1,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,7,No,No,Math
+1,blue,LILA-K2,SS12,dlvp2rig,2,5,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,8,No,Yes,Math
+2,orange,LILA-K2,SS12,dlvp2rig,3,5,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,May,24,No,Yes,Math
+3,blue,LILA-K2,SS12,dlvp2rig,4,5,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,June,7,Yes,No,Math
+4,orange,LILA-K2,SS12,dlvp2rig,5,5,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,February,4,No,Yes,History
+5,blue,LILA-K2,SS12,dlvp2rig,6,5,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,13,Yes,No,Math
+6,orange,LILA-K2,SS12,dlvp2rig,7,5,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,December,30,No,Yes,Math
+7,blue,LILA-K2,SS12,dlvp2rig,8,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,July,20,No,Yes,Art &amp; Music
+8,blue,LILA-K2,SS12,dlvp2rig,9,5,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,October,17,No,Yes,Art &amp; Music
+9,orange,LILA-K2,SS12,dlvp2rig,10,5,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2010,November,23,Yes,No,Math
+10,blue,LILA-K2,SS12,dlvp2rig,11,5,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,29,Yes,No,Math
+11,orange,LILA-K2,SS12,dlvp2rig,12,5,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,2,2011,June,7,No,Yes,Art &amp; Music
+12,orange,LILA-K2,SS12,    dlvp2rig,1,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,7,No,No,Math
+13,blue,LILA-K2,SS12,    dlvp2rig,2,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,8,No,Yes,Math
+14,orange,LILA-K2,SS12,    dlvp2rig,3,6,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,May,24,No,Yes,Math
+15,blue,LILA-K2,SS12,    dlvp2rig,4,6,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,June,7,Yes,No,Math
+16,orange,LILA-K2,SS12,    dlvp2rig,5,6,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,February,4,No,Yes,History
+17,blue,LILA-K2,SS12,    dlvp2rig,6,6,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,November,13,Yes,No,Math
+18,orange,LILA-K2,SS12,    dlvp2rig,7,6,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,December,30,No,Yes,Math
+19,blue,LILA-K2,SS12,    dlvp2rig,8,6,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,20,No,Yes,Art &amp; Music
+20,blue,LILA-K2,SS12,    dlvp2rig,9,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,October,17,No,Yes,Art &amp; Music
+21,orange,LILA-K2,SS12,    dlvp2rig,10,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2010,November,23,Yes,No,Math
+22,blue,LILA-K2,SS12,    dlvp2rig,11,6,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,29,Yes,No,Math
+23,orange,LILA-K2,SS12,    dlvp2rig,12,6,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,June,7,No,Yes,Art &amp; Music
+24,orange,LILA-K2,SS12,    dlvp2rig,1,7,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,7,No,No,Math
+25,blue,LILA-K2,SS12,    dlvp2rig,2,7,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,July,8,No,Yes,Math
+26,orange,LILA-K2,SS12,    dlvp2rig,3,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,May,24,No,Yes,Math
+27,blue,LILA-K2,SS12,    dlvp2rig,4,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,June,7,Yes,No,Math
+28,orange,LILA-K2,SS12,    dlvp2rig,5,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,February,4,No,Yes,History
+29,blue,LILA-K2,SS12,    dlvp2rig,6,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,13,Yes,No,Math
+30,orange,LILA-K2,SS12,    dlvp2rig,7,7,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,December,30,No,Yes,Math
+31,blue,LILA-K2,SS12,    dlvp2rig,8,7,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,20,No,Yes,Art &amp; Music
+32,blue,LILA-K2,SS12,    dlvp2rig,9,7,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,October,17,No,Yes,Art &amp; Music
+33,orange,LILA-K2,SS12,    dlvp2rig,10,7,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2010,November,23,Yes,No,Math
+34,blue,LILA-K2,SS12,    dlvp2rig,11,7,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,June,29,Yes,No,Math
+35,orange,LILA-K2,SS12,    dlvp2rig,12,7,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,June,7,No,Yes,Art &amp; Music
+36,orange,LILA-K2,SS12,    dlvp2rig,1,8,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,July,7,No,No,Math
+37,blue,LILA-K2,SS12,    dlvp2rig,2,8,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,8,No,Yes,Math
+38,orange,LILA-K2,SS12,    dlvp2rig,3,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,May,24,No,Yes,Math
+39,blue,LILA-K2,SS12,    dlvp2rig,4,8,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,7,Yes,No,Math
+40,orange,LILA-K2,SS12,    dlvp2rig,5,8,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,February,4,No,Yes,History
+41,blue,LILA-K2,SS12,    dlvp2rig,6,8,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,November,13,Yes,No,Math
+42,orange,LILA-K2,SS12,    dlvp2rig,7,8,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,December,30,No,Yes,Math
+43,blue,LILA-K2,SS12,    dlvp2rig,8,8,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,20,No,Yes,Art &amp; Music
+44,blue,LILA-K2,SS12,    dlvp2rig,9,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,October,17,No,Yes,Art &amp; Music
+45,orange,LILA-K2,SS12,    dlvp2rig,10,8,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2010,November,23,Yes,No,Math
+46,blue,LILA-K2,SS12,    dlvp2rig,11,8,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,29,Yes,No,Math
+47,orange,LILA-K2,SS12,    dlvp2rig,12,8,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,7,No,Yes,Art &amp; Music
+48,orange,LILA-K2,SS13,vchpi5yt,8,5,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,December,6,No,No,Art &amp; Music
+49,blue,LILA-K2,SS13,vchpi5yt,11,5,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,November,3,No,No,Sciences &amp; Technology
+50,orange,LILA-K2,SS13,vchpi5yt,10,5,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,April,24,No,Yes,Art &amp; Music
+51,blue,LILA-K2,SS13,vchpi5yt,9,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,January,2,Yes,No,Art &amp; Music
+52,blue,LILA-K2,SS13,vchpi5yt,4,5,4,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,December,6,Yes,No,Art &amp; Music
+53,blue,LILA-K2,SS13,vchpi5yt,12,5,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,October,13,No,Yes,Math
+54,blue,LILA-K2,SS13,vchpi5yt,5,5,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,August,28,No,No,Sciences &amp; Technology
+55,blue,LILA-K2,SS13,vchpi5yt,6,5,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,May,21,Yes,No,Languages
+56,orange,LILA-K2,SS13,vchpi5yt,1,5,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,24,No,No,Sciences &amp; Technology
+57,orange,LILA-K2,SS13,vchpi5yt,2,5,4,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,July,24,No,No,Art &amp; Music
+58,orange,LILA-K2,SS13,vchpi5yt,3,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,18,No,Yes,History
+59,orange,LILA-K2,SS13,vchpi5yt,7,5,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,5,No,Yes,Languages
+60,orange,LILA-K2,SS13,    vchpi5yt,8,6,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,December,6,No,No,Art &amp; Music
+61,blue,LILA-K2,SS13,    vchpi5yt,11,6,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,November,3,No,No,Sciences &amp; Technology
+62,orange,LILA-K2,SS13,    vchpi5yt,10,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,April,24,No,Yes,Art &amp; Music
+63,blue,LILA-K2,SS13,    vchpi5yt,9,6,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,January,2,Yes,No,Art &amp; Music
+64,blue,LILA-K2,SS13,    vchpi5yt,4,6,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,December,6,Yes,No,Art &amp; Music
+65,blue,LILA-K2,SS13,    vchpi5yt,12,6,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,October,13,No,Yes,Math
+66,blue,LILA-K2,SS13,    vchpi5yt,5,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,August,28,No,No,Sciences &amp; Technology
+67,blue,LILA-K2,SS13,    vchpi5yt,6,6,6,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,May,21,Yes,No,Languages
+68,orange,LILA-K2,SS13,    vchpi5yt,1,6,6,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,24,No,No,Sciences &amp; Technology
+69,orange,LILA-K2,SS13,    vchpi5yt,2,6,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,24,No,No,Art &amp; Music
+70,orange,LILA-K2,SS13,    vchpi5yt,3,6,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,March,18,No,Yes,History
+71,orange,LILA-K2,SS13,    vchpi5yt,7,6,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,5,No,Yes,Languages
+72,orange,LILA-K2,SS13,    vchpi5yt,8,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,December,6,No,No,Art &amp; Music
+73,blue,LILA-K2,SS13,    vchpi5yt,11,7,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,November,3,No,No,Sciences &amp; Technology
+74,orange,LILA-K2,SS13,    vchpi5yt,10,7,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,April,24,No,Yes,Art &amp; Music
+75,blue,LILA-K2,SS13,    vchpi5yt,9,7,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,January,2,Yes,No,Art &amp; Music
+76,blue,LILA-K2,SS13,    vchpi5yt,4,7,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,December,6,Yes,No,Art &amp; Music
+77,blue,LILA-K2,SS13,    vchpi5yt,12,7,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,October,13,No,Yes,Math
+78,blue,LILA-K2,SS13,    vchpi5yt,5,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,August,28,No,No,Sciences &amp; Technology
+79,blue,LILA-K2,SS13,    vchpi5yt,6,7,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,May,21,Yes,No,Languages
+80,orange,LILA-K2,SS13,    vchpi5yt,1,7,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,24,No,No,Sciences &amp; Technology
+81,orange,LILA-K2,SS13,    vchpi5yt,2,7,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,24,No,No,Art &amp; Music
+82,orange,LILA-K2,SS13,    vchpi5yt,3,7,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,March,18,No,Yes,History
+83,orange,LILA-K2,SS13,    vchpi5yt,7,7,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,5,No,Yes,Languages
+84,orange,LILA-K2,SS13,    vchpi5yt,8,8,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,December,6,No,No,Art &amp; Music
+85,blue,LILA-K2,SS13,    vchpi5yt,11,8,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,November,3,No,No,Sciences &amp; Technology
+86,orange,LILA-K2,SS13,    vchpi5yt,10,8,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,April,24,No,Yes,Art &amp; Music
+87,blue,LILA-K2,SS13,    vchpi5yt,9,8,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,January,2,Yes,No,Art &amp; Music
+88,blue,LILA-K2,SS13,    vchpi5yt,4,8,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,December,6,Yes,No,Art &amp; Music
+89,blue,LILA-K2,SS13,    vchpi5yt,12,8,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,October,13,No,Yes,Math
+90,blue,LILA-K2,SS13,    vchpi5yt,5,8,4,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,August,28,No,No,Sciences &amp; Technology
+91,blue,LILA-K2,SS13,    vchpi5yt,6,8,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,21,Yes,No,Languages
+92,orange,LILA-K2,SS13,    vchpi5yt,1,8,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,March,24,No,No,Sciences &amp; Technology
+93,orange,LILA-K2,SS13,    vchpi5yt,2,8,4,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,24,No,No,Art &amp; Music
+94,orange,LILA-K2,SS13,    vchpi5yt,3,8,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,March,18,No,Yes,History
+95,orange,LILA-K2,SS13,    vchpi5yt,7,8,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,5,No,Yes,Languages
+96,blue,LILA-K2,SS14,bz79tq3q,1,5,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,16,No,No,Art &amp; Music
+97,orange,LILA-K2,SS14,bz79tq3q,2,5,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,November,2,Yes,No,Art &amp; Music
+98,blue,LILA-K2,SS14,bz79tq3q,3,5,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,October,2,Yes,Yes,Math
+99,blue,LILA-K2,SS14,bz79tq3q,4,5,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,December,3,No,No,Art &amp; Music
+100,blue,LILA-K2,SS14,bz79tq3q,5,5,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,August,1,No,Yes,Art &amp; Music
+101,orange,LILA-K2,SS14,bz79tq3q,6,5,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,May,23,No,Yes,Sciences &amp; Technology
+102,blue,LILA-K2,SS14,bz79tq3q,7,5,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,June,27,No,Yes,Math
+103,orange,LILA-K2,SS14,bz79tq3q,8,5,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,May,19,Yes,No,Art &amp; Music
+104,blue,LILA-K2,SS14,bz79tq3q,9,5,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,22,No,No,Math
+105,orange,LILA-K2,SS14,bz79tq3q,10,5,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,October,12,No,No,Languages
+106,orange,LILA-K2,SS14,bz79tq3q,11,5,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,January,26,Yes,No,Math
+107,orange,LILA-K2,SS14,bz79tq3q,12,5,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,18,No,No,Art &amp; Music
+108,blue,LILA-K2,SS14,    bz79tq3q,1,6,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,16,No,No,Art &amp; Music
+109,orange,LILA-K2,SS14,    bz79tq3q,2,6,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,November,2,Yes,No,Art &amp; Music
+110,blue,LILA-K2,SS14,    bz79tq3q,3,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,October,2,Yes,Yes,Math
+111,blue,LILA-K2,SS14,    bz79tq3q,4,6,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,December,3,No,No,Art &amp; Music
+112,blue,LILA-K2,SS14,    bz79tq3q,5,6,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,1,No,Yes,Art &amp; Music
+113,orange,LILA-K2,SS14,    bz79tq3q,6,6,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,May,23,No,Yes,Sciences &amp; Technology
+114,blue,LILA-K2,SS14,    bz79tq3q,7,6,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,June,27,No,Yes,Math
+115,orange,LILA-K2,SS14,    bz79tq3q,8,6,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,May,19,Yes,No,Art &amp; Music
+116,blue,LILA-K2,SS14,    bz79tq3q,9,6,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,May,22,No,No,Math
+117,orange,LILA-K2,SS14,    bz79tq3q,10,6,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,October,12,No,No,Languages
+118,orange,LILA-K2,SS14,    bz79tq3q,11,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,January,26,Yes,No,Math
+119,orange,LILA-K2,SS14,    bz79tq3q,12,6,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,18,No,No,Art &amp; Music
+120,blue,LILA-K2,SS14,    bz79tq3q,1,7,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,16,No,No,Art &amp; Music
+121,orange,LILA-K2,SS14,    bz79tq3q,2,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,November,2,Yes,No,Art &amp; Music
+122,blue,LILA-K2,SS14,    bz79tq3q,3,7,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,October,2,Yes,Yes,Math
+123,blue,LILA-K2,SS14,    bz79tq3q,4,7,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,December,3,No,No,Art &amp; Music
+124,blue,LILA-K2,SS14,    bz79tq3q,5,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,August,1,No,Yes,Art &amp; Music
+125,orange,LILA-K2,SS14,    bz79tq3q,6,7,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,May,23,No,Yes,Sciences &amp; Technology
+126,blue,LILA-K2,SS14,    bz79tq3q,7,7,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,June,27,No,Yes,Math
+127,orange,LILA-K2,SS14,    bz79tq3q,8,7,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,May,19,Yes,No,Art &amp; Music
+128,blue,LILA-K2,SS14,    bz79tq3q,9,7,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,May,22,No,No,Math
+129,orange,LILA-K2,SS14,    bz79tq3q,10,7,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,October,12,No,No,Languages
+130,orange,LILA-K2,SS14,    bz79tq3q,11,7,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,January,26,Yes,No,Math
+131,orange,LILA-K2,SS14,    bz79tq3q,12,7,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,18,No,No,Art &amp; Music
+132,blue,LILA-K2,SS14,    bz79tq3q,1,8,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,16,No,No,Art &amp; Music
+133,orange,LILA-K2,SS14,    bz79tq3q,2,8,4,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,November,2,Yes,No,Art &amp; Music
+134,blue,LILA-K2,SS14,    bz79tq3q,3,8,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,October,2,Yes,Yes,Math
+135,blue,LILA-K2,SS14,    bz79tq3q,4,8,4,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,December,3,No,No,Art &amp; Music
+136,blue,LILA-K2,SS14,    bz79tq3q,5,8,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,August,1,No,Yes,Art &amp; Music
+137,orange,LILA-K2,SS14,    bz79tq3q,6,8,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,May,23,No,Yes,Sciences &amp; Technology
+138,blue,LILA-K2,SS14,    bz79tq3q,7,8,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,27,No,Yes,Math
+139,orange,LILA-K2,SS14,    bz79tq3q,8,8,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,May,19,Yes,No,Art &amp; Music
+140,blue,LILA-K2,SS14,    bz79tq3q,9,8,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,May,22,No,No,Math
+141,orange,LILA-K2,SS14,    bz79tq3q,10,8,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,October,12,No,No,Languages
+142,orange,LILA-K2,SS14,    bz79tq3q,11,8,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,January,26,Yes,No,Math
+143,orange,LILA-K2,SS14,    bz79tq3q,12,8,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,March,18,No,No,Art &amp; Music
+144,blue,LILA-K2,SS15,aza4nuh5,9,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,August,12,No,No,Art &amp; Music
+145,orange,LILA-K2,SS15,aza4nuh5,12,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,19,No,Yes,History
+146,orange,LILA-K2,SS15,aza4nuh5,10,5,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2013,January,1,No,Yes,Art &amp; Music
+147,blue,LILA-K2,SS15,aza4nuh5,5,5,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,September,14,Yes,No,Art &amp; Music
+148,blue,LILA-K2,SS15,aza4nuh5,11,5,6,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2013,July,13,Yes,No,Art &amp; Music
+149,orange,LILA-K2,SS15,aza4nuh5,6,5,6,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,February,3,No,No,Sciences &amp; Technology
+150,blue,LILA-K2,SS15,aza4nuh5,7,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,September,9,No,Yes,Math
+151,blue,LILA-K2,SS15,aza4nuh5,8,5,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,September,11,Yes,No,Math
+152,blue,LILA-K2,SS15,aza4nuh5,1,5,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2012,May,9,No,No,Sciences &amp; Technology
+153,orange,LILA-K2,SS15,aza4nuh5,2,5,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,November,21,Yes,No,History
+154,orange,LILA-K2,SS15,aza4nuh5,3,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,January,1,No,Yes,History
+155,orange,LILA-K2,SS15,aza4nuh5,4,5,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,February,25,No,Yes,History
+156,blue,LILA-K2,SS15,    aza4nuh5,9,6,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,August,12,No,No,Art &amp; Music
+157,orange,LILA-K2,SS15,    aza4nuh5,12,6,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,19,No,Yes,History
+158,orange,LILA-K2,SS15,    aza4nuh5,10,6,1,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,1,2013,January,1,No,Yes,Art &amp; Music
+159,blue,LILA-K2,SS15,    aza4nuh5,5,6,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,September,14,Yes,No,Art &amp; Music
+160,blue,LILA-K2,SS15,    aza4nuh5,11,6,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2013,July,13,Yes,No,Art &amp; Music
+161,orange,LILA-K2,SS15,    aza4nuh5,6,6,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,February,3,No,No,Sciences &amp; Technology
+162,blue,LILA-K2,SS15,    aza4nuh5,7,6,1,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,September,9,No,Yes,Math
+163,blue,LILA-K2,SS15,    aza4nuh5,8,6,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,September,11,Yes,No,Math
+164,blue,LILA-K2,SS15,    aza4nuh5,1,6,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2012,May,9,No,No,Sciences &amp; Technology
+165,orange,LILA-K2,SS15,    aza4nuh5,2,6,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2013,November,21,Yes,No,History
+166,orange,LILA-K2,SS15,    aza4nuh5,3,6,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,January,1,No,Yes,History
+167,orange,LILA-K2,SS15,    aza4nuh5,4,6,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,February,25,No,Yes,History
+168,blue,LILA-K2,SS15,    aza4nuh5,9,7,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,August,12,No,No,Art &amp; Music
+169,orange,LILA-K2,SS15,    aza4nuh5,12,7,6,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,July,19,No,Yes,History
+170,orange,LILA-K2,SS15,    aza4nuh5,10,7,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2013,January,1,No,Yes,Art &amp; Music
+171,blue,LILA-K2,SS15,    aza4nuh5,5,7,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,September,14,Yes,No,Art &amp; Music
+172,blue,LILA-K2,SS15,    aza4nuh5,11,7,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,July,13,Yes,No,Art &amp; Music
+173,orange,LILA-K2,SS15,    aza4nuh5,6,7,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,February,3,No,No,Sciences &amp; Technology
+174,blue,LILA-K2,SS15,    aza4nuh5,7,7,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,September,9,No,Yes,Math
+175,blue,LILA-K2,SS15,    aza4nuh5,8,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,September,11,Yes,No,Math
+176,blue,LILA-K2,SS15,    aza4nuh5,1,7,6,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2012,May,9,No,No,Sciences &amp; Technology
+177,orange,LILA-K2,SS15,    aza4nuh5,2,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,November,21,Yes,No,History
+178,orange,LILA-K2,SS15,    aza4nuh5,3,7,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,January,1,No,Yes,History
+179,orange,LILA-K2,SS15,    aza4nuh5,4,7,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,February,25,No,Yes,History
+180,blue,LILA-K2,SS15,    aza4nuh5,9,8,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,August,12,No,No,Art &amp; Music
+181,orange,LILA-K2,SS15,    aza4nuh5,12,8,1,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,19,No,Yes,History
+182,orange,LILA-K2,SS15,    aza4nuh5,10,8,6,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,1,2013,January,1,No,Yes,Art &amp; Music
+183,blue,LILA-K2,SS15,    aza4nuh5,5,8,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,1,2012,September,14,Yes,No,Art &amp; Music
+184,blue,LILA-K2,SS15,    aza4nuh5,11,8,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,July,13,Yes,No,Art &amp; Music
+185,orange,LILA-K2,SS15,    aza4nuh5,6,8,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,February,3,No,No,Sciences &amp; Technology
+186,blue,LILA-K2,SS15,    aza4nuh5,7,8,1,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,September,9,No,Yes,Math
+187,blue,LILA-K2,SS15,    aza4nuh5,8,8,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,September,11,Yes,No,Math
+188,blue,LILA-K2,SS15,    aza4nuh5,1,8,6,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2012,May,9,No,No,Sciences &amp; Technology
+189,orange,LILA-K2,SS15,    aza4nuh5,2,8,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2013,November,21,Yes,No,History
+190,orange,LILA-K2,SS15,    aza4nuh5,3,8,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,January,1,No,Yes,History
+191,orange,LILA-K2,SS15,    aza4nuh5,4,8,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,February,25,No,Yes,History
+192,orange,LILA-K2,SS16,1oflthxw,1,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,5,No,Yes,Sciences &amp; Technology
+193,blue,LILA-K2,SS16,1oflthxw,2,5,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,June,5,Yes,No,Sciences &amp; Technology
+194,orange,LILA-K2,SS16,1oflthxw,3,5,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,April,25,No,Yes,Sciences &amp; Technology
+195,blue,LILA-K2,SS16,1oflthxw,4,5,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,June,24,No,No,Art &amp; Music
+196,blue,LILA-K2,SS16,1oflthxw,5,5,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,August,15,No,Yes,Sciences &amp; Technology
+197,blue,LILA-K2,SS16,1oflthxw,6,5,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,September,15,No,No,Art &amp; Music
+198,orange,LILA-K2,SS16,1oflthxw,7,5,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,4,Yes,No,Languages
+199,orange,LILA-K2,SS16,1oflthxw,8,5,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,25,No,Yes,Languages
+200,blue,LILA-K2,SS16,1oflthxw,9,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,August,8,Yes,No,Sciences &amp; Technology
+201,orange,LILA-K2,SS16,1oflthxw,10,5,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,5,No,No,Math
+202,blue,LILA-K2,SS16,1oflthxw,11,5,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,August,29,No,No,Art &amp; Music
+203,orange,LILA-K2,SS16,1oflthxw,12,5,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,January,23,No,No,Art &amp; Music
+204,orange,LILA-K2,SS16,    1oflthxw,1,6,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,September,5,No,Yes,Sciences &amp; Technology
+205,blue,LILA-K2,SS16,    1oflthxw,2,6,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,5,Yes,No,Sciences &amp; Technology
+206,orange,LILA-K2,SS16,    1oflthxw,3,6,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,April,25,No,Yes,Sciences &amp; Technology
+207,blue,LILA-K2,SS16,    1oflthxw,4,6,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,24,No,No,Art &amp; Music
+208,blue,LILA-K2,SS16,    1oflthxw,5,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,15,No,Yes,Sciences &amp; Technology
+209,blue,LILA-K2,SS16,    1oflthxw,6,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,September,15,No,No,Art &amp; Music
+210,orange,LILA-K2,SS16,    1oflthxw,7,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,4,Yes,No,Languages
+211,orange,LILA-K2,SS16,    1oflthxw,8,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,June,25,No,Yes,Languages
+212,blue,LILA-K2,SS16,    1oflthxw,9,6,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,8,Yes,No,Sciences &amp; Technology
+213,orange,LILA-K2,SS16,    1oflthxw,10,6,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,May,5,No,No,Math
+214,blue,LILA-K2,SS16,    1oflthxw,11,6,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,29,No,No,Art &amp; Music
+215,orange,LILA-K2,SS16,    1oflthxw,12,6,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,January,23,No,No,Art &amp; Music
+216,orange,LILA-K2,SS16,    1oflthxw,1,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,5,No,Yes,Sciences &amp; Technology
+217,blue,LILA-K2,SS16,    1oflthxw,2,7,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,June,5,Yes,No,Sciences &amp; Technology
+218,orange,LILA-K2,SS16,    1oflthxw,3,7,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,April,25,No,Yes,Sciences &amp; Technology
+219,blue,LILA-K2,SS16,    1oflthxw,4,7,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,June,24,No,No,Art &amp; Music
+220,blue,LILA-K2,SS16,    1oflthxw,5,7,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,15,No,Yes,Sciences &amp; Technology
+221,blue,LILA-K2,SS16,    1oflthxw,6,7,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,September,15,No,No,Art &amp; Music
+222,orange,LILA-K2,SS16,    1oflthxw,7,7,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,4,Yes,No,Languages
+223,orange,LILA-K2,SS16,    1oflthxw,8,7,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,25,No,Yes,Languages
+224,blue,LILA-K2,SS16,    1oflthxw,9,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,August,8,Yes,No,Sciences &amp; Technology
+225,orange,LILA-K2,SS16,    1oflthxw,10,7,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,May,5,No,No,Math
+226,blue,LILA-K2,SS16,    1oflthxw,11,7,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,August,29,No,No,Art &amp; Music
+227,orange,LILA-K2,SS16,    1oflthxw,12,7,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,January,23,No,No,Art &amp; Music
+228,orange,LILA-K2,SS16,    1oflthxw,1,8,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,September,5,No,Yes,Sciences &amp; Technology
+229,blue,LILA-K2,SS16,    1oflthxw,2,8,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,June,5,Yes,No,Sciences &amp; Technology
+230,orange,LILA-K2,SS16,    1oflthxw,3,8,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,April,25,No,Yes,Sciences &amp; Technology
+231,blue,LILA-K2,SS16,    1oflthxw,4,8,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,24,No,No,Art &amp; Music
+232,blue,LILA-K2,SS16,    1oflthxw,5,8,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,August,15,No,Yes,Sciences &amp; Technology
+233,blue,LILA-K2,SS16,    1oflthxw,6,8,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,September,15,No,No,Art &amp; Music
+234,orange,LILA-K2,SS16,    1oflthxw,7,8,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,4,Yes,No,Languages
+235,orange,LILA-K2,SS16,    1oflthxw,8,8,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,June,25,No,Yes,Languages
+236,blue,LILA-K2,SS16,    1oflthxw,9,8,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,August,8,Yes,No,Sciences &amp; Technology
+237,orange,LILA-K2,SS16,    1oflthxw,10,8,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,May,5,No,No,Math
+238,blue,LILA-K2,SS16,    1oflthxw,11,8,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,29,No,No,Art &amp; Music
+239,orange,LILA-K2,SS16,    1oflthxw,12,8,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,January,23,No,No,Art &amp; Music
+240,orange,LILA-K2,SS17,d8ajtz4c,10,5,4,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,December,20,No,No,Art &amp; Music
+241,blue,LILA-K2,SS17,d8ajtz4c,9,5,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,July,14,Yes,No,Languages
+242,blue,LILA-K2,SS17,d8ajtz4c,8,5,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,December,29,Yes,No,Literature
+243,blue,LILA-K2,SS17,d8ajtz4c,7,5,4,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,10,Yes,No,Sciences &amp; Technology
+244,orange,LILA-K2,SS17,d8ajtz4c,6,5,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,April,25,No,No,Sciences &amp; Technology
+245,orange,LILA-K2,SS17,d8ajtz4c,5,5,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,November,29,Yes,No,Sciences &amp; Technology
+246,blue,LILA-K2,SS17,d8ajtz4c,4,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,October,13,No,No,Art &amp; Music
+247,blue,LILA-K2,SS17,d8ajtz4c,3,5,1,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,September,12,No,Yes,Math
+248,orange,LILA-K2,SS17,d8ajtz4c,2,5,1,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,October,29,No,Yes,Art &amp; Music
+249,orange,LILA-K2,SS17,d8ajtz4c,1,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,8,No,No,Languages
+250,orange,LILA-K2,SS17,    d8ajtz4c,10,6,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,December,20,No,No,Art &amp; Music
+251,blue,LILA-K2,SS17,    d8ajtz4c,9,6,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,July,14,Yes,No,Languages
+252,blue,LILA-K2,SS17,    d8ajtz4c,8,6,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,December,29,Yes,No,Literature
+253,blue,LILA-K2,SS17,    d8ajtz4c,7,6,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,10,Yes,No,Sciences &amp; Technology
+254,orange,LILA-K2,SS17,    d8ajtz4c,6,6,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,April,25,No,No,Sciences &amp; Technology
+255,orange,LILA-K2,SS17,    d8ajtz4c,5,6,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,29,Yes,No,Sciences &amp; Technology
+256,blue,LILA-K2,SS17,    d8ajtz4c,4,6,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,K,2013,October,13,No,No,Art &amp; Music
+257,blue,LILA-K2,SS17,    d8ajtz4c,3,6,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,September,12,No,Yes,Math
+258,orange,LILA-K2,SS17,    d8ajtz4c,2,6,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,October,29,No,Yes,Art &amp; Music
+259,orange,LILA-K2,SS17,    d8ajtz4c,1,6,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,September,8,No,No,Languages
+260,orange,LILA-K2,SS17,    d8ajtz4c,10,7,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,December,20,No,No,Art &amp; Music
+261,blue,LILA-K2,SS17,    d8ajtz4c,9,7,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,July,14,Yes,No,Languages
+262,blue,LILA-K2,SS17,    d8ajtz4c,8,7,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,December,29,Yes,No,Literature
+263,blue,LILA-K2,SS17,    d8ajtz4c,7,7,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,July,10,Yes,No,Sciences &amp; Technology
+264,orange,LILA-K2,SS17,    d8ajtz4c,6,7,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,April,25,No,No,Sciences &amp; Technology
+265,orange,LILA-K2,SS17,    d8ajtz4c,5,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,29,Yes,No,Sciences &amp; Technology
+266,blue,LILA-K2,SS17,    d8ajtz4c,4,7,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,October,13,No,No,Art &amp; Music
+267,blue,LILA-K2,SS17,    d8ajtz4c,3,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,September,12,No,Yes,Math
+268,orange,LILA-K2,SS17,    d8ajtz4c,2,7,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,October,29,No,Yes,Art &amp; Music
+269,orange,LILA-K2,SS17,    d8ajtz4c,1,7,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,8,No,No,Languages
+270,orange,LILA-K2,SS17,    d8ajtz4c,10,8,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,December,20,No,No,Art &amp; Music
+271,blue,LILA-K2,SS17,    d8ajtz4c,9,8,1,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,July,14,Yes,No,Languages
+272,blue,LILA-K2,SS17,    d8ajtz4c,8,8,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,December,29,Yes,No,Literature
+273,blue,LILA-K2,SS17,    d8ajtz4c,7,8,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,July,10,Yes,No,Sciences &amp; Technology
+274,orange,LILA-K2,SS17,    d8ajtz4c,6,8,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,April,25,No,No,Sciences &amp; Technology
+275,orange,LILA-K2,SS17,    d8ajtz4c,5,8,1,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,November,29,Yes,No,Sciences &amp; Technology
+276,blue,LILA-K2,SS17,    d8ajtz4c,4,8,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,October,13,No,No,Art &amp; Music
+277,blue,LILA-K2,SS17,    d8ajtz4c,3,8,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,September,12,No,Yes,Math
+278,orange,LILA-K2,SS17,    d8ajtz4c,2,8,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,October,29,No,Yes,Art &amp; Music
+279,orange,LILA-K2,SS17,    d8ajtz4c,1,8,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,8,No,No,Languages
+280,blue,LILA-K2,SS18,ch4sau7q,12,5,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,9,No,No,Sciences &amp; Technology
+281,blue,LILA-K2,SS18,ch4sau7q,11,5,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,8,Yes,Yes,Languages
+282,orange,LILA-K2,SS18,ch4sau7q,10,5,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,November,1,No,Yes,Languages
+283,blue,LILA-K2,SS18,ch4sau7q,9,5,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,January,29,Yes,No,Art &amp; Music
+284,orange,LILA-K2,SS18,ch4sau7q,8,5,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,September,10,Yes,No,Sciences &amp; Technology
+285,orange,LILA-K2,SS18,ch4sau7q,7,5,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,May,29,No,No,Languages
+286,orange,LILA-K2,SS18,ch4sau7q,6,5,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,May,8,Yes,No,Languages
+287,orange,LILA-K2,SS18,ch4sau7q,5,5,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,August,30,No,Yes,Math
+288,orange,LILA-K2,SS18,ch4sau7q,4,5,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,April,8,No,No,Sciences &amp; Technology
+289,blue,LILA-K2,SS18,ch4sau7q,3,5,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2012,July,18,Yes,No,Sciences &amp; Technology
+290,blue,LILA-K2,SS18,ch4sau7q,2,5,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,6,Yes,No,Sciences &amp; Technology
+291,blue,LILA-K2,SS18,ch4sau7q,1,5,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,January,23,No,Yes,Math
+292,blue,LILA-K2,SS18,    ch4sau7q,12,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,9,No,No,Sciences &amp; Technology
+293,blue,LILA-K2,SS18,    ch4sau7q,11,6,4,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,May,8,Yes,Yes,Languages
+294,orange,LILA-K2,SS18,    ch4sau7q,10,6,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,November,1,No,Yes,Languages
+295,blue,LILA-K2,SS18,    ch4sau7q,9,6,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,January,29,Yes,No,Art &amp; Music
+296,orange,LILA-K2,SS18,    ch4sau7q,8,6,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,September,10,Yes,No,Sciences &amp; Technology
+297,orange,LILA-K2,SS18,    ch4sau7q,7,6,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,29,No,No,Languages
+298,orange,LILA-K2,SS18,    ch4sau7q,6,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,May,8,Yes,No,Languages
+299,orange,LILA-K2,SS18,    ch4sau7q,5,6,4,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2012,August,30,No,Yes,Math
+300,orange,LILA-K2,SS18,    ch4sau7q,4,6,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,April,8,No,No,Sciences &amp; Technology
+301,blue,LILA-K2,SS18,    ch4sau7q,3,6,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,July,18,Yes,No,Sciences &amp; Technology
+302,blue,LILA-K2,SS18,    ch4sau7q,2,6,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,6,Yes,No,Sciences &amp; Technology
+303,blue,LILA-K2,SS18,    ch4sau7q,1,6,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,January,23,No,Yes,Math
+304,blue,LILA-K2,SS18,    ch4sau7q,12,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,May,9,No,No,Sciences &amp; Technology
+305,blue,LILA-K2,SS18,    ch4sau7q,11,7,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,May,8,Yes,Yes,Languages
+306,orange,LILA-K2,SS18,    ch4sau7q,10,7,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,1,No,Yes,Languages
+307,blue,LILA-K2,SS18,    ch4sau7q,9,7,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,January,29,Yes,No,Art &amp; Music
+308,orange,LILA-K2,SS18,    ch4sau7q,8,7,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,September,10,Yes,No,Sciences &amp; Technology
+309,orange,LILA-K2,SS18,    ch4sau7q,7,7,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,29,No,No,Languages
+310,orange,LILA-K2,SS18,    ch4sau7q,6,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,May,8,Yes,No,Languages
+311,orange,LILA-K2,SS18,    ch4sau7q,5,7,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,August,30,No,Yes,Math
+312,orange,LILA-K2,SS18,    ch4sau7q,4,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,April,8,No,No,Sciences &amp; Technology
+313,blue,LILA-K2,SS18,    ch4sau7q,3,7,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,July,18,Yes,No,Sciences &amp; Technology
+314,blue,LILA-K2,SS18,    ch4sau7q,2,7,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,6,Yes,No,Sciences &amp; Technology
+315,blue,LILA-K2,SS18,    ch4sau7q,1,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,January,23,No,Yes,Math
+316,blue,LILA-K2,SS18,    ch4sau7q,12,8,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,May,9,No,No,Sciences &amp; Technology
+317,blue,LILA-K2,SS18,    ch4sau7q,11,8,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,8,Yes,Yes,Languages
+318,orange,LILA-K2,SS18,    ch4sau7q,10,8,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,November,1,No,Yes,Languages
+319,blue,LILA-K2,SS18,    ch4sau7q,9,8,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,January,29,Yes,No,Art &amp; Music
+320,orange,LILA-K2,SS18,    ch4sau7q,8,8,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,September,10,Yes,No,Sciences &amp; Technology
+321,orange,LILA-K2,SS18,    ch4sau7q,7,8,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,May,29,No,No,Languages
+322,orange,LILA-K2,SS18,    ch4sau7q,6,8,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,May,8,Yes,No,Languages
+323,orange,LILA-K2,SS18,    ch4sau7q,5,8,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,August,30,No,Yes,Math
+324,orange,LILA-K2,SS18,    ch4sau7q,4,8,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,April,8,No,No,Sciences &amp; Technology
+325,blue,LILA-K2,SS18,    ch4sau7q,3,8,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,July,18,Yes,No,Sciences &amp; Technology
+326,blue,LILA-K2,SS18,    ch4sau7q,2,8,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,6,Yes,No,Sciences &amp; Technology
+327,blue,LILA-K2,SS18,    ch4sau7q,1,8,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,January,23,No,Yes,Math
+328,orange,LILA-K2,SS21,klwxi2xk,12,5,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,July,2,No,Yes,Art &amp; Music
+329,blue,LILA-K2,SS21,klwxi2xk,10,5,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,January,1,No,Yes,Math
+330,orange,LILA-K2,SS21,klwxi2xk,8,5,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,1,2012,June,6,Yes,No,Art &amp; Music
+331,orange,LILA-K2,SS21,klwxi2xk,7,5,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,September,4,No,Yes,Literature
+332,orange,LILA-K2,SS21,klwxi2xk,5,5,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,June,16,No,No,Math
+333,blue,LILA-K2,SS21,klwxi2xk,3,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,October,22,No,Yes,Art &amp; Music
+334,blue,LILA-K2,SS21,klwxi2xk,11,5,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,September,17,No,No,Sciences &amp; Technology
+335,blue,LILA-K2,SS21,klwxi2xk,9,5,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2011,December,7,No,No,Art &amp; Music
+336,orange,LILA-K2,SS21,klwxi2xk,6,5,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,July,10,Yes,No,Math
+337,blue,LILA-K2,SS21,klwxi2xk,4,5,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2012,December,4,No,No,Art &amp; Music
+338,blue,LILA-K2,SS21,klwxi2xk,2,5,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,March,2,No,Yes,Art &amp; Music
+339,orange,LILA-K2,SS21,klwxi2xk,1,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,January,7,No,Yes,Art &amp; Music
+340,orange,LILA-K2,SS21,    klwxi2xk,12,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,July,2,No,Yes,Art &amp; Music
+341,blue,LILA-K2,SS21,    klwxi2xk,10,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,January,1,No,Yes,Math
+342,orange,LILA-K2,SS21,    klwxi2xk,8,6,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,June,6,Yes,No,Art &amp; Music
+343,orange,LILA-K2,SS21,    klwxi2xk,7,6,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,September,4,No,Yes,Literature
+344,orange,LILA-K2,SS21,    klwxi2xk,5,6,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,June,16,No,No,Math
+345,blue,LILA-K2,SS21,    klwxi2xk,3,6,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,October,22,No,Yes,Art &amp; Music
+346,blue,LILA-K2,SS21,    klwxi2xk,11,6,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,September,17,No,No,Sciences &amp; Technology
+347,blue,LILA-K2,SS21,    klwxi2xk,9,6,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2011,December,7,No,No,Art &amp; Music
+348,orange,LILA-K2,SS21,    klwxi2xk,6,6,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,July,10,Yes,No,Math
+349,blue,LILA-K2,SS21,    klwxi2xk,4,6,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,December,4,No,No,Art &amp; Music
+350,blue,LILA-K2,SS21,    klwxi2xk,2,6,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,March,2,No,Yes,Art &amp; Music
+351,orange,LILA-K2,SS21,    klwxi2xk,1,6,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2013,January,7,No,Yes,Art &amp; Music
+352,orange,LILA-K2,SS21,    klwxi2xk,12,7,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,July,2,No,Yes,Art &amp; Music
+353,blue,LILA-K2,SS21,    klwxi2xk,10,7,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,January,1,No,Yes,Math
+354,orange,LILA-K2,SS21,    klwxi2xk,8,7,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,1,2012,June,6,Yes,No,Art &amp; Music
+355,orange,LILA-K2,SS21,    klwxi2xk,7,7,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,September,4,No,Yes,Literature
+356,orange,LILA-K2,SS21,    klwxi2xk,5,7,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,June,16,No,No,Math
+357,blue,LILA-K2,SS21,    klwxi2xk,3,7,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,October,22,No,Yes,Art &amp; Music
+358,blue,LILA-K2,SS21,    klwxi2xk,11,7,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,September,17,No,No,Sciences &amp; Technology
+359,blue,LILA-K2,SS21,    klwxi2xk,9,7,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2011,December,7,No,No,Art &amp; Music
+360,orange,LILA-K2,SS21,    klwxi2xk,6,7,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,July,10,Yes,No,Math
+361,blue,LILA-K2,SS21,    klwxi2xk,4,7,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,December,4,No,No,Art &amp; Music
+362,blue,LILA-K2,SS21,    klwxi2xk,2,7,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,March,2,No,Yes,Art &amp; Music
+363,orange,LILA-K2,SS21,    klwxi2xk,1,7,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2013,January,7,No,Yes,Art &amp; Music
+364,orange,LILA-K2,SS21,    klwxi2xk,12,8,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,July,2,No,Yes,Art &amp; Music
+365,blue,LILA-K2,SS21,    klwxi2xk,10,8,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,January,1,No,Yes,Math
+366,orange,LILA-K2,SS21,    klwxi2xk,8,8,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,June,6,Yes,No,Art &amp; Music
+367,orange,LILA-K2,SS21,    klwxi2xk,7,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,September,4,No,Yes,Literature
+368,orange,LILA-K2,SS21,    klwxi2xk,5,8,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,June,16,No,No,Math
+369,blue,LILA-K2,SS21,    klwxi2xk,3,8,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,October,22,No,Yes,Art &amp; Music
+370,blue,LILA-K2,SS21,    klwxi2xk,11,8,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,September,17,No,No,Sciences &amp; Technology
+371,blue,LILA-K2,SS21,    klwxi2xk,9,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2011,December,7,No,No,Art &amp; Music
+372,orange,LILA-K2,SS21,    klwxi2xk,6,8,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,July,10,Yes,No,Math
+373,blue,LILA-K2,SS21,    klwxi2xk,4,8,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,December,4,No,No,Art &amp; Music
+374,blue,LILA-K2,SS21,    klwxi2xk,2,8,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,March,2,No,Yes,Art &amp; Music
+375,orange,LILA-K2,SS21,    klwxi2xk,1,8,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2013,January,7,No,Yes,Art &amp; Music
+376,orange,LILA-K2,SS22,1zmry4u6,12,5,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,October,29,No,No,Languages
+377,blue,LILA-K2,SS22,1zmry4u6,11,5,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,November,8,No,No,Math
+378,orange,LILA-K2,SS22,1zmry4u6,10,5,3,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,1,2012,November,11,Yes,No,Sciences &amp; Technology
+379,orange,LILA-K2,SS22,1zmry4u6,9,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,August,15,Yes,No,Literature
+380,blue,LILA-K2,SS22,1zmry4u6,8,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,June,18,No,No,Art &amp; Music
+381,blue,LILA-K2,SS22,1zmry4u6,7,5,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,February,7,Yes,No,Sciences &amp; Technology
+382,orange,LILA-K2,SS22,1zmry4u6,6,5,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,K,2013,September,24,Yes,No,Languages
+383,orange,LILA-K2,SS22,1zmry4u6,5,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,May,26,Yes,Yes,Art &amp; Music
+384,blue,LILA-K2,SS22,1zmry4u6,4,5,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,April,6,No,Yes,Languages
+385,orange,LILA-K2,SS22,1zmry4u6,3,5,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,13,Yes,No,Art &amp; Music
+386,blue,LILA-K2,SS22,1zmry4u6,2,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,July,6,Yes,No,Sciences &amp; Technology
+387,blue,LILA-K2,SS22,1zmry4u6,1,5,3,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,1,2012,July,12,No,No,Math
+388,orange,LILA-K2,SS22,    1zmry4u6,12,6,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,K,2013,October,29,No,No,Languages
+389,blue,LILA-K2,SS22,    1zmry4u6,11,6,5,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,November,8,No,No,Math
+390,orange,LILA-K2,SS22,    1zmry4u6,10,6,2,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,1,2012,November,11,Yes,No,Sciences &amp; Technology
+391,orange,LILA-K2,SS22,    1zmry4u6,9,6,1,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,August,15,Yes,No,Literature
+392,blue,LILA-K2,SS22,    1zmry4u6,8,6,2,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,1,2012,June,18,No,No,Art &amp; Music
+393,blue,LILA-K2,SS22,    1zmry4u6,7,6,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,February,7,Yes,No,Sciences &amp; Technology
+394,orange,LILA-K2,SS22,    1zmry4u6,6,6,5,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,24,Yes,No,Languages
+395,orange,LILA-K2,SS22,    1zmry4u6,5,6,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,May,26,Yes,Yes,Art &amp; Music
+396,blue,LILA-K2,SS22,    1zmry4u6,4,6,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,April,6,No,Yes,Languages
+397,orange,LILA-K2,SS22,    1zmry4u6,3,6,6,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,13,Yes,No,Art &amp; Music
+398,blue,LILA-K2,SS22,    1zmry4u6,2,6,6,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,July,6,Yes,No,Sciences &amp; Technology
+399,blue,LILA-K2,SS22,    1zmry4u6,1,6,1,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,1,2012,July,12,No,No,Math
+400,orange,LILA-K2,SS22,    1zmry4u6,12,7,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,October,29,No,No,Languages
+401,blue,LILA-K2,SS22,    1zmry4u6,11,7,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,8,No,No,Math
+402,orange,LILA-K2,SS22,    1zmry4u6,10,7,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,November,11,Yes,No,Sciences &amp; Technology
+403,orange,LILA-K2,SS22,    1zmry4u6,9,7,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,August,15,Yes,No,Literature
+404,blue,LILA-K2,SS22,    1zmry4u6,8,7,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,June,18,No,No,Art &amp; Music
+405,blue,LILA-K2,SS22,    1zmry4u6,7,7,6,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,February,7,Yes,No,Sciences &amp; Technology
+406,orange,LILA-K2,SS22,    1zmry4u6,6,7,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,September,24,Yes,No,Languages
+407,orange,LILA-K2,SS22,    1zmry4u6,5,7,6,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,M,K,2013,May,26,Yes,Yes,Art &amp; Music
+408,blue,LILA-K2,SS22,    1zmry4u6,4,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,April,6,No,Yes,Languages
+409,orange,LILA-K2,SS22,    1zmry4u6,3,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,13,Yes,No,Art &amp; Music
+410,blue,LILA-K2,SS22,    1zmry4u6,2,7,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,July,6,Yes,No,Sciences &amp; Technology
+411,blue,LILA-K2,SS22,    1zmry4u6,1,7,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,July,12,No,No,Math
+412,orange,LILA-K2,SS22,    1zmry4u6,12,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,K,2013,October,29,No,No,Languages
+413,blue,LILA-K2,SS22,    1zmry4u6,11,8,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,November,8,No,No,Math
+414,orange,LILA-K2,SS22,    1zmry4u6,10,8,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,November,11,Yes,No,Sciences &amp; Technology
+415,orange,LILA-K2,SS22,    1zmry4u6,9,8,1,blue,arrow,None,arrow,None,None,None,None,None,None,None,None,None,1,M,K,2013,August,15,Yes,No,Literature
+416,blue,LILA-K2,SS22,    1zmry4u6,8,8,1,orange,None,arrow,None,stop,None,None,None,None,None,None,None,None,5,F,1,2012,June,18,No,No,Art &amp; Music
+417,blue,LILA-K2,SS22,    1zmry4u6,7,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,K,2013,February,7,Yes,No,Sciences &amp; Technology
+418,orange,LILA-K2,SS22,    1zmry4u6,6,8,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,K,2013,September,24,Yes,No,Languages
+419,orange,LILA-K2,SS22,    1zmry4u6,5,8,6,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,K,2013,May,26,Yes,Yes,Art &amp; Music
+420,blue,LILA-K2,SS22,    1zmry4u6,4,8,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,K,2013,April,6,No,Yes,Languages
+421,orange,LILA-K2,SS22,    1zmry4u6,3,8,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,K,2013,August,13,Yes,No,Art &amp; Music
+422,blue,LILA-K2,SS22,    1zmry4u6,2,8,6,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,July,6,Yes,No,Sciences &amp; Technology
+423,blue,LILA-K2,SS22,    1zmry4u6,1,8,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,July,12,No,No,Math
+424,blue,LILA-K2,SS23,5myon7b4,14,5,7,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,June,17,Yes,Yes,Sciences &amp; Technology
+425,orange,LILA-K2,SS23,5myon7b4,12,5,7,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,January,3,Yes,Yes,History
+426,blue,LILA-K2,SS23,5myon7b4,11,5,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,June,18,No,No,Math
+427,orange,LILA-K2,SS23,5myon7b4,9,5,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,November,19,No,No,History
+428,blue,LILA-K2,SS23,5myon7b4,7,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,February,12,Yes,No,Art &amp; Music
+429,blue,LILA-K2,SS23,5myon7b4,5,5,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,April,13,Yes,No,History
+430,blue,LILA-K2,SS23,5myon7b4,4,5,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,November,4,No,Yes,Sciences &amp; Technology
+431,orange,LILA-K2,SS23,5myon7b4,2,5,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,November,19,Yes,No,Math
+432,blue,LILA-K2,SS23,5myon7b4,13,5,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,16,No,Yes,Art &amp; Music
+433,orange,LILA-K2,SS23,5myon7b4,10,5,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,May,21,Yes,No,History
+434,orange,LILA-K2,SS23,5myon7b4,8,5,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,September,13,No,Yes,Art &amp; Music
+435,blue,LILA-K2,SS23,5myon7b4,6,5,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,2,Yes,No,Math
+436,orange,LILA-K2,SS23,5myon7b4,3,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,November,8,No,No,Art &amp; Music
+437,orange,LILA-K2,SS23,5myon7b4,1,5,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,April,10,No,No,History
+438,blue,LILA-K2,SS23,    5myon7b4,14,6,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,June,17,Yes,Yes,Sciences &amp; Technology
+439,orange,LILA-K2,SS23,    5myon7b4,12,6,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,January,3,Yes,Yes,History
+440,blue,LILA-K2,SS23,    5myon7b4,11,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,June,18,No,No,Math
+441,orange,LILA-K2,SS23,    5myon7b4,9,6,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,19,No,No,History
+442,blue,LILA-K2,SS23,    5myon7b4,7,6,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,12,Yes,No,Art &amp; Music
+443,blue,LILA-K2,SS23,    5myon7b4,5,6,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,13,Yes,No,History
+444,blue,LILA-K2,SS23,    5myon7b4,4,6,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,November,4,No,Yes,Sciences &amp; Technology
+445,orange,LILA-K2,SS23,    5myon7b4,2,6,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,November,19,Yes,No,Math
+446,blue,LILA-K2,SS23,    5myon7b4,13,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,16,No,Yes,Art &amp; Music
+447,orange,LILA-K2,SS23,    5myon7b4,10,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,May,21,Yes,No,History
+448,orange,LILA-K2,SS23,    5myon7b4,8,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,September,13,No,Yes,Art &amp; Music
+449,blue,LILA-K2,SS23,    5myon7b4,6,6,7,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,February,2,Yes,No,Math
+450,orange,LILA-K2,SS23,    5myon7b4,3,6,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,8,No,No,Art &amp; Music
+451,orange,LILA-K2,SS23,    5myon7b4,1,6,7,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,10,No,No,History
+452,blue,LILA-K2,SS23,    5myon7b4,14,7,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,June,17,Yes,Yes,Sciences &amp; Technology
+453,orange,LILA-K2,SS23,    5myon7b4,12,7,7,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,January,3,Yes,Yes,History
+454,blue,LILA-K2,SS23,    5myon7b4,11,7,7,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,June,18,No,No,Math
+455,orange,LILA-K2,SS23,    5myon7b4,9,7,6,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,November,19,No,No,History
+456,blue,LILA-K2,SS23,    5myon7b4,7,7,6,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,12,Yes,No,Art &amp; Music
+457,blue,LILA-K2,SS23,    5myon7b4,5,7,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,April,13,Yes,No,History
+458,blue,LILA-K2,SS23,    5myon7b4,4,7,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,November,4,No,Yes,Sciences &amp; Technology
+459,orange,LILA-K2,SS23,    5myon7b4,2,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,November,19,Yes,No,Math
+460,blue,LILA-K2,SS23,    5myon7b4,13,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,July,16,No,Yes,Art &amp; Music
+461,orange,LILA-K2,SS23,    5myon7b4,10,7,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,May,21,Yes,No,History
+462,orange,LILA-K2,SS23,    5myon7b4,8,7,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,September,13,No,Yes,Art &amp; Music
+463,blue,LILA-K2,SS23,    5myon7b4,6,7,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,2,Yes,No,Math
+464,orange,LILA-K2,SS23,    5myon7b4,3,7,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,November,8,No,No,Art &amp; Music
+465,orange,LILA-K2,SS23,    5myon7b4,1,7,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,10,No,No,History
+466,blue,LILA-K2,SS23,    5myon7b4,14,8,7,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,June,17,Yes,Yes,Sciences &amp; Technology
+467,orange,LILA-K2,SS23,    5myon7b4,12,8,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,January,3,Yes,Yes,History
+468,blue,LILA-K2,SS23,    5myon7b4,11,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,June,18,No,No,Math
+469,orange,LILA-K2,SS23,    5myon7b4,9,8,6,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,19,No,No,History
+470,blue,LILA-K2,SS23,    5myon7b4,7,8,6,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,12,Yes,No,Art &amp; Music
+471,blue,LILA-K2,SS23,    5myon7b4,5,8,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,April,13,Yes,No,History
+472,blue,LILA-K2,SS23,    5myon7b4,4,8,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,November,4,No,Yes,Sciences &amp; Technology
+473,orange,LILA-K2,SS23,    5myon7b4,2,8,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,November,19,Yes,No,Math
+474,blue,LILA-K2,SS23,    5myon7b4,13,8,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,July,16,No,Yes,Art &amp; Music
+475,orange,LILA-K2,SS23,    5myon7b4,10,8,7,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,May,21,Yes,No,History
+476,orange,LILA-K2,SS23,    5myon7b4,8,8,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,September,13,No,Yes,Art &amp; Music
+477,blue,LILA-K2,SS23,    5myon7b4,6,8,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,2,Yes,No,Math
+478,orange,LILA-K2,SS23,    5myon7b4,3,8,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,8,No,No,Art &amp; Music
+479,orange,LILA-K2,SS23,    5myon7b4,1,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,April,10,No,No,History
+480,orange,LILA-K2,SS24,faouk8yv,10,5,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,April,3,No,No,Art &amp; Music
+481,orange,LILA-K2,SS24,faouk8yv,9,5,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,17,Yes,No,Art &amp; Music
+482,blue,LILA-K2,SS24,faouk8yv,8,5,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2013,August,6,No,No,Math
+483,blue,LILA-K2,SS24,faouk8yv,7,5,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,1,2012,January,1,Yes,Yes,Math
+484,orange,LILA-K2,SS24,faouk8yv,6,5,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,February,7,No,No,Math
+485,blue,LILA-K2,SS24,faouk8yv,5,5,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,June,30,No,No,Math
+486,orange,LILA-K2,SS24,faouk8yv,4,5,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,April,22,Yes,No,Math
+487,blue,LILA-K2,SS24,faouk8yv,3,5,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,March,7,No,Yes,Math
+488,orange,LILA-K2,SS24,faouk8yv,2,5,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,March,13,No,No,Art &amp; Music
+489,blue,LILA-K2,SS24,faouk8yv,1,5,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,February,1,Yes,Yes,Math
+490,orange,LILA-K2,SS24,    faouk8yv,10,6,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,April,3,No,No,Art &amp; Music
+491,orange,LILA-K2,SS24,    faouk8yv,9,6,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,1,2012,May,17,Yes,No,Art &amp; Music
+492,blue,LILA-K2,SS24,    faouk8yv,8,6,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,August,6,No,No,Math
+493,blue,LILA-K2,SS24,    faouk8yv,7,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,January,1,Yes,Yes,Math
+494,orange,LILA-K2,SS24,    faouk8yv,6,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,February,7,No,No,Math
+495,blue,LILA-K2,SS24,    faouk8yv,5,6,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,June,30,No,No,Math
+496,orange,LILA-K2,SS24,    faouk8yv,4,6,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,April,22,Yes,No,Math
+497,blue,LILA-K2,SS24,    faouk8yv,3,6,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,March,7,No,Yes,Math
+498,orange,LILA-K2,SS24,    faouk8yv,2,6,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,March,13,No,No,Art &amp; Music
+499,blue,LILA-K2,SS24,    faouk8yv,1,6,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,February,1,Yes,Yes,Math
+500,orange,LILA-K2,SS24,    faouk8yv,10,7,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,April,3,No,No,Art &amp; Music
+501,orange,LILA-K2,SS24,    faouk8yv,9,7,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,17,Yes,No,Art &amp; Music
+502,blue,LILA-K2,SS24,    faouk8yv,8,7,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2013,August,6,No,No,Math
+503,blue,LILA-K2,SS24,    faouk8yv,7,7,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,January,1,Yes,Yes,Math
+504,orange,LILA-K2,SS24,    faouk8yv,6,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,February,7,No,No,Math
+505,blue,LILA-K2,SS24,    faouk8yv,5,7,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,June,30,No,No,Math
+506,orange,LILA-K2,SS24,    faouk8yv,4,7,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,April,22,Yes,No,Math
+507,blue,LILA-K2,SS24,    faouk8yv,3,7,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,March,7,No,Yes,Math
+508,orange,LILA-K2,SS24,    faouk8yv,2,7,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,March,13,No,No,Art &amp; Music
+509,blue,LILA-K2,SS24,    faouk8yv,1,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,February,1,Yes,Yes,Math
+510,orange,LILA-K2,SS24,    faouk8yv,10,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,1,2012,April,3,No,No,Art &amp; Music
+511,orange,LILA-K2,SS24,    faouk8yv,9,8,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,May,17,Yes,No,Art &amp; Music
+512,blue,LILA-K2,SS24,    faouk8yv,8,8,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2013,August,6,No,No,Math
+513,blue,LILA-K2,SS24,    faouk8yv,7,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,January,1,Yes,Yes,Math
+514,orange,LILA-K2,SS24,    faouk8yv,6,8,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,1,2012,February,7,No,No,Math
+515,blue,LILA-K2,SS24,    faouk8yv,5,8,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,June,30,No,No,Math
+516,orange,LILA-K2,SS24,    faouk8yv,4,8,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,1,2012,April,22,Yes,No,Math
+517,blue,LILA-K2,SS24,    faouk8yv,3,8,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,1,2012,March,7,No,Yes,Math
+518,orange,LILA-K2,SS24,    faouk8yv,2,8,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,1,2012,March,13,No,No,Art &amp; Music
+519,blue,LILA-K2,SS24,    faouk8yv,1,8,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,1,2012,February,1,Yes,Yes,Math
+520,orange,LILA-K2,SS25,1hthsv9o,10,5,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,16,No,No,Art &amp; Music
+521,blue,LILA-K2,SS25,1hthsv9o,8,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2010,December,22,Yes,No,History
+522,blue,LILA-K2,SS25,1hthsv9o,6,5,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,September,8,No,Yes,Math
+523,blue,LILA-K2,SS25,1hthsv9o,9,5,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,January,8,Yes,No,History
+524,orange,LILA-K2,SS25,1hthsv9o,7,5,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,November,2,Yes,No,Art &amp; Music
+525,orange,LILA-K2,SS25,1hthsv9o,5,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,11,Yes,No,Literature
+526,orange,LILA-K2,SS25,1hthsv9o,4,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,February,8,No,No,Art &amp; Music
+527,blue,LILA-K2,SS25,1hthsv9o,3,5,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,March,14,Yes,No,History
+528,orange,LILA-K2,SS25,1hthsv9o,2,5,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,19,Yes,No,Sciences &amp; Technology
+529,blue,LILA-K2,SS25,1hthsv9o,1,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,October,7,No,Yes,Art &amp; Music
+530,orange,LILA-K2,SS25,    1hthsv9o,10,6,3,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,April,16,No,No,Art &amp; Music
+531,blue,LILA-K2,SS25,    1hthsv9o,8,6,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2010,December,22,Yes,No,History
+532,blue,LILA-K2,SS25,    1hthsv9o,6,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,September,8,No,Yes,Math
+533,blue,LILA-K2,SS25,    1hthsv9o,9,6,3,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,January,8,Yes,No,History
+534,orange,LILA-K2,SS25,    1hthsv9o,7,6,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,2,Yes,No,Art &amp; Music
+535,orange,LILA-K2,SS25,    1hthsv9o,5,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,February,11,Yes,No,Literature
+536,orange,LILA-K2,SS25,    1hthsv9o,4,6,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,February,8,No,No,Art &amp; Music
+537,blue,LILA-K2,SS25,    1hthsv9o,3,6,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,March,14,Yes,No,History
+538,orange,LILA-K2,SS25,    1hthsv9o,2,6,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,July,19,Yes,No,Sciences &amp; Technology
+539,blue,LILA-K2,SS25,    1hthsv9o,1,6,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,October,7,No,Yes,Art &amp; Music
+540,orange,LILA-K2,SS25,    1hthsv9o,10,7,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,16,No,No,Art &amp; Music
+541,blue,LILA-K2,SS25,    1hthsv9o,8,7,2,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2010,December,22,Yes,No,History
+542,blue,LILA-K2,SS25,    1hthsv9o,6,7,1,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,September,8,No,Yes,Math
+543,blue,LILA-K2,SS25,    1hthsv9o,9,7,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,January,8,Yes,No,History
+544,orange,LILA-K2,SS25,    1hthsv9o,7,7,2,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,November,2,Yes,No,Art &amp; Music
+545,orange,LILA-K2,SS25,    1hthsv9o,5,7,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,February,11,Yes,No,Literature
+546,orange,LILA-K2,SS25,    1hthsv9o,4,7,1,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,February,8,No,No,Art &amp; Music
+547,blue,LILA-K2,SS25,    1hthsv9o,3,7,4,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,March,14,Yes,No,History
+548,orange,LILA-K2,SS25,    1hthsv9o,2,7,4,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,19,Yes,No,Sciences &amp; Technology
+549,blue,LILA-K2,SS25,    1hthsv9o,1,7,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,October,7,No,Yes,Art &amp; Music
+550,orange,LILA-K2,SS25,    1hthsv9o,10,8,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,16,No,No,Art &amp; Music
+551,blue,LILA-K2,SS25,    1hthsv9o,8,8,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2010,December,22,Yes,No,History
+552,blue,LILA-K2,SS25,    1hthsv9o,6,8,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,September,8,No,Yes,Math
+553,blue,LILA-K2,SS25,    1hthsv9o,9,8,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,January,8,Yes,No,History
+554,orange,LILA-K2,SS25,    1hthsv9o,7,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,November,2,Yes,No,Art &amp; Music
+555,orange,LILA-K2,SS25,    1hthsv9o,5,8,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,February,11,Yes,No,Literature
+556,orange,LILA-K2,SS25,    1hthsv9o,4,8,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,February,8,No,No,Art &amp; Music
+557,blue,LILA-K2,SS25,    1hthsv9o,3,8,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,March,14,Yes,No,History
+558,orange,LILA-K2,SS25,    1hthsv9o,2,8,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,19,Yes,No,Sciences &amp; Technology
+559,blue,LILA-K2,SS25,    1hthsv9o,1,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,October,7,No,Yes,Art &amp; Music
+560,orange,LILA-K2,SS26,e8aig7h8,10,5,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,1,No,No,Math
+561,orange,LILA-K2,SS26,e8aig7h8,9,5,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,April,15,Yes,No,Math
+562,orange,LILA-K2,SS26,e8aig7h8,8,5,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,December,27,Yes,Yes,Art &amp; Music
+563,blue,LILA-K2,SS26,e8aig7h8,7,5,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,July,14,No,No,Math
+564,blue,LILA-K2,SS26,e8aig7h8,6,5,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,June,7,No,No,Art &amp; Music
+565,orange,LILA-K2,SS26,e8aig7h8,5,5,5,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,December,7,No,Yes,Art &amp; Music
+566,orange,LILA-K2,SS26,e8aig7h8,4,5,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,30,Yes,No,Math
+567,blue,LILA-K2,SS26,e8aig7h8,3,5,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,August,30,Yes,Yes,Art &amp; Music
+568,blue,LILA-K2,SS26,e8aig7h8,2,5,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,August,22,No,No,Math
+569,blue,LILA-K2,SS26,e8aig7h8,1,5,5,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,August,17,Yes,No,Art &amp; Music
+570,orange,LILA-K2,SS26,    e8aig7h8,10,6,1,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,July,1,No,No,Math
+571,orange,LILA-K2,SS26,    e8aig7h8,9,6,3,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,April,15,Yes,No,Math
+572,orange,LILA-K2,SS26,    e8aig7h8,8,6,2,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,December,27,Yes,Yes,Art &amp; Music
+573,blue,LILA-K2,SS26,    e8aig7h8,7,6,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,14,No,No,Math
+574,blue,LILA-K2,SS26,    e8aig7h8,6,6,3,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,June,7,No,No,Art &amp; Music
+575,orange,LILA-K2,SS26,    e8aig7h8,5,6,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,F,2,2011,December,7,No,Yes,Art &amp; Music
+576,orange,LILA-K2,SS26,    e8aig7h8,4,6,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,30,Yes,No,Math
+577,blue,LILA-K2,SS26,    e8aig7h8,3,6,1,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,August,30,Yes,Yes,Art &amp; Music
+578,blue,LILA-K2,SS26,    e8aig7h8,2,6,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,August,22,No,No,Math
+579,blue,LILA-K2,SS26,    e8aig7h8,1,6,2,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,August,17,Yes,No,Art &amp; Music
+580,orange,LILA-K2,SS26,    e8aig7h8,10,7,5,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,July,1,No,No,Math
+581,orange,LILA-K2,SS26,    e8aig7h8,9,7,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,April,15,Yes,No,Math
+582,orange,LILA-K2,SS26,    e8aig7h8,8,7,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,December,27,Yes,Yes,Art &amp; Music
+583,blue,LILA-K2,SS26,    e8aig7h8,7,7,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,July,14,No,No,Math
+584,blue,LILA-K2,SS26,    e8aig7h8,6,7,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,7,No,No,Art &amp; Music
+585,orange,LILA-K2,SS26,    e8aig7h8,5,7,4,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,December,7,No,Yes,Art &amp; Music
+586,orange,LILA-K2,SS26,    e8aig7h8,4,7,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,June,30,Yes,No,Math
+587,blue,LILA-K2,SS26,    e8aig7h8,3,7,4,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,August,30,Yes,Yes,Art &amp; Music
+588,blue,LILA-K2,SS26,    e8aig7h8,2,7,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,August,22,No,No,Math
+589,blue,LILA-K2,SS26,    e8aig7h8,1,7,5,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,August,17,Yes,No,Art &amp; Music
+590,orange,LILA-K2,SS26,    e8aig7h8,10,8,2,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,July,1,No,No,Math
+591,orange,LILA-K2,SS26,    e8aig7h8,9,8,5,blue,stop,None,None,None,None,None,None,None,None,None,None,None,2,M,2,2011,April,15,Yes,No,Math
+592,orange,LILA-K2,SS26,    e8aig7h8,8,8,4,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,F,2,2011,December,27,Yes,Yes,Art &amp; Music
+593,blue,LILA-K2,SS26,    e8aig7h8,7,8,4,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,July,14,No,No,Math
+594,blue,LILA-K2,SS26,    e8aig7h8,6,8,1,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,M,2,2011,June,7,No,No,Art &amp; Music
+595,orange,LILA-K2,SS26,    e8aig7h8,5,8,1,blue,arrow,None,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,December,7,No,Yes,Art &amp; Music
+596,orange,LILA-K2,SS26,    e8aig7h8,4,8,3,blue,arrow,None,stop,None,None,None,None,None,None,None,None,None,4,M,2,2011,June,30,Yes,No,Math
+597,blue,LILA-K2,SS26,    e8aig7h8,3,8,3,orange,None,arrow,None,None,None,None,None,None,None,None,None,None,1,F,2,2011,August,30,Yes,Yes,Art &amp; Music
+598,blue,LILA-K2,SS26,    e8aig7h8,2,8,5,orange,None,None,None,None,None,None,None,None,None,None,None,None,1,M,2,2011,August,22,No,No,Math
+599,blue,LILA-K2,SS26,    e8aig7h8,1,8,2,orange,None,stop,None,None,None,None,None,None,None,None,None,None,3,F,2,2011,August,17,Yes,No,Art &amp; Music
