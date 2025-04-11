@@ -5,7 +5,7 @@ In this repository you will find:
 For more information about how to use it, please consult the [documentation](https://otree.readthedocs.io/en/latest/). 
 LABEL does not provide assistance if the experimental software is not compatible with newer versions. Experimenters should seek support from the developer and make the appropriate adjustments to the code.
 2.	[Instructions](/Instructions/).
-3.	[Data](/Data/). The folder conatins the raw data from Multisage compiled in one large file and a codebook.
+3.	[Data](/Data/). The folder contains the data from oTree.
 
 ## Reference
 I. Brocas, & J.D. Carrillo, "Why do children pass in the centipede game? Cognitive limitations v. risk calculations”, Games and Economic Behavior (2025).
