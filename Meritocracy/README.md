@@ -4,6 +4,6 @@ In this repository you will find:
 
 Instructions (see paper).
 
-[Data](https://github.com/labelinstitute/dev_DM/tree/main/Dice_Game/Data).
+[Data](https://github.com/labelinstitute/dev_DM/tree/main/Meritocracy/Data).
 
-[Analysis in R code](https://github.com/labelinstitute/dev_DM/tree/main/Dice_Game/Analysis_Code).
+[Analysis in R code](https://github.com/labelinstitute/dev_DM/tree/main/Meritocracy/Analysis_Code).
