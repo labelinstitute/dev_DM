@@ -1,8 +1,7 @@
 # Developmental Decision-Making
 
 In this repository you will find the code, data and instructions for the following publications:
-* [Developmenal meritocracy (2026)]
-(https://github.com/labelinstitute/dev_DM/tree/main/Meritocracy)
+* [Developmenal meritocracy (2026)](https://github.com/labelinstitute/dev_DM/tree/main/Meritocracy)
 
 * [The determinants of strategic thinking in preschool children (2018)](https://github.com/labelinstitute/dev_DM/tree/main/Strategy_PreK)
 
