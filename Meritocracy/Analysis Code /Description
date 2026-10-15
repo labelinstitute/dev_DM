@@ -1,7 +1,0 @@
-Pipeline to reproduce the paper:
-
-Data cleaning and statistical analysis: R
-Generates all analysis tables (in tex format) and analysis graphs (in pdf format).
-
-
-
